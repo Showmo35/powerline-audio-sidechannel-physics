@@ -1,0 +1,27 @@
+{
+  "lattice": "data/lattice_genM22_big.json",
+  "passes": 4,
+  "lam": 1.0,
+  "mu": 0.5,
+  "n_content_all": 1673,
+  "n_cand_slots": 1024,
+  "on_candidate_slots": {
+    "oracle": 0.2548828125,
+    "m24_v3_honest": 0.0205078125
+  },
+  "content_recall_all": {
+    "m24_v3_honest": 0.012552301255230125,
+    "oracle": 0.15600717274357442
+  },
+  "pass_history": [
+    0.015625,
+    0.0185546875,
+    0.01953125,
+    0.0205078125
+  ],
+  "refs": {
+    "channel_only": 0.02,
+    "v1_gt": 0.072,
+    "v2_gt_bidir": 0.122
+  }
+}

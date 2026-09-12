@@ -1,0 +1,50 @@
+Sample 0
+Actual:       pretending to be two people 'but it's no use now' thought poor alice to pretend to
+Pred (CTC):   h the the th a h h te th the the the th toe to o
+Pred (Seq):   
+CER CTC:      0.682927
+CER Seq:      -1.000000
+Actual Audio: sample_0000_actual.wav
+Pred Audio:   sample_0000_pred.wav
+Mel Plot:     sample_0000_mel.png
+
+Sample 1
+Actual:       people 'but it's no use now' thought poor alice to pretend to be two people why
+Pred (CTC):   o a h h te th the the the th toe toe the the ho
+Pred (Seq):   
+CER CTC:      0.658228
+CER Seq:      -1.000000
+Actual Audio: sample_0001_actual.wav
+Pred Audio:   sample_0001_pred.wav
+Mel Plot:     sample_0001_mel.png
+
+Sample 2
+Actual:       'but it's no use now' thought poor alice to pretend to be two people why there's hardly enough of
+Pred (CTC):   a hd the the the the the toe toe the toe the toe toe to o
+Pred (Seq):   
+CER CTC:      0.659794
+CER Seq:      -1.000000
+Actual Audio: sample_0002_actual.wav
+Pred Audio:   sample_0002_pred.wav
+Mel Plot:     sample_0002_mel.png
+
+Sample 3
+Actual:       now' thought poor alice to pretend to be two people why there's hardly enough of me to make one respectable
+Pred (CTC):   oe toe toe the toe toe the toe the toe toe toe the toe th e
+Pred (Seq):   
+CER CTC:      0.635514
+CER Seq:      -1.000000
+Actual Audio: sample_0003_actual.wav
+Pred Audio:   sample_0003_pred.wav
+Mel Plot:     sample_0003_mel.png
+
+Sample 4
+Actual:       poor alice to pretend to be two people why there's hardly enough of me to make one respectable person'
+Pred (CTC):   a toe toe the the the to e toe to the ton the e toe e to oe
+Pred (Seq):   
+CER CTC:      0.647059
+CER Seq:      -1.000000
+Actual Audio: sample_0004_actual.wav
+Pred Audio:   sample_0004_pred.wav
+Mel Plot:     sample_0004_mel.png
+

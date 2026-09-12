@@ -1,0 +1,16 @@
+{
+  "chunk": "chunk_002",
+  "start_s": 0.0,
+  "dur_s": 60.0,
+  "whisper_model": "small",
+  "f_mains_hz": 59.889,
+  "reference_transcript": "Some of the apartments were closed within and without. The shutters were only open to admit a minute's air, showing the scared face of a footman, and the neighbors would say to each other in a low voice. Madame Denglaar involuntarily shuttered at the desolate aspect of the mansion. Three times did the bell ring, with a dull, heavy sound, seeming to participate in the general sadness, before the concierge appeared and peeped through the door, which he opened just wide enough to allow his words to be heard. He saw a lady, a fashionable, elegantly dressed lady. First, Madame, who are you? Who am I? You know me well enough. We no longer know anyone, Madame. Where do you come from? Oh, this is too much! Madame, these are my orders. Excuse me. Your name? The Baroness Denglaar. You have seen me twenty times. Possibly Madame.",
+  "recon_transcript": "Once we all have determined things that we didn't mind, the hands of our God Jerry He also writes to the Most \uc9d1 lettering to God. The God is a King! Give Him cook it then! Let Him guide us to our way! That long and heavy, long time, but His is light that may best awaken us to the light of God, and in His wineilicle as one of the faintestaci\u00f3 of all of the out improvement of the Lord.",
+  "wer": 0.9455782312925171,
+  "sub": 72,
+  "del": 67,
+  "ins": 0,
+  "ref_words": 147,
+  "hyp_words": 80,
+  "wall_s": 31.9
+}

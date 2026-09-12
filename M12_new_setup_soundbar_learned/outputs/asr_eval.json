@@ -1,0 +1,6 @@
+{
+  "clean-target  (adapter, ceiling)": 0.7683855845297393,
+  "fixed-sum     (adapter, baseline)": 0.9998535013184882,
+  "LEARNED U-Net (adapter)": 1.0,
+  "LEARNED U-Net \u2192 GL \u2192 native": 1.0
+}

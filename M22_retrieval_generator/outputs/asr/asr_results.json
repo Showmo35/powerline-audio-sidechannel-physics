@@ -1,0 +1,42 @@
+[
+ {
+  "chunk": "chunk_132",
+  "gt": "he said yes and i m going to do it again",
+  "m22": "just glad its a\u81ea feathers",
+  "real": "he said yes and im going to do it again",
+  "wer_m22": 1.0,
+  "wer_real": 0.18181818181818182
+ },
+ {
+  "chunk": "chunk_060",
+  "gt": "that would do if it was the toothache my master had",
+  "m22": "ouse",
+  "real": "that would do if it was the toothache my master had",
+  "wer_m22": 1.0,
+  "wer_real": 0.0
+ },
+ {
+  "chunk": "chunk_084",
+  "gt": "as the wife of a master of hounds",
+  "m22": "its a part of the best thats left",
+  "real": "as the wife of a master of hounds",
+  "wer_m22": 0.875,
+  "wer_real": 0.0
+ },
+ {
+  "chunk": "chunk_120",
+  "gt": "black and bitter but welcome enough to the farmers",
+  "m22": "which comes in here on my big fans",
+  "real": "black and bitter but welcome enough to the farmers",
+  "wer_m22": 1.0,
+  "wer_real": 0.0
+ },
+ {
+  "chunk": "chunk_096",
+  "gt": "of the estate during her lifetime",
+  "m22": "with the mistakes when you start acting",
+  "real": "of the estate during her lifetime",
+  "wer_m22": 1.0,
+  "wer_real": 0.0
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "args": {
+    "model": "openai/whisper-tiny",
+    "test_chunks": "46-46",
+    "epochs": 6,
+    "batch": 8,
+    "lr": 1e-05,
+    "warmup": 10,
+    "eval_every": 30,
+    "max_steps": 30,
+    "workers": 4,
+    "out_dir": "outputs/whisper_ft_smoke",
+    "device": "cuda"
+  },
+  "pretrain_wer": 0.9989694263139814,
+  "evals": [
+    {
+      "step": 30,
+      "wer": 4.988595564941922,
+      "sub": 4037,
+      "del": 497,
+      "ins": 19087,
+      "ref_words": 4735,
+      "n_utts": 134
+    }
+  ],
+  "best_wer": 4.988595564941922,
+  "wall_s": 27.7
+}

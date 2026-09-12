@@ -1,0 +1,16 @@
+======================================================================
+  EXPERIMENT COMPARISON
+======================================================================
+
+Model                        Avg CER    Avg WER
+--------------------------------------------------
+exp1_pure_ctc                 0.6707     0.8750
+exp2_ctc_weighted             0.7073     1.1875
+exp3_larger_ctc               0.6951     1.0000
+
+--- Sample 0 ---
+  Reference: pretending to be two people 'but it's no use now' thought poor alice to pretend to
+  exp1_pure_ctc: a  to to o o o o to to to to to to o o  (CER=0.6707)
+  exp2_ctc_weighted: a e e e e e e e e e e e e o a  u e e e  (CER=0.7073)
+  exp3_larger_ctc: e o o o o e to i too to o h e  i e  (CER=0.6951)
+

@@ -1,0 +1,7 @@
+{
+ "ckpt": "m14_best_snapshot.pt",
+ "ckpt_step": 80352,
+ "sample_steps": 32,
+ "cfg_scale": 2.0,
+ "seed": 0
+}

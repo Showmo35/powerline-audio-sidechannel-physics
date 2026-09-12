@@ -1,0 +1,52 @@
+{
+  "lattice": "data/lattice_genM22_big.json",
+  "beam": 24,
+  "maxcand": 40,
+  "on_candidate_slots": {
+    "oracle": 0.232421875,
+    "channel": 0.0322265625,
+    "m24v4": 0.0322265625,
+    "best_lambda": 20.0,
+    "sweep": {
+      "0.0": 0.0244140625,
+      "2.0": 0.0283203125,
+      "5.0": 0.03125,
+      "10.0": 0.0283203125,
+      "20.0": 0.0322265625,
+      "50.0": 0.0322265625,
+      "200.0": 0.0322265625
+    }
+  },
+  "content_recall_all": {
+    "channel": 0.019725044829647338,
+    "m24v4": 0.019725044829647338,
+    "oracle": 0.1422594142259414
+  },
+  "coverage": 0.6120741183502689,
+  "examples": [
+    {
+      "gt": "AND THE WELCOMING LIGHT OF THE UPPER AIR BEGAN TO PENETRATE THE DARKNESS THEN A SUDDEN FEAR STRUCK HIS HEART",
+      "recon": "the the the the the the the the the the"
+    },
+    {
+      "gt": "EACH IDEA DEVELOPS A COUNTLESS PROGENY",
+      "recon": "the opera thinks the fifteenth cossacks"
+    },
+    {
+      "gt": "OR BY SOCIETY DURING THE INCOME PERIOD THE TERM NATIONAL OR SOCIAL INCOME MAY BE CONTRASTED WITH INDIVIDUAL OR PRIVATE INCOME IN THE OBJECTIVE SENSE",
+      "recon": "the the the the the the the the the the the the"
+    },
+    {
+      "gt": "AND MADLY LOVING WITHOUT KNOWING IT WHEN MY INNERMOST BEING OVERFLOWED WITH A VAGUE LONGING WHICH IT BREATHED FORTH BUT RARELY IN HALF SUPPRESSED SIGHS",
+      "recon": "the welfare lofty the grab the the the civilization the extent the the cook knife the the choose steps the candle the thoughts supposed challenge"
+    },
+    {
+      "gt": "SHE REMAINED THUS FOR MORE THAN AN HOUR WITHOUT STIRRING AND WITHOUT BREATHING A PREY TO HER THOUGHTS",
+      "recon": "the impart the the the the the robert the splendor the the hair the trail the the fence"
+    },
+    {
+      "gt": "ANY LONGER CURBED AND CHECKED FOR BY HIS INACTIVITY HE IS DEFRAUDING THE WORLD OF THE REDRESS OF WRONGS",
+      "recon": "the lava george the strength the the the forbear the the departed the endured the the reproach the nice"
+    }
+  ]
+}

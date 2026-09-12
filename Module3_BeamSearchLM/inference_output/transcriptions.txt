@@ -1,0 +1,110 @@
+Greedy CER: 0.7041 | WER: 1.0702
+Beam   CER: 0.6994 | WER: 1.1001
+Beam+LM CER: 0.6987 | WER: 1.0374
+======================================================================
+
+--- WORST 10 (by beam CER) ---
+
+Sample 324 (CER greedy=1.370 beam=1.259)
+  REF:    five recorded december   in
+  GREEDY: to e i' 'it elee ta he te he the the hat tee o an
+  BEAM:   t e i 'it ele ta he te he the the hat tee o an
+
+Sample 327 (CER greedy=1.227 beam=1.273)
+  REF:      in longmont colorado
+  GREEDY: ht hi thi hate sa te tod the o ' '
+  BEAM:   hat hi thi hate a tee tod the o ' '
+
+Sample 506 (CER greedy=1.346 beam=1.346)
+  REF:      in oceanside california'
+  GREEDY: ad the ee e tae and ou e  thu thu he the he
+  BEAM:   aed the ee e taer and ou e a tu u he the he
+
+Sample 328 (CER greedy=1.381 beam=1.381)
+  REF:     in longmont colorado
+  GREEDY: th the sa the 'od the e oi' 'i' ' a
+  BEAM:   the he sa the 'od the e oi' 'i' 'ha
+
+Sample 503 (CER greedy=1.304 beam=1.435)
+  REF:    'recorded on november  
+  GREEDY: ' wat e' sed tee heein aa ed the aea tan
+  BEAM:   't wat ee' sed tee heein aa ed the aea te an
+
+Sample 588 (CER greedy=1.409 beam=1.455)
+  REF:    tokyo japan december  
+  GREEDY: oeee e e an he caceand the tu e che oe ' 
+  BEAM:   oee e e e an hee caceand the tu e che oe '
+
+Sample 61 (CER greedy=1.600 beam=1.800)
+  REF:    end of chapter 
+  GREEDY: he o ead had her aan ea i i a i
+  BEAM:   the o ead hed her aean ea i i a ie
+
+Sample 330 (CER greedy=1.625 beam=2.000)
+  REF:    colorado
+  GREEDY: h oo' ' '' '''
+  BEAM:   hn oo' ' '' 'h 'e
+
+Sample 589 (CER greedy=1.900 beam=2.100)
+  REF:    december  
+  GREEDY: nd e the ae tae ce o e  '
+  BEAM:   ind e tee ae tae ce o e ' '
+
+Sample 62 (CER greedy=2.667 beam=2.667)
+  REF:    end of chapter 
+  GREEDY:  ot the aa e he there een ein ii a it tha the bo
+  BEAM:   o o the aa e he there een ein ii a it tha the bo
+
+
+--- BEST 10 (by beam CER) ---
+
+Sample 216 (CER greedy=0.566 beam=0.566)
+  REF:    and peeped over the edge of the mushroom and her eyes
+  GREEDY: t the o e e e o te ano o and the to
+  BEAM:   t the o e e e o te ano on and the to
+
+Sample 520 (CER greedy=0.577 beam=0.577)
+  REF:    settle the question and they repeated their arguments to her though as they all spoke at once she found it very
+  GREEDY: o it th ine and thee te thet hie the the ae hel ha e hat the ae he e e et t e
+  BEAM:   a it the ine and the e thet hie the he ae he he e he he ae he e e e e t e
+
+Sample 425 (CER greedy=0.598 beam=0.585)
+  REF:    'the last time she saw them they were trying to put the door mouse into the teapot
+  GREEDY: 'hie ho the tho o en ha ha ha the the he oe o e ho the thee
+  BEAM:   'ie ho the tho o en ha he ha the the he oe o e ho the thee
+
+Sample 517 (CER greedy=0.604 beam=0.595)
+  REF:    moment alice appeared she was appealed to by all three to settle the question and they repeated their arguments
+  GREEDY: h ene e her thn hed the he the he te toe ten an the e e the tene and the e the id
+  BEAM:   he ene e he hn he the he the he te oe e on the e e te e ene and the e the ie
+
+Sample 519 (CER greedy=0.567 beam=0.596)
+  REF:    by all three to settle the question and they repeated their arguments to her though as they all spoke at
+  GREEDY: oe fo tit en the e e the hene and the te the ie the he wa he h he tat the ae he
+  BEAM:   oe fe it n the e e the he and the e the i ie the the a we he he ht the ae he
+
+Sample 442 (CER greedy=0.617 beam=0.600)
+  REF:    'just as she said this she noticed that one of the trees had
+  GREEDY: 'e wha tho to ' thee haee the o ha
+  BEAM:   'ue whe tho to ' the hae the o ha
+
+Sample 572 (CER greedy=0.602 beam=0.602)
+  REF:    gone and by the time he had come back with the duchess it had entirely disappeared so the king and
+  GREEDY: ain te te te te te he e he it e e ted the te tee he hee tete to the hee ta
+  BEAM:   aen he he he he he e t t e e e te the he he e he et te the ae ae
+
+Sample 10 (CER greedy=0.659 beam=0.604)
+  REF:    eye fell on a little glass box that was lying under the table she opened it and found in it
+  GREEDY: ta hi li li het het het te e thin an her ene he she the tet tet hut thit teti
+  BEAM:   ae hit i lit et het het e e in an her e he she the et tet hut hit ettit
+
+Sample 433 (CER greedy=0.625 beam=0.611)
+  REF:    there again' said alice as she picked her way through the wood 'it's the
+  GREEDY: to o oen' sand the ta hale hu ue te the mee' 'hhee
+  BEAM:   to of oen sand the ta hale hu ue te the mee' 'hthe e
+
+Sample 570 (CER greedy=0.613 beam=0.613)
+  REF:    head began fading away the moment he was gone and by the time he had come back with the duchess it had entirely
+  GREEDY: se e e ner en en an the ote te et et ing ten he he e ten e h te et e the te the
+  BEAM:   ae e e er e n an he oe t t e in te he e e e e e t t t e the te he
+

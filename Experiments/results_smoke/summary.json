@@ -1,0 +1,14 @@
+{
+  "exp1_pure_ctc": {
+    "avg_cer": 0.6707317073170732,
+    "avg_wer": 0.875
+  },
+  "exp2_ctc_weighted": {
+    "avg_cer": 0.7073170731707317,
+    "avg_wer": 1.1875
+  },
+  "exp3_larger_ctc": {
+    "avg_cer": 0.6951219512195121,
+    "avg_wer": 1.0
+  }
+}

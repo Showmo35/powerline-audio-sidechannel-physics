@@ -1,0 +1,6 @@
+val_index	cer_ctc	cer_seq	ref	pred_ctc	pred_seq	actual_wav	pred_wav	mel_plot
+0	0.682927	-1.000000	pretending to be two people 'but it's no use now' thought poor alice to pretend to	h the the th a h h te th the the the th toe to o		sample_0000_actual.wav	sample_0000_pred.wav	sample_0000_mel.png
+1	0.658228	-1.000000	people 'but it's no use now' thought poor alice to pretend to be two people why	o a h h te th the the the th toe toe the the ho		sample_0001_actual.wav	sample_0001_pred.wav	sample_0001_mel.png
+2	0.659794	-1.000000	'but it's no use now' thought poor alice to pretend to be two people why there's hardly enough of	a hd the the the the the toe toe the toe the toe toe to o		sample_0002_actual.wav	sample_0002_pred.wav	sample_0002_mel.png
+3	0.635514	-1.000000	now' thought poor alice to pretend to be two people why there's hardly enough of me to make one respectable	oe toe toe the toe toe the toe the toe toe toe the toe th e		sample_0003_actual.wav	sample_0003_pred.wav	sample_0003_mel.png
+4	0.647059	-1.000000	poor alice to pretend to be two people why there's hardly enough of me to make one respectable person'	a toe toe the the the to e toe to the ton the e toe e to oe		sample_0004_actual.wav	sample_0004_pred.wav	sample_0004_mel.png

@@ -1,0 +1,26 @@
+[
+ {
+  "tag": "ex6",
+  "pred_word": "into",
+  "chunk": "chunk_048",
+  "dur": 0.48
+ },
+ {
+  "tag": "ex7",
+  "pred_word": "time",
+  "chunk": "chunk_024",
+  "dur": 0.52
+ },
+ {
+  "tag": "ex8",
+  "pred_word": "into",
+  "chunk": "chunk_048",
+  "dur": 0.48
+ },
+ {
+  "tag": "ex9",
+  "pred_word": "upon",
+  "chunk": "chunk_024",
+  "dur": 0.48
+ }
+]

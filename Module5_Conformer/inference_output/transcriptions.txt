@@ -1,0 +1,88 @@
+CER: 0.7146 | WER: 1.1078 | Samples: 590
+Mean CER: 0.7305 | Median: 0.7110 | Std: 0.1078
+======================================================================
+
+--- WORST 10 ---
+
+Sample 587 (CER=1.095)
+  REF : christian macquilan tokyo japan december  
+  PRED: a e te then hen o  hen on hen hen e  e e hane hen hen hen i
+
+Sample 588 (CER=1.136)
+  REF : tokyo japan december  
+  PRED: aa e e a e  a a  o a a a a e   i
+
+Sample 328 (CER=1.143)
+  REF :  in longmont colorado
+  PRED: ae o  te o a a  o a o a a a a o
+
+Sample 329 (CER=1.200)
+  REF : in longmont colorado
+  PRED: ae   a a i  o a a  a a a a  
+
+Sample 327 (CER=1.227)
+  REF :   in longmont colorado
+  PRED: ae e te o a ha a a a ta a o o e e o
+
+Sample 503 (CER=1.391)
+  REF : 'recorded on november  
+  PRED: a e o a e he e hen e a ha ta he a he te e 
+
+Sample 330 (CER=1.500)
+  REF : colorado
+  PRED: aao  a a  a aa
+
+Sample 589 (CER=1.600)
+  REF : december  
+  PRED: aa e a a  a a a a a
+
+Sample 62 (CER=1.733)
+  REF : end of chapter 
+  PRED: ae e te  a e e  a o a tha o e ta i
+
+Sample 61 (CER=1.867)
+  REF : end of chapter 
+  PRED: ae e e a a e a a i a e a a a a a e
+
+--- BEST 10 ---
+
+Sample 438 (CER=0.608)
+  REF : the stupidest teaparty i ever was at in all my life
+  PRED: ae e a ta a a a e a a a o a  e e
+
+Sample 439 (CER=0.609)
+  REF : teaparty i ever was at in all my life 'just as
+  PRED: aa e e a a a  a a a o  e a a a
+
+Sample 123 (CER=0.618)
+  REF : fallen into it there was a duck and a dodo a lorry and an eaglet and
+  PRED: a e e e a a o a a a o a a a ta a o
+
+Sample 564 (CER=0.621)
+  REF : queen said to the executioner fetch her here and the executioner went off like an arrow
+  PRED: a e then hen hen hen hen hene hen hen hen en e e en o
+
+Sample 380 (CER=0.622)
+  REF : 'she had not gone much further 'before she came inside of the house of the march hare 'she thought
+  PRED: a e o hen en then hen e  hene then tha hene hen hene the then e
+
+Sample 139 (CER=0.623)
+  REF : and yet what a dear little puppy it was said alice as
+  PRED: aa e e a a  a a a o a a  a a a
+
+Sample 563 (CER=0.624)
+  REF : she's in prison the queen said to the executioner fetch her here and the executioner went off
+  PRED: a e then then hen hen he hene hen hene hen he hen hen hen hen e 
+
+Sample 540 (CER=0.625)
+  REF : that anything that had ahead could be beheaded and that you weren't to talk nonsense the
+  PRED: a e hen hen e hen o  hene hen hene hen o  hen  hen hone hen e
+
+Sample 368 (CER=0.628)
+  REF : remained sometime after the rest of it had gone' 'well i've often seen a cat without a
+  PRED: a e o te e e he he a  ae he he hen then the e 
+
+Sample 253 (CER=0.633)
+  REF : a while she remembered that she still held the pieces of mushroom in her hands and she set
+  PRED: a e he hen hen o hen ha han o  he han hen te hen the he e
+

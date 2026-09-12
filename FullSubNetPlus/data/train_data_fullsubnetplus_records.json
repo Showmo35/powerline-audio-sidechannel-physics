@@ -1,0 +1,79 @@
+[
+  {
+    "file_id": "Chap_1",
+    "chapter_name": "chapter_01",
+    "mp3_path": "<REPO_ROOT>/Alice_In_Wonderland_mp3/Alice_In_Wonderland_ch_01.mp3",
+    "num_samples": 10111200,
+    "duration_sec": 631.95,
+    "train_end_sample": 9036080,
+    "val_start_sample": 9164080,
+    "train_windows": 561,
+    "val_windows": 56
+  },
+  {
+    "file_id": "Chap_2",
+    "chapter_name": "chapter_02",
+    "mp3_path": "<REPO_ROOT>/Alice_In_Wonderland_mp3/Alice_In_Wonderland_ch_02.mp3",
+    "num_samples": 11586240,
+    "duration_sec": 724.14,
+    "train_end_sample": 10363616,
+    "val_start_sample": 10491616,
+    "train_windows": 644,
+    "val_windows": 65
+  },
+  {
+    "file_id": "Chap_4",
+    "chapter_name": "chapter_04",
+    "mp3_path": "<REPO_ROOT>/Alice_In_Wonderland_mp3/Alice_In_Wonderland_ch_04.mp3",
+    "num_samples": 18694061,
+    "duration_sec": 1168.379,
+    "train_end_sample": 16760654,
+    "val_start_sample": 16888654,
+    "train_windows": 1044,
+    "val_windows": 109
+  },
+  {
+    "file_id": "Chap_5",
+    "chapter_name": "chapter_05",
+    "mp3_path": "<REPO_ROOT>/Alice_In_Wonderland_mp3/Alice_In_Wonderland_ch_05.mp3",
+    "num_samples": 12712640,
+    "duration_sec": 794.54,
+    "train_end_sample": 11377376,
+    "val_start_sample": 11505376,
+    "train_windows": 708,
+    "val_windows": 72
+  },
+  {
+    "file_id": "Chap_6",
+    "chapter_name": "chapter_06",
+    "mp3_path": "<REPO_ROOT>/Alice_In_Wonderland_mp3/Alice_In_Wonderland_ch_06.mp3",
+    "num_samples": 12242861,
+    "duration_sec": 765.179,
+    "train_end_sample": 10954574,
+    "val_start_sample": 11082574,
+    "train_windows": 681,
+    "val_windows": 69
+  },
+  {
+    "file_id": "Chap_7",
+    "chapter_name": "chapter_07",
+    "mp3_path": "<REPO_ROOT>/Alice_In_Wonderland_mp3/Alice_In_Wonderland_ch_07.mp3",
+    "num_samples": 16443769,
+    "duration_sec": 1027.736,
+    "train_end_sample": 14735392,
+    "val_start_sample": 14863392,
+    "train_windows": 917,
+    "val_windows": 95
+  },
+  {
+    "file_id": "Chap_8",
+    "chapter_name": "chapter_08",
+    "mp3_path": "<REPO_ROOT>/Alice_In_Wonderland_mp3/Alice_In_Wonderland_ch_08.mp3",
+    "num_samples": 12630240,
+    "duration_sec": 789.39,
+    "train_end_sample": 11303216,
+    "val_start_sample": 11431216,
+    "train_windows": 703,
+    "val_windows": 71
+  }
+]

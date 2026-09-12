@@ -1,0 +1,18 @@
+{
+  "ckpt": "<REPO_ROOT>/E2E/checkpoints_conditioned/best_model.pt",
+  "mode_from_ckpt": "conditioned",
+  "mode_used": "conditioned",
+  "n_val_total": 587,
+  "n_samples_used": 5,
+  "indices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "avg_cer_ctc": null,
+  "avg_cer_seq": 2.192297163735712,
+  "device": "cpu",
+  "predictions_tsv": "predictions.tsv"
+}

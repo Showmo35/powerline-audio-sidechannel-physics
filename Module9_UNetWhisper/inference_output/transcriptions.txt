@@ -1,0 +1,87 @@
+CER: 0.8373 | WER: 1.1071 | N=590
+======================================================================
+
+--- WORST 10 ---
+
+Sample 505 (CER=2.257)
+  REF : november   in oceanside california'
+  PRED: way of living it and when she went on to talk about it a great letter nearly as large as herself
+
+Sample 506 (CER=2.458)
+  REF : in oceanside california'
+  PRED: way of living would be like but it puzzled her too much so she went on
+
+Sample 324 (CER=2.778)
+  REF : five recorded december   in
+  PRED: the queen's ears' the pigeon went on without attending to her if we had a door between us
+
+Sample 61 (CER=2.786)
+  REF : end of chapter
+  PRED: under her arm and timidly said consider my dear
+
+Sample 510 (CER=3.000)
+  REF : california'
+  PRED: a little' said the caterpillar sternly
+
+Sample 503 (CER=3.571)
+  REF : 'recorded on november
+  PRED: it was the white rabbit returning splendidly dressed with a pair of white kid gloves in
+
+Sample 327 (CER=3.650)
+  REF : in longmont colorado
+  PRED: mana and a muscular strength which it gave to my jaw has lasted the rest of my life'
+
+Sample 62 (CER=4.857)
+  REF : end of chapter
+  PRED: and the three gardeners instantly threw themselves flat upon their faces there
+
+Sample 589 (CER=8.375)
+  REF : december
+  PRED: do you know the way out of this pool i should think you'll do very well
+
+Sample 330 (CER=9.750)
+  REF : colorado
+  PRED: rumbling and barking off with his head off with his head off with his head off with
+
+--- BEST 10 ---
+
+Sample 116 (CER=0.583)
+  REF : hate cats and dogs it was high time to go for the pool was getting quite
+  PRED: to the nave and draw in as much as she could and she soon made it out to
+
+Sample 184 (CER=0.629)
+  REF : grass but she did not see anything that looked like the right thing to
+  PRED: garden i think that will be the best plan
+
+Sample 37 (CER=0.634)
+  REF : which way holding her hand on the top of her head to feel which way it was growing
+  PRED: with a knife or two she might well say this to go on crying
+
+Sample 127 (CER=0.644)
+  REF : and an eaglet and several other curious creatures alice led the way and the whole party
+  PRED: and you are you fond of of dogs the mouse did not answer and she began
+
+Sample 88 (CER=0.667)
+  REF : commotion in the pool as it went so she called softly after it the
+  PRED: to herself alice went on without attending to her if we
+
+Sample 478 (CER=0.667)
+  REF : 'then she went to work nibbling at the mushroom 'she had kept a piece of it in
+  PRED: 'the door mouse is asleep again' said the hatter alice hastily
+
+Sample 563 (CER=0.667)
+  REF : she's in prison the queen said to the executioner fetch her here and the executioner went off
+  PRED: and the queen smiled and passed on who are you talking to
+
+Sample 383 (CER=0.670)
+  REF : of the march hare 'she thought it must be the right house 'because the chimneys were shaped like ears 'and
+  PRED: the baby to herself and to the door of the house' said the cat and vanished
+
+Sample 25 (CER=0.673)
+  REF : the key and if it makes me grow smaller i can creep under the door so either way i'll get into the
+  PRED: the water out of the water and pour the waters of the nile on every golden scale
+
+Sample 83 (CER=0.676)
+  REF : offend it again for the mouse was swimming away from her as hard as it could go and making quiet a commotion
+  PRED: to a grin and she said to herself it's no use now and she went on
+

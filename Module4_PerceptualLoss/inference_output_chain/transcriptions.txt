@@ -1,0 +1,129 @@
+Noisy->CTC          CER: 0.8866 | WER: 0.9999
+PlainRecon->CTC     CER: 0.7041 | WER: 1.0702
+PercLoss->CTC       CER: 0.7109 | WER: 1.0774
+======================================================================
+
+--- WORST 10 (by Perceptual UNet CER) ---
+
+Sample 330 (noisy=1.000 recon=1.625 perc=1.250)
+  REF  : colorado
+  NOISY: thehe
+  RECON: h oo' ' '' '''
+  PERC : ot the ta 
+
+Sample 328 (noisy=0.905 recon=1.381 perc=1.333)
+  REF  :  in longmont colorado
+  NOISY: thehere
+  RECON: th the sa the 'od the e oi' 'i' ' a
+  PERC : th het' thand theed the i thai  a
+
+Sample 503 (noisy=0.826 recon=1.304 perc=1.348)
+  REF  : 'recorded on november  
+  NOISY: thrherere
+  RECON: ' wat e' sed tee heein aa ed the aea tan
+  PERC : t to te e tho te be tee and ten tee te oo
+
+Sample 587 (noisy=0.857 recon=1.071 perc=1.357)
+  REF  : christian macquilan tokyo japan december  
+  NOISY: thrherererererered
+  RECON: a the heid the tee he ed had the hee tee and the ru e the e
+  PERC : thee ene ang te e e re ane 'and te te e metme ane sand the e e tene ene ied
+
+Sample 324 (noisy=0.926 recon=1.296 perc=1.370)
+  REF  : five recorded december   in
+  NOISY: thehe
+  RECON: to e i' 'i eee ta he te he the the hat tee o an
+  PERC : th tt it eru ta ta ta se' sid thiet cot te o a
+
+Sample 61 (noisy=1.400 recon=1.600 perc=1.533)
+  REF  : end of chapter 
+  NOISY: therhererdererererererere
+  RECON: he o ead had her aan ea i i a i
+  PERC : ioe wo wai thee ae waa ca i a
+
+Sample 327 (noisy=0.909 recon=1.227 perc=1.545)
+  REF  :   in longmont colorado
+  NOISY: theheaed
+  RECON: ht hi thi hate sa te tod the o ' '
+  PERC : het at thet tot teey and the ed the ii ae
+
+Sample 589 (noisy=0.900 recon=1.800 perc=2.200)
+  REF  : december  
+  NOISY: thrhererere
+  RECON: nd e the ae tae ce o e '
+  PERC : 'nny e eein' thee e cee the
+
+Sample 62 (noisy=2.867 recon=2.667 perc=2.267)
+  REF  : end of chapter 
+  NOISY: thrherhererererererererererererererererererere
+  RECON:  ot the aa e he there een ein ii a it tha the bo
+  PERC :  yo the ae thee wae waa ca i it ti tha a
+
+Sample 588 (noisy=1.000 recon=1.409 perc=2.409)
+  REF  : tokyo japan december  
+  NOISY: thrhererererererererererere
+  RECON: oeee e e an he caceand the tu e che oe ' 
+  PERC : aee rererene and thene ee te there enend thee ene teeiet the a
+
+--- BEST 10 (by Perceptual UNet CER) ---
+
+Sample 518 (noisy=0.864 recon=0.612 perc=0.592)
+  REF  : she was appealed to by all three to settle the question and they repeated their arguments to her though
+  NOISY: therheredederereae
+  RECON: hind the e te he te toe ton on the e te te hene and thee e the tie the ad thae here and
+  PERC : 'hete he te the e e the te an the e e te ene tane te e te te e te e e te
+
+Sample 569 (noisy=0.886 recon=0.648 perc=0.610)
+  REF  : the cat's head began fading away the moment he was gone and by the time he had come back with the duchess
+  NOISY: thrherererererererere
+  RECON: 'hi the see e en the en er en en one he he he e e ang en hene en e en e e toe
+  PERC : 'itd thend tee e e he ane tae mene ane the thethe hat te an the e te ae tane ae an tae
+
+Sample 571 (noisy=0.848 recon=0.619 perc=0.610)
+  REF  : away the moment he was gone and by the time he had come back with the duchess it had entirely disappeared
+  NOISY: threherherererererered
+  RECON: she tot he he et ang te he he e te e et te i et n the the e e e e e te et
+  PERC : the tene hethe het te ang he he te e te ene ae te te e e and the te te e ethe e te iet
+
+Sample 570 (noisy=0.865 recon=0.613 perc=0.613)
+  REF  : head began fading away the moment he was gone and by the time he had come back with the duchess it had entirely
+  NOISY: thrherhererererererererererererererere
+  RECON: se e e ner en en an the ote te et et ing ten he he e ten e h te et e the te the
+  PERC : the e e ane tene en n an tht the the her te han he he he e te ene e he te e e ind tht e
+
+Sample 519 (noisy=0.837 recon=0.567 perc=0.615)
+  REF  : by all three to settle the question and they repeated their arguments to her though as they all spoke at
+  NOISY: theheredederdederedeae
+  RECON: oe fo tit en the e e the hene and the te the ie the he a he h he tat the ae he
+  PERC : thee thee nen an the en en te e ten the the e the e the he e e te e te the tete
+
+Sample 201 (noisy=0.929 recon=0.607 perc=0.625)
+  REF  : looked under it and on both sides of it and behind it it
+  NOISY: threhere
+  RECON: o oen and and ie coui i  tha the tha
+  PERC : d ad ind te oee aa it the te tite
+
+Sample 485 (noisy=0.891 recon=0.641 perc=0.625)
+  REF  : foot high 'then she walked down the little passage 'and then she
+  NOISY: theherae
+  RECON: h aid soid the the theher her e the 'ad thehe te te e
+  PERC : he hee tote ho toe o the the the te toe
+
+Sample 339 (noisy=0.920 recon=0.707 perc=0.627)
+  REF  : this is may it won't be raving mad 'at least not so mad as it was in march'
+  NOISY: thrherhed
+  RECON: 'hi a the hi i thit e tho tho i the ie an h he ee e
+  PERC : the ay the thi wi ai ad the ti ha it ae e se e
+
+Sample 567 (noisy=0.851 recon=0.649 perc=0.628)
+  REF  : the executioner went off like an arrow the cat's head began fading away the moment he was gone
+  NOISY: thrherhererererererererererererered
+  RECON: ae ere here ge her an eng her n e the the the he e en he on er ie in in he he e ing
+  PERC : the ethene te e ene the rer e e en the the te e he e te e ie t thetet ant
+
+Sample 479 (noisy=0.899 recon=0.640 perc=0.629)
+  REF  : 'then she went to work nibbling at the mushroom 'she had kept a piece of it in her pocket
+  NOISY: threherere
+  RECON: a he o wea a and tethe 'od 'you het ho he o tho e oo
+  PERC : ther he ot t o o e o e opin ind the he tele i tini to
+

@@ -1,0 +1,110 @@
+{
+  "args": {
+    "model": "openai/whisper-small",
+    "test_chunks": "41-46",
+    "epochs": 6,
+    "batch": 12,
+    "lr": 1e-05,
+    "warmup": 150,
+    "eval_every": 300,
+    "max_steps": 0,
+    "workers": 4,
+    "out_dir": "outputs/whisper_ft_small",
+    "device": "cuda"
+  },
+  "pretrain_wer": 1.0,
+  "evals": [
+    {
+      "step": 300,
+      "wer": 1.183684284906727,
+      "sub": 26154,
+      "del": 279,
+      "ins": 7070,
+      "ref_words": 28304,
+      "n_utts": 830
+    },
+    {
+      "step": 600,
+      "wer": 1.0503815715093272,
+      "sub": 25556,
+      "del": 1359,
+      "ins": 2815,
+      "ref_words": 28304,
+      "n_utts": 830
+    },
+    {
+      "step": 900,
+      "wer": 1.1456331260599208,
+      "sub": 25659,
+      "del": 710,
+      "ins": 6057,
+      "ref_words": 28304,
+      "n_utts": 830
+    },
+    {
+      "step": 1200,
+      "wer": 1.0363906161673262,
+      "sub": 24985,
+      "del": 1679,
+      "ins": 2670,
+      "ref_words": 28304,
+      "n_utts": 830
+    },
+    {
+      "step": 1500,
+      "wer": 1.0755016958733747,
+      "sub": 25149,
+      "del": 1109,
+      "ins": 4183,
+      "ref_words": 28304,
+      "n_utts": 830
+    },
+    {
+      "step": 1800,
+      "wer": 1.0617933860938382,
+      "sub": 25130,
+      "del": 1580,
+      "ins": 3343,
+      "ref_words": 28304,
+      "n_utts": 830
+    },
+    {
+      "step": 2100,
+      "wer": 1.065432447710571,
+      "sub": 25281,
+      "del": 1322,
+      "ins": 3553,
+      "ref_words": 28304,
+      "n_utts": 830
+    },
+    {
+      "step": 2400,
+      "wer": 1.0462125494629735,
+      "sub": 25259,
+      "del": 1387,
+      "ins": 2966,
+      "ref_words": 28304,
+      "n_utts": 830
+    },
+    {
+      "step": 2700,
+      "wer": 1.07521905031091,
+      "sub": 25685,
+      "del": 1036,
+      "ins": 3712,
+      "ref_words": 28304,
+      "n_utts": 830
+    },
+    {
+      "step": 2886,
+      "wer": 1.0665630299604296,
+      "sub": 25588,
+      "del": 1059,
+      "ins": 3541,
+      "ref_words": 28304,
+      "n_utts": 830
+    }
+  ],
+  "best_wer": 1.0363906161673262,
+  "wall_s": 2071.6
+}

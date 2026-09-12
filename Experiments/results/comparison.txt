@@ -1,0 +1,70 @@
+======================================================================
+  EXPERIMENT COMPARISON
+======================================================================
+
+Model                        Avg CER    Avg WER
+--------------------------------------------------
+exp1_pure_ctc                 0.6865     0.9403
+exp2_ctc_weighted             0.6913     1.0978
+exp3_larger_ctc               0.7206     1.0110
+
+--- Sample 0 ---
+  Reference: pretending to be two people 'but it's no use now' thought poor alice to pretend to
+  exp1_pure_ctc: a  to to o o o o to to to to to to o o  (CER=0.6707)
+  exp2_ctc_weighted: a e e e e e e e e e e e e o a  u e e e  (CER=0.7073)
+  exp3_larger_ctc: e o o o o e to i too to o h e  i e  (CER=0.6951)
+
+--- Sample 1 ---
+  Reference: people 'but it's no use now' thought poor alice to pretend to be two people why
+  exp1_pure_ctc: a o o to to to to to o o o o to to o  (CER=0.6709)
+  exp2_ctc_weighted: ae e e e e e e e oe a e e e e e ti e ae  (CER=0.6835)
+  exp3_larger_ctc: o o a e o to to a e i e to o  (CER=0.6962)
+
+--- Sample 2 ---
+  Reference: 'but it's no use now' thought poor alice to pretend to be two people why there's hardly enough of
+  exp1_pure_ctc: a  to to to to to to o to to to to o to o  (CER=0.6804)
+  exp2_ctc_weighted: a e e te e oe o e fu e o e toe ae oe a  (CER=0.7216)
+  exp3_larger_ctc: a  te i to o o a e i i te i i te a  e se  (CER=0.7216)
+
+--- Sample 3 ---
+  Reference: now' thought poor alice to pretend to be two people why there's hardly enough of me to make one respectable
+  exp1_pure_ctc: a e to to toe to to toe to to toe to to o to o  (CER=0.6822)
+  exp2_ctc_weighted: o i e e te fe e e e ti e a e o e e e o e ie  (CER=0.6916)
+  exp3_larger_ctc: e te  e i e e  e e  o  he   e i i  (CER=0.7570)
+
+--- Sample 4 ---
+  Reference: poor alice to pretend to be two people why there's hardly enough of me to make one respectable person'
+  exp1_pure_ctc: a  oe to toe toe toe toe toe to to to to to o o  (CER=0.6961)
+  exp2_ctc_weighted: a e e i e te e a e o e e e o e tie ae oe  (CER=0.6863)
+  exp3_larger_ctc: e  o te i te  o e  i i  i i i i o o  (CER=0.7549)
+
+--- Sample 5 ---
+  Reference: to be two people why there's hardly enough of me to make one respectable person' soon her eye
+  exp1_pure_ctc: a  toe toe toe toe toe toe to toe toe to to to o o  (CER=0.6882)
+  exp2_ctc_weighted: a e i e a e i e i e e i e e e e e e e e e  (CER=0.6774)
+  exp3_larger_ctc: i e e e  te e i i i o e  e n e he se  (CER=0.6989)
+
+--- Sample 6 ---
+  Reference: there's hardly enough of me to make one respectable person' soon her eye fell on a little glass
+  exp1_pure_ctc: a  toe toe toe to toe toe to to toe oe to to to o  (CER=0.7263)
+  exp2_ctc_weighted: a e e e ti e e te e e e e e e e e te te e e e  (CER=0.6737)
+  exp3_larger_ctc: i e i e o o o e  e n e he se  e e  (CER=0.7263)
+
+--- Sample 7 ---
+  Reference: of me to make one respectable person' soon her eye fell on a little glass box that was lying
+  exp1_pure_ctc: a e toe toe toe toe toe toe toe to toe to toe to o o  (CER=0.6630)
+  exp2_ctc_weighted: a e e te e e e e e e e te e e e e en e e a e  (CER=0.6739)
+  exp3_larger_ctc: i e i i o o o hen he het het he he e he e e he hi e o  (CER=0.6957)
+
+--- Sample 8 ---
+  Reference: respectable person' soon her eye fell on a little glass box that was lying under the table
+  exp1_pure_ctc: a ee toe toe toe toe toe toe toe toe toe toe toe toe to o  (CER=0.6889)
+  exp2_ctc_weighted: a e e te te e e te te e e in in e e e e in e e  (CER=0.7000)
+  exp3_larger_ctc: e e  e e het het he e e ee e i e e e  e e o  e  (CER=0.7000)
+
+--- Sample 9 ---
+  Reference: person' soon her eye fell on a little glass box that was lying under the table she opened it and
+  exp1_pure_ctc: a e toe toe toe toe toe toe toe toe toe toe o oe to o  (CER=0.6979)
+  exp2_ctc_weighted: a e te ti e i e i i a e o e i e e e e e e e  (CER=0.6979)
+  exp3_larger_ctc: a e e to e e o a o o o e se i  (CER=0.7604)
+

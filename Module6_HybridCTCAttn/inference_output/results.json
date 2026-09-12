@@ -1,0 +1,12 @@
+{
+  "n_val": 590,
+  "ctc_greedy": {
+    "cer": 0.7171076894707726,
+    "wer": 1.1230500582072176
+  },
+  "attn_greedy": {
+    "cer": 0.9568735017517979,
+    "wer": 1.2975552968568103
+  },
+  "checkpoint": "<REPO_ROOT>/Module6_HybridCTCAttn/checkpoints/best_cer_model.pt"
+}

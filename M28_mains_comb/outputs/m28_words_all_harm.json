@@ -1,0 +1,48 @@
+{
+  "K": 1600,
+  "T": 32,
+  "n_train": 12000,
+  "n_test": 3587,
+  "words": [
+    "not",
+    "that",
+    "which",
+    "said",
+    "this",
+    "their",
+    "there",
+    "with",
+    "were",
+    "would",
+    "been",
+    "was",
+    "could",
+    "will",
+    "very",
+    "little",
+    "into",
+    "more",
+    "some",
+    "about",
+    "man",
+    "time",
+    "have",
+    "like",
+    "upon",
+    "only",
+    "had",
+    "well",
+    "other",
+    "before"
+  ],
+  "results": {
+    "all_harm_AM_PM": 0.2369616189030297,
+    "envelope_control": 0.11065491995665351
+  },
+  "refs": {
+    "M20_wide": 0.311,
+    "M20_env": 0.39,
+    "chance": 0.033,
+    "audio_wav2vec2": 0.65
+  }
+}

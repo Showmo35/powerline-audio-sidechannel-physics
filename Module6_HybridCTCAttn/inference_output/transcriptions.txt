@@ -1,0 +1,2954 @@
+CTC  CER: 0.7171 | WER: 1.1231
+Attn CER: 0.9569 | WER: 1.2976
+======================================================================
+
+--- Sample 0 (CTC=0.744, Attn=0.976) ---
+  REF : pretending to be two people 'but it's no use now' thought poor alice to pretend to
+  CTC : a e a e a  e  e a e e e e e a a e a 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the could ton
+
+--- Sample 1 (CTC=0.709, Attn=0.848) ---
+  REF : people 'but it's no use now' thought poor alice to pretend to be two people why
+  CTC : a e a e e a e e e e a e e e e a e a e a
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 2 (CTC=0.742, Attn=1.134) ---
+  REF : 'but it's no use now' thought poor alice to pretend to be two people why there's hardly enough of
+  CTC : a e  e e e  e e e a e a e e e e o ee
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the the s ouge che s ourime ouche woure chine we cke at t
+
+--- Sample 3 (CTC=0.720, Attn=0.729) ---
+  REF : now' thought poor alice to pretend to be two people why there's hardly enough of me to make one respectable
+  CTC : a e  e e e o te a e e e a te o e e o e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 4 (CTC=0.706, Attn=0.716) ---
+  REF : poor alice to pretend to be two people why there's hardly enough of me to make one respectable person'
+  CTC : a  a e a e e e a te a e e e e e e e e 
+  ATTN: the was the caterpillar 'the cat was the cat the cat on the cat on the caterpillar
+
+--- Sample 5 (CTC=0.667, Attn=0.763) ---
+  REF : to be two people why there's hardly enough of me to make one respectable person' soon her eye
+  CTC : a e e e a te a e e e e e e e e  e a e e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 6 (CTC=0.695, Attn=0.768) ---
+  REF : there's hardly enough of me to make one respectable person' soon her eye fell on a little glass
+  CTC :   e a e e e e e e a  e e a e e e a e
+  ATTN: the cat the cat on the cat the cat the could the cat on the was the caterpillar 'and the caterpillar
+
+--- Sample 7 (CTC=0.696, Attn=0.696) ---
+  REF : of me to make one respectable person' soon her eye fell on a little glass box that was lying
+  CTC :  e e e e e e a e e e  e e e e e e a e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 8 (CTC=0.722, Attn=0.900) ---
+  REF : respectable person' soon her eye fell on a little glass box that was lying under the table
+  CTC : a  e  e e e a e e e e e e e a e e e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 9 (CTC=0.740, Attn=0.854) ---
+  REF : person' soon her eye fell on a little glass box that was lying under the table she opened it and
+  CTC : a e a e e e e e e e a  e e o e   e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug outhilld
+
+--- Sample 10 (CTC=0.725, Attn=0.901) ---
+  REF : eye fell on a little glass box that was lying under the table she opened it and found in it
+  CTC : a a e e e e e  e e e e o e  e a e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 11 (CTC=0.681, Attn=0.780) ---
+  REF : glass box that was lying under the table she opened it and found in it a very small cake on
+  CTC : a e a e e e e e o e e e  e a e a e 
+  ATTN: the cat the cat on the cat the cat the could to be the caterpillar 'and the cat the caterpillar
+
+--- Sample 12 (CTC=0.716, Attn=0.932) ---
+  REF : lying under the table she opened it and found in it a very small cake on which the words
+  CTC : o e e   e a e e a e a e e a e e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 13 (CTC=0.667, Attn=0.872) ---
+  REF : she opened it and found in it a very small cake on which the words eat me were
+  CTC : a e e a e e a e a e a e a e e o   e
+  ATTN: 'i don't be the cat the cat the pigeon and the cat the caterpillar 'and the caterpillar
+
+--- Sample 14 (CTC=0.687, Attn=0.928) ---
+  REF : and found in it a very small cake on which the words eat me were beautifully marked
+  CTC : o e a e a e e e e a e e e e a e e  a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the hat
+
+--- Sample 15 (CTC=0.722, Attn=0.987) ---
+  REF : a very small cake on which the words eat me were beautifully marked in currents
+  CTC :  e e e a  e e e    e a  e a  e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the oouge oug
+
+--- Sample 16 (CTC=0.701, Attn=1.015) ---
+  REF : on which the words eat me were beautifully marked in currents 'well
+  CTC : a e e a a e e e o e a  a e a  e e 
+  ATTN: 'i shall think the cat the door the cat on the was to the cat the was in a little was the conver
+
+--- Sample 17 (CTC=0.698, Attn=1.286) ---
+  REF : words eat me were beautifully marked in currents 'well i'll eat
+  CTC : a a e a e e a e e e a  e e a e e e e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 18 (CTC=0.723, Attn=0.969) ---
+  REF : were beautifully marked in currents 'well i'll eat it' said alice
+  CTC : i a a e e e a e a i a a e a  e 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar
+
+--- Sample 19 (CTC=0.684, Attn=1.063) ---
+  REF : marked in currents 'well i'll eat it' said alice and if it makes me grow larger
+  CTC :   e  e  e i a  e a ei  e a e e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s ouche t
+
+--- Sample 20 (CTC=0.697, Attn=1.092) ---
+  REF : 'well i'll eat it' said alice and if it makes me grow larger i can reach the
+  CTC : a  a e e a a  e o e a e a e a e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 21 (CTC=0.678, Attn=0.931) ---
+  REF : 'well i'll eat it' said alice and if it makes me grow larger i can reach the key and if
+  CTC : a a e e oi a e e  e o  e a e e e a e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 22 (CTC=0.709, Attn=0.757) ---
+  REF : eat it' said alice and if it makes me grow larger i can reach the key and if it makes me grow smaller i
+  CTC :  e  e a e e  e e a e e a e e e e e
+  ATTN: the cat the cat on the cat the cat the could to be the caterpillar 'and the cat the caterpillar
+
+--- Sample 23 (CTC=0.710, Attn=0.690) ---
+  REF : and if it makes me grow larger i can reach the key and if it makes me grow smaller i can creep under
+  CTC :  e e e e e e e e e a te a te a e e e o
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the cat the caterpillar
+
+--- Sample 24 (CTC=0.682, Attn=0.750) ---
+  REF : larger i can reach the key and if it makes me grow smaller i can creep under the door so
+  CTC : e e a e e e o e a e a e e e a e a e e
+  ATTN: the cat the cat on the cat the cat the could the cat on the cat on the caterpillar
+
+--- Sample 25 (CTC=0.714, Attn=0.837) ---
+  REF : the key and if it makes me grow smaller i can creep under the door so either way i'll get into the
+  CTC :   a e a e a e a e  e a e e e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 26 (CTC=0.716, Attn=0.794) ---
+  REF : it makes me grow smaller i can creep under the door so either way i'll get into the garden and i don't
+  CTC : e a  o a e a e a e e  o  e e a e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 27 (CTC=0.701, Attn=0.835) ---
+  REF : i can creep under the door so either way i'll get into the garden and i don't care which happens'
+  CTC : a e a e e a e e e e e e e e a  e o e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 28 (CTC=0.710, Attn=0.677) ---
+  REF : under the door so either way i'll get into the garden and i don't care which happens' she ate
+  CTC : a e  e e e e e e e a e e a a  e a e 
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 29 (CTC=0.705, Attn=0.842) ---
+  REF : so either way i'll get into the garden and i don't care which happens' she ate a little bit and
+  CTC : a  e e e e e a e e a e e  a e e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 30 (CTC=0.695, Attn=0.927) ---
+  REF : the garden and i don't care which happens' she ate a little bit and said anxiously
+  CTC : a e a e a a a o  o e e e e  a e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s ouche t
+
+--- Sample 31 (CTC=0.711, Attn=0.921) ---
+  REF : don't care which happens' she ate a little bit and said anxiously to herself
+  CTC : a e e e e e e e e e e a e e a e e  e 
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the caterpillar 'and the could be the caterpilly
+
+--- Sample 32 (CTC=0.681, Attn=1.043) ---
+  REF : happens' she ate a little bit and said anxiously to herself which way
+  CTC : a  e e e a e e a e a e a e e a ee
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar 'and the could the cate
+
+--- Sample 33 (CTC=0.712, Attn=1.273) ---
+  REF : ate a little bit and said anxiously to herself which way which way
+  CTC : a e e  e a e e a e e i a e e a e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was in and the couche st
+
+--- Sample 34 (CTC=0.754, Attn=1.228) ---
+  REF : and said anxiously to herself which way which way holding
+  CTC : a e e a e  a i  a e e a  e ae a
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it alice 'and the caterpillar
+
+--- Sample 35 (CTC=0.720, Attn=0.973) ---
+  REF : anxiously to herself which way which way holding her hand on the top of her
+  CTC : a e o  a e e e a  e e  e a e a e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was in and the
+
+--- Sample 36 (CTC=0.701, Attn=0.818) ---
+  REF : which way which way holding her hand on the top of her head to feel which way
+  CTC :  e a e e a  e a e a  e a e a e  
+  ATTN: 'i don't be the cat the cat the pigeon and the cat the caterpillar 'and the caterpillar
+
+--- Sample 37 (CTC=0.707, Attn=0.756) ---
+  REF : which way holding her hand on the top of her head to feel which way it was growing
+  CTC : aa a  e e  e a e a a e e a a  e a e
+  ATTN: the cat the caterpillar 'the cat the cat the cat the cat 'and the cat it the caterpillar
+
+--- Sample 38 (CTC=0.721, Attn=0.712) ---
+  REF : way holding her hand on the top of her head to feel which way it was growing and she was quite surprised
+  CTC : ae  e a e a e e e e e a e a a a  e 
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 39 (CTC=0.744, Attn=0.726) ---
+  REF : holding her hand on the top of her head to feel which way it was growing and she was quite surprised to find that she
+  CTC : a e a  e e e e a  e  e e o e e a e a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 40 (CTC=0.716, Attn=0.679) ---
+  REF : her head to feel which way it was growing and she was quite surprised to find that she remained the same size
+  CTC :  e e a e e o e e e a e e a e a e e e a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 41 (CTC=0.696, Attn=0.826) ---
+  REF : way it was growing and she was quite surprised to find that she remained the same size to be
+  CTC : a e  i e o e e a e a e e e e o e a 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 42 (CTC=0.703, Attn=0.792) ---
+  REF : and she was quite surprised to find that she remained the same size to be sure this generally happens
+  CTC :  e e o e e a e e e e e e e a e e a e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could to
+
+--- Sample 43 (CTC=0.686, Attn=0.765) ---
+  REF : surprised to find that she remained the same size to be sure this generally happens when one eats cake
+  CTC : a e a e e a e e  e e a e a e o e a e a
+  ATTN: 'it it was the cat the cat the caterpillar 'and the cat the cat the caterpillar 'and the was the was the cougat
+
+--- Sample 44 (CTC=0.708, Attn=0.888) ---
+  REF : she remained the same size to be sure this generally happens when one eats cake but alice
+  CTC : o e e  e e a e a e    e e a e e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 45 (CTC=0.686, Attn=0.953) ---
+  REF : size to be sure this generally happens when one eats cake but alice had gotten so much
+  CTC : a e e e  e e e e o e e e e e e a e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 46 (CTC=0.714, Attn=0.661) ---
+  REF : be sure this generally happens when one eats cake but alice had gotten so much into the way of expecting nothing
+  CTC : a e a e e o e e  a te a e e e e a  e e
+  ATTN: the was the caterpillar 'the cat was the cat the cat on the cat on the caterpillar
+
+--- Sample 47 (CTC=0.711, Attn=0.856) ---
+  REF : happens when one eats cake but alice had gotten so much into the way of expecting nothing but out
+  CTC : a e e  e e e a e e e e e e e e e e e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 48 (CTC=0.728, Attn=0.835) ---
+  REF : cake but alice had gotten so much into the way of expecting nothing but out of the way things to happen
+  CTC : a e e e e e e e e e e a  e e o e a e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 49 (CTC=0.752, Attn=0.780) ---
+  REF : alice had gotten so much into the way of expecting nothing but out of the way things to happen that it seemed
+  CTC : i e e e e e e e o e e a e  e e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the was s ouche t
+
+--- Sample 50 (CTC=0.775, Attn=0.811) ---
+  REF : much into the way of expecting nothing but out of the way things to happen that it seemed quite dull and stupid
+  CTC : a  e e a e e a e   e o e  e e o e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 51 (CTC=0.765, Attn=0.694) ---
+  REF : nothing but out of the way things to happen that it seemed quite dull and stupid for life to go on
+  CTC : a  e  e e e te  e  e e e e e e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 52 (CTC=0.750, Attn=0.769) ---
+  REF : out of the way things to happen that it seemed quite dull and stupid for life to go on in the common way
+  CTC : a e   e e a e e e e e  a a e  e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 53 (CTC=0.710, Attn=0.871) ---
+  REF : happen that it seemed quite dull and stupid for life to go on in the common way so she set to
+  CTC : a a e e e a e e  a a e e o e e e e a e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 54 (CTC=0.739, Attn=0.826) ---
+  REF : seemed quite dull and stupid for life to go on in the common way so she set to work and very
+  CTC : a e a e a a a   e e e e a e e  e e 
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the caterpillar 'and the could be the caterpilly
+
+--- Sample 55 (CTC=0.750, Attn=0.905) ---
+  REF : stupid for life to go on in the common way so she set to work and very soon finished
+  CTC : a e a a  a  a e e  e a e  e e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 56 (CTC=0.709, Attn=0.848) ---
+  REF : on in the common way so she set to work and very soon finished off the cake end
+  CTC :  e a e a e a  a a a e e e a e a a
+  ATTN: the was the caterpillar 'the cat the cat on the caterpillar 'the caterpillar 'and the caterpillar
+
+--- Sample 57 (CTC=0.724, Attn=0.914) ---
+  REF : so she set to work and very soon finished off the cake end
+  CTC : a a e a e a a  a a a a e a  
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar
+
+--- Sample 58 (CTC=0.695, Attn=0.932) ---
+  REF : to work and very soon finished off the cake end of chapter 
+  CTC : o   o e a a e  e e a a  e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 59 (CTC=0.681, Attn=1.277) ---
+  REF : very soon finished off the cake end of chapter 
+  CTC : ae e e a e e a  'e a a e a  e 
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar
+
+--- Sample 60 (CTC=0.730, Attn=1.568) ---
+  REF : finished off the cake end of chapter 
+  CTC : a e o e ei 'i e a e e a a e e e a a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 61 (CTC=1.467, Attn=4.667) ---
+  REF : end of chapter 
+  CTC : a e  e a e e   o e e a a   a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 62 (CTC=2.000, Attn=6.733) ---
+  REF : end of chapter 
+  CTC :  e a a e a a o e e e e ei a e e a e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the oouge oug
+
+--- Sample 63 (CTC=0.762, Attn=0.673) ---
+  REF : hair and it'll fetch things when you throw them and it'll sit up and beg for its dinner and all sorts
+  CTC : i e e a e a e e e a e a e a e e e 
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 64 (CTC=0.755, Attn=0.765) ---
+  REF : fetch things when you throw them and it'll sit up and beg for its dinner and all sorts of things i
+  CTC : a e e e e a e a e a e e e  e e a e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could on
+
+--- Sample 65 (CTC=0.747, Attn=0.747) ---
+  REF : throw them and it'll sit up and beg for its dinner and all sorts of things i can't remember half of
+  CTC : o a  e a e a e a e e a e e e a e e 
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 66 (CTC=0.733, Attn=0.871) ---
+  REF : sit up and beg for its dinner and all sorts of things i can't remember half of them and it belongs to
+  CTC : a e a e o o e o e e a  e e e a e ae
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the caterpilerin
+
+--- Sample 67 (CTC=0.716, Attn=0.779) ---
+  REF : its dinner and all sorts of things i can't remember half of them and it belongs to a farmer you
+  CTC : a e o e a e a e e e o e a e e a  e a 
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 68 (CTC=0.720, Attn=0.731) ---
+  REF : sorts of things i can't remember half of them and it belongs to a farmer you know and he says
+  CTC : a e e e e e a e a e e a  e e e a e e e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 69 (CTC=0.717, Attn=0.707) ---
+  REF : i can't remember half of them and it belongs to a farmer you know and he says it's so useful
+  CTC : a e  o a e e e a e e e a   i e a  a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 70 (CTC=0.718, Attn=0.859) ---
+  REF : them and it belongs to a farmer you know and he says it's so useful it's worth
+  CTC : o e e a e e e e a e  i e a e e a e e e
+  ATTN: 'i don't be the cat the cat the pigeon and the cat the caterpillar 'and the caterpillar
+
+--- Sample 71 (CTC=0.707, Attn=0.800) ---
+  REF : to a farmer you know and he says it's so useful it's worth a hundred pounds
+  CTC : a a e e e a a e e a e e o a e e  e a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 72 (CTC=0.716, Attn=1.068) ---
+  REF : you know and he says it's so useful it's worth a hundred pounds he says it
+  CTC : a   e e a e e e a e a e a e e e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 73 (CTC=0.708, Attn=0.819) ---
+  REF : says it's so useful it's worth a hundred pounds he says it kills all the
+  CTC : a  a e o a e a e a   e a  e e e e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 74 (CTC=0.704, Attn=1.056) ---
+  REF : useful it's worth a hundred pounds he says it kills all the rats and oh
+  CTC : a  e a e a   e a e a a e a e e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s
+
+--- Sample 75 (CTC=0.703, Attn=0.844) ---
+  REF : worth a hundred pounds he says it kills all the rats and oh dear
+  CTC : e a o  e e a e e a e a  e e e e a e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 76 (CTC=0.643, Attn=1.286) ---
+  REF : he says it kills all the rats and oh dear cried alice in
+  CTC : a e a e ee a e a e e e a a e a e a e
+  ATTN: the cat the cat on the cat the cat the could the cat on the was the caterpillar and the cat the was the
+
+--- Sample 77 (CTC=0.662, Attn=1.185) ---
+  REF : it kills all the rats and oh dear cried alice in a sorrowful tone
+  CTC : a e e a e  e e e a e a e e a e o o e e
+  ATTN: the was the cat the cat the cat the was to getting to the other the caterpillar and the cater and the was
+
+--- Sample 78 (CTC=0.693, Attn=0.973) ---
+  REF : the rats and oh dear cried alice in a sorrowful tone i'm afraid i'll offend
+  CTC : a e e e a a e a e e a e a e a  e a e e
+  ATTN: the was the caterpillar and the cat the cat on the cat on and the could be the cater and the cat she was
+
+--- Sample 79 (CTC=0.690, Attn=0.873) ---
+  REF : oh dear cried alice in a sorrowful tone i'm afraid i'll offend it again
+  CTC : a e e a e e a e  a a e a e a e a e ae
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 80 (CTC=0.733, Attn=0.733) ---
+  REF : cried alice in a sorrowful tone i'm afraid i'll offend it again for the mouse was swimming
+  CTC :  e a a  a a e a e o e a e ee a a a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 81 (CTC=0.747, Attn=0.768) ---
+  REF : in a sorrowful tone i'm afraid i'll offend it again for the mouse was swimming away from her as
+  CTC : a e a e a e a e a  e  i e e e a e e e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 82 (CTC=0.737, Attn=0.968) ---
+  REF : i'm afraid i'll offend it again for the mouse was swimming away from her as hard as it could go
+  CTC : a e a e e a  e i e e e a  e e e e o e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the could the caterpillar 'and the cook and the the se the s the warin
+
+--- Sample 83 (CTC=0.759, Attn=0.731) ---
+  REF : offend it again for the mouse was swimming away from her as hard as it could go and making quiet a commotion
+  CTC :  e   e e e e e o e e e e a e e e a e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could ton
+
+--- Sample 84 (CTC=0.748, Attn=0.738) ---
+  REF : for the mouse was swimming away from her as hard as it could go and making quiet a commotion in the pool as
+  CTC : i  e e e o e e e o e e e e e e a e e e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could to
+
+--- Sample 85 (CTC=0.753, Attn=0.753) ---
+  REF : swimming away from her as hard as it could go and making quiet a commotion in the pool as it went
+  CTC :  e e e e e e e e e e e e e e a e e e a e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 86 (CTC=0.727, Attn=0.974) ---
+  REF : as hard as it could go and making quiet a commotion in the pool as it went so
+  CTC :  e e e a a a  a e a e a e  e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 87 (CTC=0.708, Attn=0.819) ---
+  REF : and making quiet a commotion in the pool as it went so she called softly
+  CTC : i e a a a e a e a e  e a o e 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 88 (CTC=0.682, Attn=0.773) ---
+  REF : commotion in the pool as it went so she called softly after it the
+  CTC : a e a e a e  e 'o e a e e a  e
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 89 (CTC=0.636, Attn=1.127) ---
+  REF : as it went so she called softly after it the mouse dear
+  CTC : a a e  ' e a e a e a ae e a a
+  ATTN: 'i don't the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 90 (CTC=0.667, Attn=1.222) ---
+  REF : so she called softly after it the mouse dear do come back again
+  CTC :  a e a e a e a  e a e a e e a e
+  ATTN: 'i don't be the cat the cat the pigeon and the caterpillar 'it it a minute it it was the can the was the cougat
+
+--- Sample 91 (CTC=0.686, Attn=0.814) ---
+  REF : so she called softly after it the mouse dear do come back again and i won't talk about
+  CTC : o a e a e a e a e a  e a e a e a a
+  ATTN: 'i don't be the cat the cat the pigeon and the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 92 (CTC=0.741, Attn=0.753) ---
+  REF : softly after it the mouse dear do come back again and i won't talk about cats or dogs
+  CTC : a e e  a e a  e a e e a e  e e e a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 93 (CTC=0.696, Attn=0.911) ---
+  REF : the mouse dear do come back again and i won't talk about cats or dogs either if
+  CTC : e e a e e a e e a e a e a  e a e a e
+  ATTN: the cat the cat on the cat the cat the could the cat on the was the caterpillar and the cat the was the
+
+--- Sample 94 (CTC=0.714, Attn=0.857) ---
+  REF : do come back again and i won't talk about cats or dogs either if you don't like them
+  CTC : a e a e a e a e o i e e a e e a a e e
+  ATTN: the cat the cat on the cat the cat the could the cat on the was the caterpillar 'and the caterpillar
+
+--- Sample 95 (CTC=0.709, Attn=0.756) ---
+  REF : again and i won't talk about cats or dogs either if you don't like them when the mouse
+  CTC : aa e a e a e a a a e e e a e a  e e 
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 96 (CTC=0.689, Attn=1.149) ---
+  REF : about cats or dogs either if you don't like them when the mouse heard this
+  CTC : a  a e e a e e a e e e e i o e a e ae
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 97 (CTC=0.713, Attn=0.863) ---
+  REF : dogs either if you don't like them when the mouse heard this it turned round and
+  CTC :  e  e a e e  e i  e a e e e e a e
+  ATTN: the cat the cat on the cat the cat the could to be the caterpillar 'and the cat the caterpillar
+
+--- Sample 98 (CTC=0.741, Attn=0.988) ---
+  REF : if you don't like them when the mouse heard this it turned round and swam slowly back
+  CTC : e a e e  a  e a e e a e e e a e e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge s t
+
+--- Sample 99 (CTC=0.692, Attn=0.731) ---
+  REF : when the mouse heard this it turned round and swam slowly back to her its face
+  CTC :  e a e a e e a e e e a e e a e e e ee
+  ATTN: 'i don't the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 100 (CTC=0.702, Attn=0.988) ---
+  REF : mouse heard this it turned round and swam slowly back to her its face was quite pale
+  CTC : e e e a e e e e  e a e e e e a e e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 101 (CTC=0.698, Attn=0.756) ---
+  REF : it turned round and swam slowly back to her its face was quite pale with passion alice
+  CTC : 'i e e a e e a e e e e a e e a e e e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the cat the caterpillar
+
+--- Sample 102 (CTC=0.692, Attn=1.064) ---
+  REF : and swam slowly back to her its face was quite pale with passion alice thought
+  CTC : a e a e e e a a e e a e e o a e e ae
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 103 (CTC=0.735, Attn=0.976) ---
+  REF : back to her its face was quite pale with passion alice thought and it said in a low
+  CTC :  a e a e e  e a e e e  o e a  e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 104 (CTC=0.699, Attn=0.723) ---
+  REF : face was quite pale with passion alice thought and it said in a low trembling voice
+  CTC : a e a e e e e e o o e a e a e o  a
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 105 (CTC=0.716, Attn=0.881) ---
+  REF : with passion alice thought and it said in a low trembling voice let
+  CTC : aa e a e   e a e a a a a e a e e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was to her the caterpillar
+
+--- Sample 106 (CTC=0.689, Attn=0.878) ---
+  REF : alice thought and it said in a low trembling voice let us get to the shore
+  CTC : o e e a  e a a a e e a e  e a e e 
+  ATTN: the cat the caterpillar 'the cat the cat the cat the cat 'and the cat it the caterpillar
+
+--- Sample 107 (CTC=0.676, Attn=0.892) ---
+  REF : and it said in a low trembling voice let us get to the shore and then i'll
+  CTC : a a e e e e e e  a e a e e e e a  a
+  ATTN: the cat the cat on the cat the cat the could the cat on the was the caterpillar 'and the caterpillar
+
+--- Sample 108 (CTC=0.714, Attn=1.039) ---
+  REF : low trembling voice let us get to the shore and then i'll tell you my history
+  CTC : a e e o e a e e  e e  a e  a e  e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 109 (CTC=0.684, Attn=1.281) ---
+  REF : let us get to the shore and then i'll tell you my history
+  CTC : ae a a e e a e a a e a a e e e  a
+  ATTN: the cat the caterpillar 'the cat the cat the cat the was the caterpillar 'and the could be the caterpilly
+
+--- Sample 110 (CTC=0.735, Attn=0.759) ---
+  REF : let us get to the shore and then i'll tell you my history and you'll understand why
+  CTC : a e e a a e  a e e e e  e a   i
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 111 (CTC=0.735, Attn=0.735) ---
+  REF : shore and then i'll tell you my history and you'll understand why it is that i hate
+  CTC : e a e a a e  e  e a a e a e a a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 112 (CTC=0.744, Attn=0.756) ---
+  REF : i'll tell you my history and you'll understand why it is that i hate cats and dogs
+  CTC : a  e e e   e a e o e e a e e a e a
+  ATTN: the cat the cat on the cat the cat the could the cat on the cat on the caterpillar
+
+--- Sample 113 (CTC=0.735, Attn=1.191) ---
+  REF : history and you'll understand why it is that i hate cats and dogs it
+  CTC : a e a e a e e a e e a e a e e   a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 114 (CTC=0.696, Attn=1.145) ---
+  REF : and you'll understand why it is that i hate cats and dogs it was high
+  CTC : a a e e a e e a e a e a e e e a o e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 115 (CTC=0.697, Attn=1.212) ---
+  REF : why it is that i hate cats and dogs it was high time to go for the
+  CTC : a e a e  a e  e   e a  e e a e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 116 (CTC=0.708, Attn=1.083) ---
+  REF : hate cats and dogs it was high time to go for the pool was getting quite
+  CTC : e a e  e e e e e a  e e e a e a 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 117 (CTC=0.704, Attn=1.025) ---
+  REF : dogs it was high time to go for the pool was getting quite crowded with birds and
+  CTC : a e a e e a a  e e e a a  i a e e e i e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 118 (CTC=0.740, Attn=0.800) ---
+  REF : it was high time to go for the pool was getting quite crowded with birds and animals that had fallen
+  CTC : 'a e e a e e e a a a a a e e e e a a e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the oouge oug
+
+--- Sample 119 (CTC=0.723, Attn=0.802) ---
+  REF : high time to go for the pool was getting quite crowded with birds and animals that had fallen into it
+  CTC : a e e a o a a a o e e a a a e i a e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 120 (CTC=0.735, Attn=0.784) ---
+  REF : the pool was getting quite crowded with birds and animals that had fallen into it there was a duck and
+  CTC : e e e e o  e a o e a e e a e a e a e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 121 (CTC=0.732, Attn=0.963) ---
+  REF : crowded with birds and animals that had fallen into it there was a duck and a dodo
+  CTC : a e e a e e i e a e e a e  e  a e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 122 (CTC=0.693, Attn=1.120) ---
+  REF : and animals that had fallen into it there was a duck and a dodo a lorry and
+  CTC : a  e e a e e a a e a  e e  a e a e e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 123 (CTC=0.647, Attn=1.044) ---
+  REF : fallen into it there was a duck and a dodo a lorry and an eaglet and
+  CTC :  e e a e a e a e a e a o   a e e 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook the wood
+
+--- Sample 124 (CTC=0.707, Attn=0.813) ---
+  REF : there was a duck and a dodo a lorry and an eaglet and several other curious
+  CTC : o e e e  e e e o e o e e e e e e e
+  ATTN: 'i don't be the cat the cat the pigeon and the cat the caterpillar 'the caterpillar
+
+--- Sample 125 (CTC=0.676, Attn=0.838) ---
+  REF : and a dodo a lorry and an eaglet and several other curious creatures
+  CTC : a  e  a e e  e e e a e a e e e e
+  ATTN: 'i don't the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 126 (CTC=0.724, Attn=1.039) ---
+  REF : dodo a lorry and an eaglet and several other curious creatures alice led the
+  CTC :  e   a a e o   o e o  a e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was to her the caterpillar 'and the was the was the cougat
+
+--- Sample 127 (CTC=0.701, Attn=0.885) ---
+  REF : and an eaglet and several other curious creatures alice led the way and the whole party
+  CTC : e a a e  e e  e  o e e a e e a
+  ATTN: the cat the cat on the cat the cat the could the cat on the could to be the cat the was the could and the oucoucke t
+
+--- Sample 128 (CTC=0.704, Attn=0.741) ---
+  REF : several other curious creatures alice led the way and the whole party swam to the
+  CTC : o a e e e a e e e  e e a e a e e i
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the cat the caterpillar
+
+--- Sample 129 (CTC=0.699, Attn=0.890) ---
+  REF : curious creatures alice led the way and the whole party swam to the shore
+  CTC : a  e o  a  e a e a e a a e  e a e
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 130 (CTC=0.694, Attn=1.274) ---
+  REF : alice led the way and the whole party swam to the shore end of
+  CTC : o a a e a  e a e ei a a  e a 
+  ATTN: 'i don't be the cat the cat the pigeon and the caterpillar 'it it a minute it it was the can the was she coulouchat
+
+--- Sample 131 (CTC=0.672, Attn=1.109) ---
+  REF : the way and the whole party swam to the shore end of chapter two
+  CTC :  e a e a e a e e o  e ' e a e a e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was in and the
+
+--- Sample 132 (CTC=0.690, Attn=1.262) ---
+  REF : party swam to the shore end of chapter two
+  CTC : a a e a  e ae 'e a a e a e a e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 133 (CTC=0.714, Attn=2.143) ---
+  REF : the shore end of chapter two
+  CTC : a e 'i a a a a e a
+  ATTN: 'the caterpillar mouse it was it was the caterpillar 'it was the caterpillar
+
+--- Sample 134 (CTC=0.778, Attn=2.333) ---
+  REF : end of chapter two
+  CTC :  i a  a a a
+  ATTN: 'i don't the caterpillar 'it it was the caterpillar
+
+--- Sample 135 (CTC=0.721, Attn=1.605) ---
+  REF : sounded quite faint in the distance and yet
+  CTC : a e a  e e a e  a e a
+  ATTN: the cat the caterpillar 'the caterpillar 'and the caterpillar 'it was in a little was and the
+
+--- Sample 136 (CTC=0.657, Attn=1.543) ---
+  REF : in the distance and yet what a dear
+  CTC :  a e e e a e a a
+  ATTN: the cat the caterpillar 'the caterpillar 'and the caterpillar 'it was the cat
+
+--- Sample 137 (CTC=0.718, Attn=1.154) ---
+  REF : and yet what a dear little puppy it was
+  CTC : a ee  e a e a
+  ATTN: the cat the caterpillar 'the caterpillar 'and the caterpillar
+
+--- Sample 138 (CTC=0.705, Attn=1.205) ---
+  REF : and yet what a dear little puppy it was said
+  CTC : e a a a a a a a a e e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 139 (CTC=0.660, Attn=1.075) ---
+  REF : and yet what a dear little puppy it was said alice as
+  CTC :  a a e a a e e e e a a e a e a a a ee
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 140 (CTC=0.647, Attn=1.059) ---
+  REF : yet what a dear little puppy it was said alice as she leaped against
+  CTC : a a e a e e a a e a e e e a e a e a a
+  ATTN: the cat the caterpillar 'the cat the cat the cat the was the caterpillar 'and the could be the caterpilly
+
+--- Sample 141 (CTC=0.701, Attn=0.985) ---
+  REF : little puppy it was said alice as she leaped against a buttercup to
+  CTC : a e e e  e  e  e e a a e  a e e e
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 142 (CTC=0.647, Attn=0.853) ---
+  REF : was said alice as she leaped against a buttercup to rest herself and
+  CTC :  a e e e a e  a a e o e e  a e a
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 143 (CTC=0.679, Attn=0.769) ---
+  REF : said alice as she leaped against a buttercup to rest herself and found herself
+  CTC : o e e a e e  a e o a  e e a e o e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 144 (CTC=0.711, Attn=0.722) ---
+  REF : as she leaped against a buttercup to rest herself and found herself with one of the leaves
+  CTC :  e o a e a e e a e a a e a e a e o e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 145 (CTC=0.711, Attn=0.789) ---
+  REF : against a buttercup to rest herself and found herself with one of the leaves
+  CTC : a  e e  e a e o a e   o a e o a
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 146 (CTC=0.708, Attn=1.169) ---
+  REF : to rest herself and found herself with one of the leaves i should
+  CTC : a a a e  a e a e o a e a e e o e e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 147 (CTC=0.694, Attn=0.986) ---
+  REF : and found herself with one of the leaves i should have liked teaching it
+  CTC : a e  e e  a a e e  e e a e e a e a
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 148 (CTC=0.722, Attn=0.785) ---
+  REF : herself with one of the leaves i should have liked teaching it tricks very much
+  CTC : o a e e  e e e e a e e e a a a e e a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 149 (CTC=0.726, Attn=0.984) ---
+  REF : leaves i should have liked teaching it tricks very much if i'd
+  CTC : o e e e e a e e a a   e e e e e e a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 150 (CTC=0.727, Attn=1.182) ---
+  REF : i should have liked teaching it tricks very much if i'd
+  CTC :  e a e e a a e e e a a a e e
+  ATTN: 'i don't be the cat the cat the pigeon and the cat the caterpillar 'and the caterpillar
+
+--- Sample 151 (CTC=0.718, Attn=1.077) ---
+  REF : should have liked teaching it tricks very much if i'd only been the right size
+  CTC : i e e e e a e e e e o o   e e e e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 152 (CTC=0.717, Attn=1.433) ---
+  REF : it tricks very much if i'd only been the right size to do it
+  CTC : a e  e e e e e e e e a a e e e a e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 153 (CTC=0.698, Attn=1.528) ---
+  REF : much if i'd only been the right size to do it oh dear
+  CTC : a e e e e e e e a e e e a  e   a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 154 (CTC=0.689, Attn=1.822) ---
+  REF : i'd only been the right size to do it oh dear
+  CTC : a e e e a a e e a  e e e e a e e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 155 (CTC=0.697, Attn=0.864) ---
+  REF : i'd only been the right size to do it oh dear i'd nearly forgotten
+  CTC : a e e a e a e o e   ee e a  e 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 156 (CTC=0.724, Attn=0.966) ---
+  REF : size to do it oh dear i'd nearly forgotten that i'd got to
+  CTC : o e a e    e a e a a a e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 157 (CTC=0.724, Attn=1.172) ---
+  REF : oh dear i'd nearly forgotten that i'd got to grow up again
+  CTC : a e a e e a e a e a e  a
+  ATTN: 'i don't the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 158 (CTC=0.746, Attn=1.017) ---
+  REF : dear i'd nearly forgotten that i'd got to grow up again let
+  CTC : o e e a e e a e a e a  e a e e  a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 159 (CTC=0.708, Attn=0.908) ---
+  REF : i'd nearly forgotten that i'd got to grow up again let me see how
+  CTC : a e  i e a e a a e a e e e e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 160 (CTC=0.710, Attn=1.258) ---
+  REF : forgotten that i'd got to grow up again let me see how is this
+  CTC :  a a e a e a e e e a  ae e a e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 161 (CTC=0.679, Attn=1.038) ---
+  REF : to grow up again let me see how is this to be managed
+  CTC : a e e o e o  a e a e  a e e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 162 (CTC=0.658, Attn=1.395) ---
+  REF : let me see how is this to be managed i
+  CTC : o  o a  a a e a a ee a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 163 (CTC=0.667, Attn=1.351) ---
+  REF : let me see how is this to be managed i suppose i ought to
+  CTC :  a e e e a e  o e e e e e a e a e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was in and the
+
+--- Sample 164 (CTC=0.725, Attn=0.855) ---
+  REF : how is this to be managed i suppose i ought to eat or drink something
+  CTC : a a e a e e e e e e e e e a e e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 165 (CTC=0.712, Attn=1.045) ---
+  REF : to be managed i suppose i ought to eat or drink something or other
+  CTC : e e  e e e e e e a e e a e e a a e e
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 166 (CTC=0.720, Attn=1.013) ---
+  REF : i suppose i ought to eat or drink something or other but the great question
+  CTC : o  e a a e e a  e a e  e a ee 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 167 (CTC=0.705, Attn=1.077) ---
+  REF : i suppose i ought to eat or drink something or other but the great question is
+  CTC : a e e o e a e e e e e  e e  e e o e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 168 (CTC=0.723, Attn=1.154) ---
+  REF : to eat or drink something or other but the great question is what
+  CTC :  e a a a e e a e  a a e a e e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 169 (CTC=0.735, Attn=1.633) ---
+  REF : something or other but the great question is what
+  CTC : ae a e a    e e a e e  e a e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 170 (CTC=0.706, Attn=1.471) ---
+  REF : but the great question is what the
+  CTC : a a e a e a a    a
+  ATTN: 'the cat the cat the cat the cat the caterpillar 'and the caterpillar
+
+--- Sample 171 (CTC=0.743, Attn=1.514) ---
+  REF : question is what the great question
+  CTC : a e a e a  a o' ' a a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar
+
+--- Sample 172 (CTC=0.730, Attn=1.243) ---
+  REF : what the great question certainly was
+  CTC : ae e ' 'i a a e a e a
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar
+
+--- Sample 173 (CTC=0.730, Attn=2.027) ---
+  REF : the great question certainly was what
+  CTC : a e' ' a  a e a e a e e a
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'it all it it was the was the was
+
+--- Sample 174 (CTC=0.730, Attn=1.784) ---
+  REF : the great question certainly was what
+  CTC : o 'i a  a e a e a e a e a a e a
+  ATTN: 'i don't the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 175 (CTC=0.757, Attn=1.784) ---
+  REF : the great question certainly was what
+  CTC : a e e o a a e a e a e  e a e 
+  ATTN: 'i don't the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 176 (CTC=0.720, Attn=1.220) ---
+  REF : question certainly was what alice looked all round
+  CTC :  a e a e a e a e e  a e  e a
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 177 (CTC=0.658, Attn=1.395) ---
+  REF : was what alice looked all round her at
+  CTC : a  e a e  a e a a e a e a e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 178 (CTC=0.660, Attn=1.060) ---
+  REF : what alice looked all round her at the flowers and
+  CTC : a e a e a a e a e a a  e a 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 179 (CTC=0.677, Attn=0.769) ---
+  REF : alice looked all round her at the flowers and the blades of grass
+  CTC : aa a a a a a e a a e a e a e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 180 (CTC=0.638, Attn=1.072) ---
+  REF : alice looked all round her at the flowers and the blades of grass but
+  CTC : aa e a a e a  e e a e a e a e a e a
+  ATTN: the cat the caterpillar 'the cat the cat the cat the was the caterpillar 'and the could be the caterpilly
+
+--- Sample 181 (CTC=0.691, Attn=0.853) ---
+  REF : round her at the flowers and the blades of grass but she did not see
+  CTC : a e e a  e a e a e a e a e a
+  ATTN: the cat the caterpillar 'the cat the cat the cat the cat 'it was the caterpillar
+
+--- Sample 182 (CTC=0.709, Attn=0.734) ---
+  REF : at the flowers and the blades of grass but she did not see anything that looked
+  CTC : a  a e a e a e  a e a e a a
+  ATTN: the cat the caterpillar 'the cat the cat the cat the cat 'it was the caterpillar
+
+--- Sample 183 (CTC=0.741, Attn=0.741) ---
+  REF : and the blades of grass but she did not see anything that looked like the right thing
+  CTC : a  a e a e  e a e o a a e a e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 184 (CTC=0.729, Attn=0.771) ---
+  REF : grass but she did not see anything that looked like the right thing to
+  CTC : a e a e e ai a a e a a a a e a
+  ATTN: the cat the caterpillar 'the cat the cat the cat the was the caterpillar
+
+--- Sample 185 (CTC=0.735, Attn=0.759) ---
+  REF : but she did not see anything that looked like the right thing to eat or drink under
+  CTC : a e e a  i e a  e a a e e e a  e 
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 186 (CTC=0.741, Attn=0.765) ---
+  REF : see anything that looked like the right thing to eat or drink under the circumstances
+  CTC : a ei  e a e e a   a e e a e e a e a
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 187 (CTC=0.746, Attn=1.224) ---
+  REF : looked like the right thing to eat or drink under the circumstances
+  CTC : a  e e     e e a e e a e e  a a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the could the caterpillar 'and the cook and the the warthe
+
+--- Sample 188 (CTC=0.745, Attn=1.020) ---
+  REF : thing to eat or drink under the circumstances there
+  CTC : a e  a e a a e a e o   o a e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 189 (CTC=0.745, Attn=0.980) ---
+  REF : to eat or drink under the circumstances there was a
+  CTC : a a e e a e o    a eo  i
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 190 (CTC=0.720, Attn=1.040) ---
+  REF : under the circumstances there was a large mushroom
+  CTC : a a e e  a e e i a  e a  e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 191 (CTC=0.674, Attn=1.209) ---
+  REF : there was a large mushroom growing near her
+  CTC :  a e  i a a e a a e o e e a e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 192 (CTC=0.673, Attn=1.143) ---
+  REF : there was a large mushroom growing near her about
+  CTC : o e a a e a a e a e i e a a e a a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 193 (CTC=0.692, Attn=0.846) ---
+  REF : there was a large mushroom growing near her about the same height
+  CTC : e a e e a e a e a e e a e e  a e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the cat the caterpillar
+
+--- Sample 194 (CTC=0.682, Attn=1.242) ---
+  REF : a large mushroom growing near her about the same height as herself
+  CTC : a e a e   e e a e e  'a e e a e  a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 195 (CTC=0.710, Attn=1.097) ---
+  REF : mushroom growing near her about the same height as herself and
+  CTC : a e a a e e  'a e e a e a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 196 (CTC=0.683, Attn=1.033) ---
+  REF : her about the same height as herself and when she had looked
+  CTC : a ee a e a  e  e' ' e a e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 197 (CTC=0.646, Attn=0.815) ---
+  REF : about the same height as herself and when she had looked under it
+  CTC : a e a e e a e  'o e e a e a a  i e
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 198 (CTC=0.691, Attn=0.882) ---
+  REF : height as herself and when she had looked under it and on both sides
+  CTC :  a e 'o e a  e a e ei a e e a
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar
+
+--- Sample 199 (CTC=0.696, Attn=1.071) ---
+  REF : and when she had looked under it and on both sides of it
+  CTC : oe a e a  e a e ee a a e a e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 200 (CTC=0.643, Attn=0.829) ---
+  REF : and when she had looked under it and on both sides of it and behind it
+  CTC :  e a e a  e i a e a  e o e a e e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 201 (CTC=0.714, Attn=1.446) ---
+  REF : looked under it and on both sides of it and behind it it
+  CTC : a ee e a e e a e a e e a e a e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 202 (CTC=0.732, Attn=1.196) ---
+  REF : and on both sides of it and behind it it occurred to her
+  CTC : 'i a e a e a e e a e a e  a e a a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 203 (CTC=0.698, Attn=1.132) ---
+  REF : sides of it and behind it it occurred to her that she
+  CTC : o a e a a e a e a e a e a e e ae
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 204 (CTC=0.672, Attn=1.141) ---
+  REF : and behind it it occurred to her that she might as well look and
+  CTC : i e o e a e a e a e e e i a a e e e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was to her the caterpillar 'and the caterpillar
+
+--- Sample 205 (CTC=0.697, Attn=1.039) ---
+  REF : it it occurred to her that she might as well look and see what was on top of
+  CTC :    e a e a e a a o e  e  e a e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 206 (CTC=0.684, Attn=0.750) ---
+  REF : it occurred to her that she might as well look and see what was on top of it
+  CTC : a  e e e a a e  a e a e  o e e 
+  ATTN: the cat the cat on the cat the cat the could the cat on the cat on the caterpillar
+
+--- Sample 207 (CTC=0.708, Attn=1.108) ---
+  REF : her that she might as well look and see what was on top of it she
+  CTC :  a a  a e e a e e  a e e
+  ATTN: 'i don't be the cat the cat the pigeon and the caterpillar 'it it a minute it it was the was the was the con
+
+--- Sample 208 (CTC=0.727, Attn=0.773) ---
+  REF : she might as well look and see what was on top of it she stretched
+  CTC : a e a e a e e a a e  e a 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 209 (CTC=0.686, Attn=1.255) ---
+  REF : and see what was on top of it she stretched herself
+  CTC : a a e e a e  'a e e a e e a
+  ATTN: 'i don't the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 210 (CTC=0.758, Attn=2.000) ---
+  REF : of it she stretched herself up on
+  CTC : o  a a a a a a a e a e 
+  ATTN: the cat the caterpillar 'the caterpillar 'and the caterpillar 'it was the caterpillar
+
+--- Sample 211 (CTC=0.744, Attn=1.385) ---
+  REF : she stretched herself up on tip toe and
+  CTC : o a e a a a e a  a a a e  a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 212 (CTC=0.718, Attn=1.333) ---
+  REF : she stretched herself up on tip toe and
+  CTC : a e a a a a a  a e a e a e a
+  ATTN: the cat the caterpillar 'the cat the cat the cat the was the caterpillar
+
+--- Sample 213 (CTC=0.681, Attn=1.170) ---
+  REF : stretched herself up on tip toe and peeped over
+  CTC : a e e e a e e a e a  e e e a a e a ee
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 214 (CTC=0.677, Attn=1.032) ---
+  REF : herself up on tip toe and peeped over the edge of the mushroom
+  CTC : a e a  e a e e e e e a a a a e o o a
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 215 (CTC=0.706, Attn=1.490) ---
+  REF : on tip toe and peeped over the edge of the mushroom
+  CTC : a e a a e e a a e a a a e a a e e 
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the caterpillar 'and the could be the cat on an
+
+--- Sample 216 (CTC=0.774, Attn=1.434) ---
+  REF : and peeped over the edge of the mushroom and her eyes
+  CTC : o a a a a a a a a a  a a e a
+  ATTN: the cat the caterpillar 'the cat the cat it was the cat in a great the cater and the cat and the was the
+
+--- Sample 217 (CTC=0.667, Attn=0.841) ---
+  REF : and peeped over the edge of the mushroom and her eyes immediately met
+  CTC :  a e e e o a e o a e a e a a o a e
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 218 (CTC=0.719, Attn=1.094) ---
+  REF : over the edge of the mushroom and her eyes immediately met those
+  CTC : a  a  e a  e a e a a a a e a e a
+  ATTN: the was the caterpillar and the cat the cat on the cat on and the could be the cater and the cat she was
+
+--- Sample 219 (CTC=0.729, Attn=1.083) ---
+  REF : mushroom and her eyes immediately met those of a
+  CTC : a e  e a e a a a a a e a a a e a
+  ATTN: the was the caterpillar and the cat the caterpillar 'and the caterpillar
+
+--- Sample 220 (CTC=0.684, Attn=1.088) ---
+  REF : and her eyes immediately met those of a large caterpillar
+  CTC : a a  a a a e a e a a a a ee e a e a
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 221 (CTC=0.685, Attn=1.148) ---
+  REF : eyes immediately met those of a large caterpillar that
+  CTC : a a a e e a a a a  e a a a e a e a
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 222 (CTC=0.755, Attn=0.898) ---
+  REF : met those of a large caterpillar that was sitting
+  CTC : a  e e e e e o e e e e a e e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 223 (CTC=0.738, Attn=0.639) ---
+  REF : those of a large caterpillar that was sitting on the top with
+  CTC : a  e a  e a e a e e a a e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 224 (CTC=0.721, Attn=0.689) ---
+  REF : a large caterpillar that was sitting on the top with its arms
+  CTC : ae e  a e a  e a a a e e a ae
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 225 (CTC=0.750, Attn=0.833) ---
+  REF : caterpillar that was sitting on the top with its arms folded
+  CTC : o   a  e a a a e e a a e a e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 226 (CTC=0.732, Attn=1.018) ---
+  REF : that was sitting on the top with its arms folded quietly
+  CTC : o a  e a a a e e a a e a a e a e a
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 227 (CTC=0.764, Attn=1.036) ---
+  REF : sitting on the top with its arms folded quietly smoking
+  CTC : a  e  a a a e a e a e  e  e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 228 (CTC=0.744, Attn=1.651) ---
+  REF : with its arms folded quietly smoking a long
+  CTC :   a e a e  a e  a e a e a e a
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it alice 'and the caterpillar
+
+--- Sample 229 (CTC=0.780, Attn=1.512) ---
+  REF : arms folded quietly smoking a long hooker
+  CTC : e a e a e  a e a e e a a e a a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 230 (CTC=0.800, Attn=1.950) ---
+  REF : folded quietly smoking a long hooker and
+  CTC : a a a  a a a a a a e  e 
+  ATTN: the cat the caterpillar 'the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 231 (CTC=0.667, Attn=1.417) ---
+  REF : quietly smoking a long hooker and taking not the
+  CTC :  e e o e e a a e a e a e a e e o ee
+  ATTN: 'i don't be the cat the cat the pigeon and the cat the caterpillar 'and the caterpillar
+
+--- Sample 232 (CTC=0.714, Attn=1.204) ---
+  REF : smoking a long hooker and taking not the smallest
+  CTC : a a e e e a e e e e a e a e a e a e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 233 (CTC=0.679, Attn=1.075) ---
+  REF : long hooker and taking not the smallest notice of her
+  CTC : aa  e a e  a e a e a e a a e a  e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 234 (CTC=0.725, Attn=1.373) ---
+  REF : hooker and taking not the smallest notice of her or
+  CTC : ae a  e a e a a a e a e e a a a a a
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 235 (CTC=0.689, Attn=0.918) ---
+  REF : and taking not the smallest notice of her or of anything else
+  CTC : a a e a e a e  e a a a a e o e a
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 236 (CTC=0.696, Attn=1.261) ---
+  REF : the smallest notice of her or of anything else
+  CTC : a e a e a  e e   a e a a e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the cat the caterpillar
+
+--- Sample 237 (CTC=0.738, Attn=1.381) ---
+  REF : smallest notice of her or of anything else
+  CTC : a a  a a a e  a   e a e 
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat on the caterpillar
+
+--- Sample 238 (CTC=0.783, Attn=2.565) ---
+  REF : her or of anything else
+  CTC : a a e a a e a aa
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 239 (CTC=0.739, Attn=2.696) ---
+  REF : or of anything else end
+  CTC :  a a e a aea 
+  ATTN: the caterpillar 'it was the can the caterpillar 'and the cat the caterpillar
+
+--- Sample 240 (CTC=0.700, Attn=3.350) ---
+  REF : else end of chapter 
+  CTC :  a a e a e 
+  ATTN: the caterpillar 'it was the can the caterpillar 'i was it a could to be the can
+
+--- Sample 241 (CTC=0.792, Attn=2.625) ---
+  REF : end of chapter  recorded
+  CTC :  a a a  a a  a ea
+  ATTN: the caterpillar 'it was the can the caterpillar 'and the cat the caterpillar
+
+--- Sample 242 (CTC=0.815, Attn=2.852) ---
+  REF : end of chapter  recorded on
+  CTC :  a a a a a e a aa a a e
+  ATTN: the cat the caterpillar 'the caterpillar 'and the caterpillar 'it was in a little was and the
+
+--- Sample 243 (CTC=0.744, Attn=1.769) ---
+  REF : end of chapter  recorded on tuesday the
+  CTC : ae a e a a e a e e a a a   e a
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it alice 'and the caterpillar
+
+--- Sample 244 (CTC=0.714, Attn=1.857) ---
+  REF : end of chapter  recorded on tuesday the th
+  CTC : a e a  e e e  e a a a a a a e a e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 245 (CTC=0.714, Attn=1.762) ---
+  REF :  recorded on tuesday the th of december in
+  CTC : a e a a   a a e a e e a  e a e
+  ATTN: the cat the caterpillar 'the cat the cat the cat the cat 'and the cat the cat in a growling and the
+
+--- Sample 246 (CTC=0.700, Attn=1.300) ---
+  REF : recorded on tuesday the th of december in new york
+  CTC : a e a a e e e e a e e e a e e a a e e e
+  ATTN: the cat the cat on the cat the cat the cat the cat the caterpillar 'and the cat the caterpillar
+
+--- Sample 247 (CTC=0.680, Attn=1.160) ---
+  REF : on tuesday the th of december in new york new york
+  CTC : a e e e a e e e a e e e e a a e a e a e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 248 (CTC=0.744, Attn=1.410) ---
+  REF : the th of december in new york new york
+  CTC :  a a a  e a a a a e a e a e  e
+  ATTN: the cat the caterpillar 'the cat the cat the cat the was the caterpillar
+
+--- Sample 249 (CTC=0.714, Attn=1.714) ---
+  REF : th of december in new york new york
+  CTC : aa  e a a e a e a e 
+  ATTN: the cat the caterpillar 'the caterpillar 'and the caterpillar 'it was the cat
+
+--- Sample 250 (CTC=0.800, Attn=2.900) ---
+  REF : in new york new york
+  CTC :  a a a a a ea
+  ATTN: 'i don't the caterpillar 'i don't the caterpillar and the caterpillar
+
+--- Sample 251 (CTC=0.846, Attn=5.615) ---
+  REF : york new york
+  CTC : a e a e a
+  ATTN: the caterpillar 'it was the can the caterpillar 'it was it a was the caterpillar
+
+--- Sample 252 (CTC=0.706, Attn=0.847) ---
+  REF : 'after a while she remembered that she still held the pieces of mushroom in her hands
+  CTC : 'ie e e  e  e e e o e e  e e a e a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the cat the cat the was the
+
+--- Sample 253 (CTC=0.725, Attn=0.758) ---
+  REF : a while she remembered that she still held the pieces of mushroom in her hands 'and she set
+  CTC : e e a e e a e e a e a e  e e e e 
+  ATTN: the cat the cat on the cat the cat the could the cat on the cat on the caterpillar 'and the cat the ought
+
+--- Sample 254 (CTC=0.716, Attn=0.794) ---
+  REF : remembered that she still held the pieces of mushroom in her hands 'and she set to work very carefully
+  CTC : a e e e e  e e te e e e e e a e e e a e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the caterpilerin wat
+
+--- Sample 255 (CTC=0.683, Attn=0.707) ---
+  REF : still held the pieces of mushroom in her hands 'and she set to work very carefully
+  CTC : i e e a e a e e e 'a e e e  e e a e e 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 256 (CTC=0.709, Attn=0.810) ---
+  REF : mushroom in her hands 'and she set to work very carefully nibbling first at one
+  CTC : a e  e e 'a e e a e e e e e a a e e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 257 (CTC=0.696, Attn=0.848) ---
+  REF : 'and she set to work very carefully nibbling first at one and then at the other
+  CTC : i i e e a e e e e e 'a e e o e a e e e 
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the cat the cat the pigeon
+
+--- Sample 258 (CTC=0.699, Attn=0.806) ---
+  REF : set to work very carefully nibbling first at one and then at the other 'and growing sometimes
+  CTC : o e a e e e e o e a te a e e e e e e e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could on
+
+--- Sample 259 (CTC=0.724, Attn=0.862) ---
+  REF : carefully nibbling first at one and then at the other 'and growing sometimes taller and
+  CTC : i e a e e a e a e e e e e e e e e e  e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could on
+
+--- Sample 260 (CTC=0.726, Attn=1.453) ---
+  REF : nibbling first at one and then at the other 'and growing sometimes taller and sometimes shorter
+  CTC :  e te e o te e e e e e e e e o te e  e 
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar 'and the cat was the cougathe s the oout oouchillld we s t t thithillild t tit thathinthind s wathile we t s t t
+
+--- Sample 261 (CTC=0.735, Attn=0.786) ---
+  REF : and then at the other 'and growing sometimes taller and sometimes shorter 'until she had succeeded
+  CTC : i e o  e e e e e e  e o e o e e e e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could on
+
+--- Sample 262 (CTC=0.745, Attn=0.814) ---
+  REF : other 'and growing sometimes taller and sometimes shorter 'until she had succeeded in bringing herself
+  CTC : a o e e e e  e o e e e e e e a te e e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could on
+
+--- Sample 263 (CTC=0.726, Attn=0.937) ---
+  REF : sometimes taller and sometimes shorter 'until she had succeeded in bringing herself down to her
+  CTC : a  te a te e e e e e e e e e te  e a e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 264 (CTC=0.747, Attn=0.934) ---
+  REF : and sometimes shorter 'until she had succeeded in bringing herself down to her usual height
+  CTC : o e e e e e e o e o e e e e e e e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s ouche t
+
+--- Sample 265 (CTC=0.696, Attn=1.000) ---
+  REF : 'until she had succeeded in bringing herself down to her usual height
+  CTC : 'i e a e a e e e i e a e e e e e 
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 266 (CTC=0.726, Attn=0.984) ---
+  REF : succeeded in bringing herself down to her usual height 'it was
+  CTC : e e a e e e a   e e e 'o e e
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 267 (CTC=0.741, Attn=1.207) ---
+  REF : herself down to her usual height 'it was so long since she
+  CTC : i e a e e e e' 'o e  e  a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 268 (CTC=0.723, Attn=0.954) ---
+  REF : her usual height 'it was so long since she had been anything near
+  CTC : a   e' ' a  e a  e e a a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 269 (CTC=0.683, Attn=0.968) ---
+  REF : 'it was so long since she had been anything near the right size
+  CTC : '' 'o e a e e a a e e a e e  e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 270 (CTC=0.687, Attn=0.723) ---
+  REF : 'it was so long since she had been anything near the right size 'that it felt quite
+  CTC : 'i   e  e e e e e e o e a o  e a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the cat was the caterpillar
+
+--- Sample 271 (CTC=0.729, Attn=0.688) ---
+  REF : was so long since she had been anything near the right size 'that it felt quite strange at first
+  CTC : oe e e e e e e e o e e e e e e e  e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 272 (CTC=0.700, Attn=0.767) ---
+  REF : she had been anything near the right size 'that it felt quite strange at first but she got
+  CTC : e e e e  e e e e a e e  e e e e e e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could to
+
+--- Sample 273 (CTC=0.682, Attn=0.705) ---
+  REF : near the right size 'that it felt quite strange at first but she got used to it in a few
+  CTC :  e e e e a te a te e  e i e e e a e e
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 274 (CTC=0.695, Attn=0.842) ---
+  REF : 'that it felt quite strange at first but she got used to it in a few minutes 'and began talking
+  CTC : o e a te e te e o e  e e e e a e e a e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the could on
+
+--- Sample 275 (CTC=0.705, Attn=0.842) ---
+  REF : quite strange at first but she got used to it in a few minutes 'and began talking to herself as
+  CTC : o e e o i  e e e a e e e e a e e e 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate tougathe
+
+--- Sample 276 (CTC=0.679, Attn=1.026) ---
+  REF : but she got used to it in a few minutes 'and began talking to herself as usual
+  CTC : 'i e e e e a  e e e a  e e  i a e e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge o
+
+--- Sample 277 (CTC=0.724, Attn=0.961) ---
+  REF : got used to it in a few minutes 'and began talking to herself as usual 'come
+  CTC : a a  e e e a  e ei e e e a e e 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar 'and the could and
+
+--- Sample 278 (CTC=0.685, Attn=0.890) ---
+  REF : minutes 'and began talking to herself as usual 'come there's half my plan
+  CTC : ae a e e e i e e e  e  ' e e e a a
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 279 (CTC=0.683, Attn=1.048) ---
+  REF : talking to herself as usual 'come there's half my plan done now
+  CTC : a a e e  e 'i e e e e e a e e e
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 280 (CTC=0.726, Attn=1.097) ---
+  REF : as usual 'come there's half my plan done now 'how puzzling all
+  CTC : o e e e  e e e e e a e a e a e a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 281 (CTC=0.662, Attn=0.944) ---
+  REF : 'come there's half my plan done now 'how puzzling all these changes are
+  CTC : ' e e e a e a e e  e a e a e a e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 282 (CTC=0.713, Attn=0.954) ---
+  REF : 'come there's half my plan done now 'how puzzling all these changes are 'i'm never sure
+  CTC : i o e e  e  e a e a e a e e  e e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the caterpilerin
+
+--- Sample 283 (CTC=0.714, Attn=0.868) ---
+  REF : plan done now 'how puzzling all these changes are 'i'm never sure what i'm going to be from
+  CTC :  e  e a e a e a e e e e e  e e e 
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the cat the caterpillar
+
+--- Sample 284 (CTC=0.707, Attn=0.798) ---
+  REF : 'how puzzling all these changes are 'i'm never sure what i'm going to be from one minute to another
+  CTC : 'i a e a e e e e e e e  e e e a e e i
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the cat the caterpillar
+
+--- Sample 285 (CTC=0.734, Attn=0.777) ---
+  REF : all these changes are 'i'm never sure what i'm going to be from one minute to another 'however
+  CTC : 'i e a e e e a e  a e a e  a  e a 
+  ATTN: 'i shall think the cat the cat the cat the cat the was it and the cat it alice 'and the caterpilled
+
+--- Sample 286 (CTC=0.697, Attn=0.753) ---
+  REF : 'i'm never sure what i'm going to be from one minute to another 'however i've got back to
+  CTC : '  e e  a e a e e e e e a o e o e a
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 287 (CTC=0.707, Attn=0.913) ---
+  REF : sure what i'm going to be from one minute to another 'however i've got back to my right size
+  CTC :  a e e  e e e e e e e e e e e a e e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug outhilld
+
+--- Sample 288 (CTC=0.671, Attn=1.012) ---
+  REF : from one minute to another 'however i've got back to my right size 'the next thing is
+  CTC : o o e  e a a e e e e e a  e e e e  e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 289 (CTC=0.735, Attn=1.012) ---
+  REF : another 'however i've got back to my right size 'the next thing is to get into that
+  CTC : a i a e  e e e a e e e e a e a e a e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge o
+
+--- Sample 290 (CTC=0.707, Attn=0.902) ---
+  REF : 'however i've got back to my right size 'the next thing is to get into that beautiful garden
+  CTC : a o e e e a e e e a te e e e e e e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the caterpilerin wat
+
+--- Sample 291 (CTC=0.729, Attn=0.941) ---
+  REF : to my right size 'the next thing is to get into that beautiful garden 'how is that to
+  CTC : a e e a e e e e e e e e  e e e  e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge o t
+
+--- Sample 292 (CTC=0.698, Attn=0.802) ---
+  REF : 'the next thing is to get into that beautiful garden 'how is that to be done i wonder'
+  CTC : 'i e e e  e e e o e e e e e e e e e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could on
+
+--- Sample 293 (CTC=0.657, Attn=1.157) ---
+  REF : is to get into that beautiful garden 'how is that to be done i wonder'
+  CTC : o e e e a e e a  i e a e e o e a e e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge o
+
+--- Sample 294 (CTC=0.699, Attn=0.918) ---
+  REF : that beautiful garden 'how is that to be done i wonder' 'as she said this
+  CTC : o e e a a e a e e a e e e 'e a e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 295 (CTC=0.652, Attn=0.913) ---
+  REF : 'how is that to be done i wonder' 'as she said this she came suddenly
+  CTC : 'i e a e e a e e a e 'e a  e e e e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 296 (CTC=0.680, Attn=0.773) ---
+  REF : to be done i wonder' 'as she said this she came suddenly upon an open place
+  CTC : a e e e a e' 'i a  e  i e e a e e 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 297 (CTC=0.701, Attn=1.039) ---
+  REF : wonder' 'as she said this she came suddenly upon an open place 'with a little
+  CTC : a e e 'i a e e e i e e e  e  e a e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug outhilly
+
+--- Sample 298 (CTC=0.678, Attn=0.839) ---
+  REF : 'as she said this she came suddenly upon an open place 'with a little house in it about
+  CTC : 'i  e e e i  e e a e e  e a e e a e a
+  ATTN: 'it it was the cat the cat the caterpillar 'and the cat the cat the caterpillar 'and the caterpillar
+
+--- Sample 299 (CTC=0.711, Attn=0.933) ---
+  REF : this she came suddenly upon an open place 'with a little house in it about four feet high'
+  CTC : ae e e e e  e o te a e e e e e e  e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 300 (CTC=0.724, Attn=1.105) ---
+  REF : suddenly upon an open place 'with a little house in it about four feet high'
+  CTC : a e e a e e  e e e a a e a e e  e  o
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 301 (CTC=0.696, Attn=0.928) ---
+  REF : place 'with a little house in it about four feet high' 'whoever lives
+  CTC : a  e e e e i a a e e a e e' 'i a e
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 302 (CTC=0.724, Attn=0.908) ---
+  REF : little house in it about four feet high' 'whoever lives there' thought alice
+  CTC : a ei i e a e a e e' 'o e a e a e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 303 (CTC=0.701, Attn=1.000) ---
+  REF : four feet high' 'whoever lives there' thought alice 'it'll never do
+  CTC :  e a  e i' 'o e e a e e e e e a e
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 304 (CTC=0.713, Attn=0.900) ---
+  REF : high' 'whoever lives there' thought alice 'it'll never do to come upon them this
+  CTC : '' 'o e e a e e e e e a e a  e a
+  ATTN: 'it it was the caterpillar 'it was the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 305 (CTC=0.696, Attn=0.797) ---
+  REF : 'whoever lives there' thought alice 'it'll never do to come upon them this size
+  CTC : 'i  e e a  e e e a e e e  e e e e e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the cat the caterpillar
+
+--- Sample 306 (CTC=0.731, Attn=0.903) ---
+  REF : lives there' thought alice 'it'll never do to come upon them this size 'why i should frighten
+  CTC : a  o  e e e o e e o e e  e o e  e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s ouche t
+
+--- Sample 307 (CTC=0.729, Attn=0.844) ---
+  REF : alice 'it'll never do to come upon them this size 'why i should frighten them out of their wits'
+  CTC : i e o e e a e e e e e a e  e e e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 308 (CTC=0.716, Attn=0.975) ---
+  REF : do to come upon them this size 'why i should frighten them out of their wits' 'so
+  CTC : a e e e o e o e a e e e a e e a e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the could on
+
+--- Sample 309 (CTC=0.747, Attn=0.911) ---
+  REF : this size 'why i should frighten them out of their wits' 'so she began nibbling
+  CTC : a  e  e  e e e a e e  e 'i o  ee
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 310 (CTC=0.742, Attn=0.888) ---
+  REF : 'why i should frighten them out of their wits' 'so she began nibbling at the right hand a
+  CTC :  e e e e a e e a e e  o o e e a e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge o
+
+--- Sample 311 (CTC=0.733, Attn=0.889) ---
+  REF : frighten them out of their wits' 'so she began nibbling at the right hand a bit again 'and
+  CTC : ae o e a e e   o e e e e a e e e  e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the caterpilerin
+
+--- Sample 312 (CTC=0.753, Attn=0.882) ---
+  REF : wits' 'so she began nibbling at the right hand a bit again 'and did not venture to go
+  CTC : a   o e e e e e o e e e e e e a e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge o
+
+--- Sample 313 (CTC=0.702, Attn=0.777) ---
+  REF : 'so she began nibbling at the right hand a bit again 'and did not venture to go near the house
+  CTC : ' e e e e e a e e   e e e e e e e e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could on
+
+--- Sample 314 (CTC=0.754, Attn=0.737) ---
+  REF : nibbling at the right hand a bit again 'and did not venture to go near the house 'til she had brought herself down
+  CTC :  e e e e e a e e e e e e e e a te e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the could on
+
+--- Sample 315 (CTC=0.699, Attn=0.806) ---
+  REF : bit again 'and did not venture to go near the house 'til she had brought herself down to nine
+  CTC : a e o e e e e e e e e e a e e e e e a e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could to
+
+--- Sample 316 (CTC=0.719, Attn=0.698) ---
+  REF : 'and did not venture to go near the house 'til she had brought herself down to nine inches high'
+  CTC : a e e e e e e a  e e e e a e e  e o e
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 317 (CTC=0.750, Attn=1.028) ---
+  REF : go near the house 'til she had brought herself down to nine inches high'
+  CTC : a  i i a  e e e a e a e a e   
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar 'and the could the cate
+
+--- Sample 318 (CTC=0.724, Attn=1.155) ---
+  REF : 'til she had brought herself down to nine inches high' end
+  CTC : oi a e e a e a te a e o e 'o
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 319 (CTC=0.711, Attn=1.578) ---
+  REF : down to nine inches high' end of chapter five
+  CTC : e a  a e  e ' 'i a e a ee
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 320 (CTC=0.688, Attn=2.312) ---
+  REF : inches high' end of chapter five
+  CTC :  a e a ' e a  e  e  i
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 321 (CTC=0.735, Attn=2.176) ---
+  REF : high' end of chapter five recorded
+  CTC : a a e' 'i a a e a e  o a e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 322 (CTC=0.682, Attn=1.614) ---
+  REF : high' end of chapter five recorded december 
+  CTC : ' e a  a  e e e 'a a  a e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 323 (CTC=0.789, Attn=1.895) ---
+  REF : end of chapter five recorded december 
+  CTC : i a e a e o e 'o e a e e a e e a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 324 (CTC=0.852, Attn=2.741) ---
+  REF : five recorded december   in
+  CTC : a  e 'a e e  e e a e a e e  e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 325 (CTC=0.800, Attn=2.125) ---
+  REF : recorded december   in longmont colorado
+  CTC : ae a e e  e e a e a e e a a a a e e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the caterpilly
+
+--- Sample 326 (CTC=0.775, Attn=2.400) ---
+  REF : recorded december   in longmont colorado
+  CTC : a  e e e e e a e e  a a a  e  e e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s ouche s
+
+--- Sample 327 (CTC=1.227, Attn=4.273) ---
+  REF :   in longmont colorado
+  CTC : a e a e e a i e  e e a a e o ee a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the caterpilly
+
+--- Sample 328 (CTC=1.095, Attn=3.762) ---
+  REF :  in longmont colorado
+  CTC : a e e a e e e a  e  e e a e
+  ATTN: 'the cat the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 329 (CTC=0.900, Attn=3.500) ---
+  REF : in longmont colorado
+  CTC : a i a a e   'e e i
+  ATTN: 'the caterpillar which a great the cat 'it was the caterpillar 'the caterpillar
+
+--- Sample 330 (CTC=1.375, Attn=7.250) ---
+  REF : colorado
+  CTC :   a e e e '
+  ATTN: 'the caterpillar which a great the cat 'it was the caterpillar
+
+--- Sample 331 (CTC=0.727, Attn=0.636) ---
+  REF : the march hare was said to live 'i've seen hatters before' she said to herself 'the march hare will
+  CTC : a e a e ee e e a e a e a e    e o e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 332 (CTC=0.760, Attn=0.650) ---
+  REF : to live 'i've seen hatters before' she said to herself 'the march hare will be much more interesting
+  CTC : a e a a a e a e  e e   e  e a e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was to her the caterpillar
+
+--- Sample 333 (CTC=0.743, Attn=0.743) ---
+  REF : 'i've seen hatters before' she said to herself 'the march hare will be much more interesting 'and perhaps
+  CTC : a  e e  e e o   e  e  e e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook the could
+
+--- Sample 334 (CTC=0.721, Attn=0.802) ---
+  REF : she said to herself 'the march hare will be much more interesting 'and perhaps as this
+  CTC : a e  e  e e  e e e e e a e e e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 335 (CTC=0.671, Attn=0.808) ---
+  REF : 'the march hare will be much more interesting 'and perhaps as this is may
+  CTC : 'i e a  e  e  e a e e a e e a e e 
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 336 (CTC=0.713, Attn=0.900) ---
+  REF : will be much more interesting 'and perhaps as this is may it won't be raving mad
+  CTC :  a e e e a e e a e e a e o a a e e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the cat the caterpillar
+
+--- Sample 337 (CTC=0.722, Attn=1.167) ---
+  REF : interesting 'and perhaps as this is may it won't be raving mad 'at least
+  CTC :  e a e e a e e a e e e e e  e  ee
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 338 (CTC=0.734, Attn=0.859) ---
+  REF : as this is may it won't be raving mad 'at least not so mad as it
+  CTC : i e e e e e e e e e  e a e a e e e
+  ATTN: 'i don't the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 339 (CTC=0.707, Attn=1.107) ---
+  REF : this is may it won't be raving mad 'at least not so mad as it was in march'
+  CTC : a e a e e  e e a e e a   i i e e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge o t
+
+--- Sample 340 (CTC=0.667, Attn=0.852) ---
+  REF : it won't be raving mad 'at least not so mad as it was in march' 'as she said this
+  CTC : 'o  e o e a e e o e  i a  e a e a ee
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the cat the cat the was the
+
+--- Sample 341 (CTC=0.691, Attn=0.864) ---
+  REF : mad 'at least not so mad as it was in march' 'as she said this she looked up 'and
+  CTC : i  e e  e  i a e e a e e a e e  e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook the could an
+
+--- Sample 342 (CTC=0.736, Attn=0.813) ---
+  REF : not so mad as it was in march' 'as she said this she looked up 'and there was the cat again
+  CTC :  e e e e a e e e e e  e a e e e  e 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 343 (CTC=0.728, Attn=0.718) ---
+  REF : it was in march' 'as she said this she looked up 'and there was the cat again 'sitting on the branch of
+  CTC :  e e e e e a e e a e e e e e  a a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 344 (CTC=0.703, Attn=0.713) ---
+  REF : march' 'as she said this she looked up 'and there was the cat again 'sitting on the branch of a tree'
+  CTC : ' e a e e a e a e    a e e a e a e i
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the cat the cat the was the
+
+--- Sample 345 (CTC=0.756, Attn=0.686) ---
+  REF : this she looked up 'and there was the cat again 'sitting on the branch of a tree' 'did
+  CTC : e  e a  e a i e e  e  e  
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 346 (CTC=0.714, Attn=0.779) ---
+  REF : there was the cat again 'sitting on the branch of a tree' 'did you say pig or
+  CTC : o e e i a e e  e  e  'i  o e a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 347 (CTC=0.707, Attn=1.103) ---
+  REF : 'sitting on the branch of a tree' 'did you say pig or fig'
+  CTC : a e e  e  e  'i e e a e e a e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 348 (CTC=0.646, Attn=1.812) ---
+  REF : of a tree' 'did you say pig or fig' said the cat
+  CTC : a  ' 'i a e  a e a e e a e e ee
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'it all it it was the was the was the care thare
+
+--- Sample 349 (CTC=0.680, Attn=1.420) ---
+  REF : 'did you say pig or fig' said the cat 'i said pig'
+  CTC : '    a e e a e e e e a e a a e a
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar 'and the could and
+
+--- Sample 350 (CTC=0.695, Attn=0.949) ---
+  REF : you say pig or fig' said the cat 'i said pig' replied alice
+  CTC : o e a e a e e e  e o a e a e e e e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 351 (CTC=0.719, Attn=1.250) ---
+  REF : or fig' said the cat 'i said pig' replied alice 'and i wish that
+  CTC : o e e o  e o a e o e a e e e o e ee
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 352 (CTC=0.708, Attn=0.955) ---
+  REF : fig' said the cat 'i said pig' replied alice 'and i wish that you wouldn't keep appearing
+  CTC : o i e e a e a e e e a o e a e e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 353 (CTC=0.721, Attn=0.779) ---
+  REF : 'i said pig' replied alice 'and i wish that you wouldn't keep appearing 'and vanishing
+  CTC : a a e e e a e e i e e a  e e a  e e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 354 (CTC=0.755, Attn=0.915) ---
+  REF : pig' replied alice 'and i wish that you wouldn't keep appearing 'and vanishing so suddenly you
+  CTC : a e  e i e e e a e e a e e e a e e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge o
+
+--- Sample 355 (CTC=0.750, Attn=0.771) ---
+  REF : alice 'and i wish that you wouldn't keep appearing 'and vanishing so suddenly you make one quite
+  CTC : '  e e  e a e  a e a e e  a e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the cat the caterpillar
+
+--- Sample 356 (CTC=0.753, Attn=0.988) ---
+  REF : that you wouldn't keep appearing 'and vanishing so suddenly you make one quite giddy'
+  CTC : i o e e e e e e a e  e e e e e  e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 357 (CTC=0.703, Attn=1.203) ---
+  REF : appearing 'and vanishing so suddenly you make one quite giddy' 'all right'
+  CTC : a  e i  e a i e e e a e a e  'a e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug outhilly
+
+--- Sample 358 (CTC=0.694, Attn=0.919) ---
+  REF : so suddenly you make one quite giddy' 'all right' said the cat
+  CTC : a e a e i e e a e e a ee 'e a  e e e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 359 (CTC=0.727, Attn=0.701) ---
+  REF : you make one quite giddy' 'all right' said the cat 'and this time it vanished
+  CTC :  a  e a e e ee 'e a  e e e e a e e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 360 (CTC=0.739, Attn=0.682) ---
+  REF : quite giddy' 'all right' said the cat 'and this time it vanished quite slowly 'beginning
+  CTC : a a e e 'e a e e e a a a e e e e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 361 (CTC=0.714, Attn=0.802) ---
+  REF : 'all right' said the cat 'and this time it vanished quite slowly 'beginning with the end of
+  CTC : 'ae a  e e a a a e e e e e e a e a e a
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'and the caterpillar 'and the could the cate
+
+--- Sample 362 (CTC=0.729, Attn=0.748) ---
+  REF : right' said the cat 'and this time it vanished quite slowly 'beginning with the end of the tale 'and ending
+  CTC : a  e e a  e e e e e a e a e e e e e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 363 (CTC=0.760, Attn=0.669) ---
+  REF : cat 'and this time it vanished quite slowly 'beginning with the end of the tale 'and ending with the grin 'which remained
+  CTC : a   e a e e a e a e a e i a a e e e 
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 364 (CTC=0.746, Attn=0.702) ---
+  REF : vanished quite slowly 'beginning with the end of the tale 'and ending with the grin 'which remained sometime after
+  CTC : a  e  e e e e  a e a e e a e e e a
+  ATTN: the cat the cat on the cat the cat the could the cat on the cat on the caterpillar
+
+--- Sample 365 (CTC=0.761, Attn=0.761) ---
+  REF : 'beginning with the end of the tale 'and ending with the grin 'which remained sometime after the rest of it had gone'
+  CTC : o e  e e i a a  e a o e e e a e e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 366 (CTC=0.758, Attn=0.717) ---
+  REF : of the tale 'and ending with the grin 'which remained sometime after the rest of it had gone' 'well
+  CTC : a e e a  e a e a a e a e e 'i
+  ATTN: 'the cat the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 367 (CTC=0.763, Attn=0.753) ---
+  REF : ending with the grin 'which remained sometime after the rest of it had gone' 'well i've often
+  CTC : a e a e a  e a e e ' o a e  a
+  ATTN: 'i don't the cat the cat the cat the caterpillar 'and the caterpillar 'the caterpillar
+
+--- Sample 368 (CTC=0.709, Attn=0.814) ---
+  REF : remained sometime after the rest of it had gone' 'well i've often seen a cat without a
+  CTC : o a e a e e ' e e e a e e a e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 369 (CTC=0.742, Attn=0.831) ---
+  REF : after the rest of it had gone' 'well i've often seen a cat without a grin' 'thought alice
+  CTC :  a e  ' e e e a e a e e e e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar 'and the could the cate
+
+--- Sample 370 (CTC=0.733, Attn=1.093) ---
+  REF : gone' 'well i've often seen a cat without a grin' 'thought alice but a grin
+  CTC : a   e e e a e e e e a e e e e e ae
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug outhilly
+
+--- Sample 371 (CTC=0.723, Attn=0.867) ---
+  REF : 'well i've often seen a cat without a grin' 'thought alice but a grin without a cat
+  CTC :  e o e  e e e e e e e i 'e e e a e e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 372 (CTC=0.747, Attn=0.768) ---
+  REF : often seen a cat without a grin' 'thought alice but a grin without a cat 'it's the most curious
+  CTC : a e e a e e e e i e e a e a e a o e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 373 (CTC=0.747, Attn=0.943) ---
+  REF : a grin' 'thought alice but a grin without a cat 'it's the most curious thing i ever saw
+  CTC : a e a e a e e  e a e e  e a e e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 374 (CTC=0.733, Attn=0.721) ---
+  REF : alice but a grin without a cat 'it's the most curious thing i ever saw in all my life'
+  CTC : 'i  e a e a e e e e  e e a e  e e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the cat the caterpillar
+
+--- Sample 375 (CTC=0.734, Attn=0.747) ---
+  REF : grin without a cat 'it's the most curious thing i ever saw in all my life' 'she
+  CTC : a e e e e a  e e a e a e  e '
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 376 (CTC=0.692, Attn=0.846) ---
+  REF : 'it's the most curious thing i ever saw in all my life' 'she had not gone much
+  CTC : ' o e o e a e a e  e' 'i a e e a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 377 (CTC=0.716, Attn=0.818) ---
+  REF : curious thing i ever saw in all my life' 'she had not gone much further 'before she came
+  CTC : e a e e e a e 'e e e  e a e e a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 378 (CTC=0.700, Attn=0.711) ---
+  REF : saw in all my life' 'she had not gone much further 'before she came inside of the house of
+  CTC : i e e e 'i e e e e e e e e a  e e a
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 379 (CTC=0.714, Attn=0.824) ---
+  REF : life' 'she had not gone much further 'before she came inside of the house of the march hare
+  CTC : a e a a   a a e e e e a e e a   e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug outhilly
+
+--- Sample 380 (CTC=0.704, Attn=0.602) ---
+  REF : 'she had not gone much further 'before she came inside of the house of the march hare 'she thought
+  CTC : a e e  e e e e e e e a  e a  e e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 381 (CTC=0.721, Attn=0.658) ---
+  REF : further 'before she came inside of the house of the march hare 'she thought it must be the right house 'because
+  CTC : a e e  e e e e o e e e i  e e a  e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 382 (CTC=0.752, Attn=0.661) ---
+  REF : came inside of the house of the march hare 'she thought it must be the right house 'because the chimneys were
+  CTC :   e   e e e o    e e a  e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was to her the caterpillar 'and the caterpillar
+
+--- Sample 383 (CTC=0.726, Attn=0.689) ---
+  REF : of the march hare 'she thought it must be the right house 'because the chimneys were shaped like ears 'and
+  CTC : a a e e i  e   e e e  e e e e  e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 384 (CTC=0.697, Attn=1.275) ---
+  REF : 'she thought it must be the right house 'because the chimneys were shaped like ears 'and the roof was stashed
+  CTC : 'o e e e e a e e a e e e a e e e a e a
+  ATTN: 'i don't the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the se the s the ouge ougouthe chine pe t we cke the gare t thathe the t ouge the the there wope 
+
+--- Sample 385 (CTC=0.724, Attn=0.638) ---
+  REF : it must be the right house 'because the chimneys were shaped like ears 'and the roof was stashed with fur
+  CTC :  e e e a e e e e  e e e  e e a  e
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 386 (CTC=0.699, Attn=0.667) ---
+  REF : 'because the chimneys were shaped like ears 'and the roof was stashed with fur 'it was such a
+  CTC : o a e e a e e e a e e a e e e e a a e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 387 (CTC=0.690, Attn=0.816) ---
+  REF : shaped like ears 'and the roof was stashed with fur 'it was such a large house that she
+  CTC : o a e e a e e a e  e e  i e e a e e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the caterpilly
+
+--- Sample 388 (CTC=0.729, Attn=0.677) ---
+  REF : 'and the roof was stashed with fur 'it was such a large house that she did not like to go nearer
+  CTC :  e e i e e e e i e e  e a e a e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 389 (CTC=0.717, Attn=0.758) ---
+  REF : stashed with fur 'it was such a large house that she did not like to go nearer 'til she had nibbled
+  CTC : o e  e e i a a e e e e  e a a e e e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 390 (CTC=0.714, Attn=0.676) ---
+  REF : 'it was such a large house that she did not like to go nearer 'til she had nibbled some more 'of the left
+  CTC : 'i  a e a e a e  e a e e   e a e e a
+  ATTN: 'i shall think the cat the door the cat 'i was the cat it and the cat it the caterpillar
+
+--- Sample 391 (CTC=0.748, Attn=0.739) ---
+  REF : large house that she did not like to go nearer 'til she had nibbled some more 'of the left hand bit of mushroom
+  CTC :   e e e e a  e o  e a e e a e a e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the ooug ouge o
+
+--- Sample 392 (CTC=0.727, Attn=0.764) ---
+  REF : she did not like to go nearer 'til she had nibbled some more 'of the left hand bit of mushroom 'and she raised
+  CTC : o e a e e   e a e e e a e o o  e e 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 393 (CTC=0.743, Attn=0.762) ---
+  REF : nearer 'til she had nibbled some more 'of the left hand bit of mushroom 'and she raised herself about two
+  CTC : a i e e e a e a e a e  e a    e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s ouche t
+
+--- Sample 394 (CTC=0.737, Attn=0.874) ---
+  REF : nibbled some more 'of the left hand bit of mushroom 'and she raised herself about two feet high
+  CTC : e a e a e a e  e e e e a e e  e a e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 395 (CTC=0.714, Attn=0.762) ---
+  REF : left hand bit of mushroom 'and she raised herself about two feet high 'even then she
+  CTC : a e  ee i a e a  e e a e a e a e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 396 (CTC=0.684, Attn=0.911) ---
+  REF : 'and she raised herself about two feet high 'even then she walked up towards it
+  CTC : 'a    a  e a a e a e 'e a e e a a a
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar 'and the could and
+
+--- Sample 397 (CTC=0.720, Attn=0.935) ---
+  REF : raised herself about two feet high 'even then she walked up towards it rather timidly 'saying
+  CTC : a e e a e a e 'e a e e e e e e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 398 (CTC=0.735, Attn=0.747) ---
+  REF : two feet high 'even then she walked up towards it rather timidly 'saying to herself
+  CTC : a e  e 'e a e o e e e e  e o e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 399 (CTC=0.727, Attn=0.739) ---
+  REF : 'even then she walked up towards it rather timidly 'saying to herself 'suppose it should
+  CTC : 'i e e e a a e e a e a e a e e  e e 
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 400 (CTC=0.722, Attn=0.845) ---
+  REF : she walked up towards it rather timidly 'saying to herself 'suppose it should be raving mad after
+  CTC :  a e e a e a e a e e e e e a e e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate tougathe
+
+--- Sample 401 (CTC=0.737, Attn=0.974) ---
+  REF : rather timidly 'saying to herself 'suppose it should be raving mad after all
+  CTC : i e e a e a  ee e e a  e e e e a e 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 402 (CTC=0.713, Attn=0.838) ---
+  REF : 'saying to herself 'suppose it should be raving mad after all 'i almost wish i'd
+  CTC : a e e e e e e a e e e e a e 'i e e o e
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 403 (CTC=0.719, Attn=0.685) ---
+  REF : 'suppose it should be raving mad after all 'i almost wish i'd gone to the hatter instead'
+  CTC : e e e a e e e e  e 'i  e e e e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 404 (CTC=0.691, Attn=1.025) ---
+  REF : should be raving mad after all 'i almost wish i'd gone to the hatter instead' end
+  CTC : e a  e a e 'i o e e e e a e a e o 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 405 (CTC=0.690, Attn=0.761) ---
+  REF : after all 'i almost wish i'd gone to the hatter instead' end of chapter
+  CTC : ae  a e e a a e a e e a e  '  a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 406 (CTC=0.708, Attn=1.108) ---
+  REF : 'i almost wish i'd gone to the hatter instead' end of chapter six
+  CTC : a  e e e a e e a e e 'a e e  e e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar 'and the could the cate
+
+--- Sample 407 (CTC=0.680, Attn=1.200) ---
+  REF : i'd gone to the hatter instead' end of chapter six
+  CTC : a e a e e e  'i a e e a e e 'i
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 408 (CTC=0.734, Attn=0.772) ---
+  REF : was more than alice could bear 'she got up in great disgust and walked off 'the
+  CTC : a e e a e  ' a e a e a e  e 
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 409 (CTC=0.743, Attn=0.914) ---
+  REF : could bear 'she got up in great disgust and walked off 'the door mouse
+  CTC : o e e a a e a e  a e  
+  ATTN: 'the cat the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 410 (CTC=0.741, Attn=0.864) ---
+  REF : 'she got up in great disgust and walked off 'the door mouse fell asleep instantly
+  CTC : a    e a e a e 'a  e e e e ae
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 411 (CTC=0.740, Attn=0.822) ---
+  REF : in great disgust and walked off 'the door mouse fell asleep instantly and
+  CTC : a e a e e  'i a a e a a e a e  
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 412 (CTC=0.705, Attn=0.808) ---
+  REF : and walked off 'the door mouse fell asleep instantly and neither of the others
+  CTC :  a e 'e a e a a e e a e a e a e a
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar
+
+--- Sample 413 (CTC=0.718, Attn=0.729) ---
+  REF : 'the door mouse fell asleep instantly and neither of the others took the least notice
+  CTC :  e a e a e a e  i e a e e e  e ae
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar
+
+--- Sample 414 (CTC=0.716, Attn=0.739) ---
+  REF : mouse fell asleep instantly and neither of the others took the least notice of her going
+  CTC :  a e e e i e a e e e a  a e a e a
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar
+
+--- Sample 415 (CTC=0.741, Attn=0.741) ---
+  REF : instantly and neither of the others took the least notice of her going though she
+  CTC : a e a  e e e  i e a  a a e e e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 416 (CTC=0.725, Attn=0.692) ---
+  REF : and neither of the others took the least notice of her going though she looked back once or
+  CTC : a a e o  o e a e a  e e e a  a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 417 (CTC=0.747, Attn=0.723) ---
+  REF : others took the least notice of her going though she looked back once or twice half
+  CTC : a a   e  e e a a e e a a e e e
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 418 (CTC=0.738, Attn=0.750) ---
+  REF : notice of her going though she looked back once or twice half hoping that they would
+  CTC : a e e a e e e a  e e e e  e e e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 419 (CTC=0.741, Attn=0.776) ---
+  REF : going though she looked back once or twice half hoping that they would call after her
+  CTC : a  e e e a a e a a ee  a e a
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it alice 'and the caterpillar
+
+--- Sample 420 (CTC=0.779, Attn=0.844) ---
+  REF : she looked back once or twice half hoping that they would call after her 'the
+  CTC : a a   e  a e e e  ae 
+  ATTN: 'the cat the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 421 (CTC=0.771, Attn=0.743) ---
+  REF : or twice half hoping that they would call after her 'the last time she
+  CTC : o ee aee ae' 'i a e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'the caterpillar
+
+--- Sample 422 (CTC=0.729, Attn=0.757) ---
+  REF : half hoping that they would call after her 'the last time she saw them
+  CTC :   a e a e e a  e a e a
+  ATTN: 'the cat the cat the cat the cat the caterpillar 'and the caterpillar
+
+--- Sample 423 (CTC=0.728, Attn=0.679) ---
+  REF : would call after her 'the last time she saw them they were trying to put the door
+  CTC : a a e e e a  e a  e a e  i
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 424 (CTC=0.733, Attn=0.720) ---
+  REF : 'the last time she saw them they were trying to put the door mouse into the
+  CTC : a ee a a a e a a e e a a a  e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 425 (CTC=0.720, Attn=0.610) ---
+  REF : 'the last time she saw them they were trying to put the door mouse into the teapot
+  CTC : a a  e a a a e e a  e a  e e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar
+
+--- Sample 426 (CTC=0.746, Attn=0.662) ---
+  REF : she saw them they were trying to put the door mouse into the teapot 'at
+  CTC : o e  e a e e a e e e  a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 427 (CTC=0.701, Attn=1.045) ---
+  REF : they were trying to put the door mouse into the teapot 'at any rate
+  CTC : o a e a e a e e e e 'a a a a
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'it all it it was the was the was
+
+--- Sample 428 (CTC=0.712, Attn=0.983) ---
+  REF : door mouse into the teapot 'at any rate i'll never go there
+  CTC : a e e a  e ' 'e 'a e  a a e a
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 429 (CTC=0.640, Attn=1.260) ---
+  REF : the teapot 'at any rate i'll never go there again'
+  CTC : o  e' 'e 'a e a e a e a e a a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 430 (CTC=0.660, Attn=1.280) ---
+  REF : 'at any rate i'll never go there again' said alice
+  CTC : a e 'a e a a  e a e a e i e a e
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 431 (CTC=0.676, Attn=0.838) ---
+  REF : 'at any rate i'll never go there again' said alice as she picked her
+  CTC : i e  e  e e a e a e a  e e e a e
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 432 (CTC=0.654, Attn=1.000) ---
+  REF : rate i'll never go there again' said alice as she picked her way through the wood
+  CTC : o a e e  e e aa e e a e i e e a e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 433 (CTC=0.708, Attn=0.944) ---
+  REF : there again' said alice as she picked her way through the wood 'it's the
+  CTC : a e  a e o e i e a e a e e e e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 434 (CTC=0.729, Attn=0.776) ---
+  REF : again' said alice as she picked her way through the wood 'it's the stupidest teaparty
+  CTC : '  e  e 'e a e a e   e  e a a
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 435 (CTC=0.703, Attn=0.703) ---
+  REF : as she picked her way through the wood 'it's the stupidest teaparty i ever
+  CTC :  a e a a e  e e i e o e e e e a  a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was to her the caterpillar
+
+--- Sample 436 (CTC=0.662, Attn=0.730) ---
+  REF : her way through the wood 'it's the stupidest teaparty i ever was at in all
+  CTC : a a e e e e e  e e a a e e a  a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 437 (CTC=0.719, Attn=1.070) ---
+  REF : 'it's the stupidest teaparty i ever was at in all my life
+  CTC :  o a e a  a a  e a  e   a a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 438 (CTC=0.706, Attn=1.196) ---
+  REF : the stupidest teaparty i ever was at in all my life
+  CTC : a a  e e a e  e 'e a e  e o
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 439 (CTC=0.630, Attn=1.391) ---
+  REF : teaparty i ever was at in all my life 'just as
+  CTC : a e a e i e e i a e e a 'e a e a
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 440 (CTC=0.673, Attn=1.469) ---
+  REF : ever was at in all my life 'just as she said this
+  CTC : a e e a a e ' 'e a e  e a
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'it all it it was the was the was
+
+--- Sample 441 (CTC=0.706, Attn=1.000) ---
+  REF : all my life 'just as she said this she noticed that
+  CTC :   e e' 'a e a e e a a e a e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar
+
+--- Sample 442 (CTC=0.667, Attn=1.167) ---
+  REF : 'just as she said this she noticed that one of the trees had
+  CTC : ae' 'a e a e e  a e a e ae a
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'it all it it was the was the was the
+
+--- Sample 443 (CTC=0.680, Attn=0.680) ---
+  REF : 'just as she said this she noticed that one of the trees had a door leading
+  CTC : a e  a e e e a e e a e e e  e e  e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 444 (CTC=0.675, Attn=0.867) ---
+  REF : as she said this she noticed that one of the trees had a door leading right into it
+  CTC : a e  a e e a e e e e e a   e e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 445 (CTC=0.730, Attn=0.757) ---
+  REF : she noticed that one of the trees had a door leading right into it 'that's
+  CTC :  e e e a a a  e ai  e a e a 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 446 (CTC=0.724, Attn=0.895) ---
+  REF : that one of the trees had a door leading right into it 'that's very curious'
+  CTC : a e a  e i  e a e a e 'a e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 447 (CTC=0.758, Attn=1.015) ---
+  REF : had a door leading right into it 'that's very curious' she thought
+  CTC : a e a a e a e aee o a  a o 
+  ATTN: 'the cat the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 448 (CTC=0.808, Attn=0.918) ---
+  REF : leading right into it 'that's very curious' she thought 'but everything's
+  CTC : a a e e' ' e e a e a i
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 449 (CTC=0.815, Attn=0.923) ---
+  REF : 'that's very curious' she thought 'but everything's curious today
+  CTC :  a   e e a e  a o e  e 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 450 (CTC=0.815, Attn=0.923) ---
+  REF : 'that's very curious' she thought 'but everything's curious today
+  CTC :  a e a e e a a   a a  ee 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 451 (CTC=0.787, Attn=0.827) ---
+  REF : curious' she thought 'but everything's curious today 'i think i may as well
+  CTC : a e a a a a  a a  e  i  a a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 452 (CTC=0.727, Attn=0.909) ---
+  REF : thought 'but everything's curious today 'i think i may as well go in at once'
+  CTC : o e a  e e  e a ei e a e a e a e
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it alice 'and the caterpillar
+
+--- Sample 453 (CTC=0.739, Attn=0.884) ---
+  REF : everything's curious today 'i think i may as well go in at once' 'and
+  CTC : a e  a e a  'e a e a e a 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 454 (CTC=0.673, Attn=1.109) ---
+  REF : today 'i think i may as well go in at once' 'and in she
+  CTC : a e a e a  e a e  'a e a  a
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 455 (CTC=0.648, Attn=1.167) ---
+  REF : 'i think i may as well go in at once' 'and in she went
+  CTC : a  e a a  'o o a o e e e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 456 (CTC=0.667, Attn=1.528) ---
+  REF : well go in at once' 'and in she went
+  CTC : a e a e a  a o e a e a
+  ATTN: 'the caterpillar mouse it was it was the caterpillar 'it was the caterpillar
+
+--- Sample 457 (CTC=0.727, Attn=1.576) ---
+  REF : once' 'and in she went 'once more
+  CTC :   a ae a e 'a a 
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'the caterpillar
+
+--- Sample 458 (CTC=0.708, Attn=1.417) ---
+  REF : 'and in she went 'once more she found herself in
+  CTC : a e  ei e' 'a a e  a e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 459 (CTC=0.722, Attn=0.870) ---
+  REF : she went 'once more she found herself in the long hall
+  CTC : a e ' 'a a a e a e a e a  e
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar
+
+--- Sample 460 (CTC=0.745, Attn=1.073) ---
+  REF : 'once more she found herself in the long hall and close
+  CTC :  'i a a  a  e a e e a a e 
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 461 (CTC=0.693, Attn=0.773) ---
+  REF : 'once more she found herself in the long hall and close to the little glass
+  CTC : ' oa e a e e a e e  e e  e a e 
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar
+
+--- Sample 462 (CTC=0.707, Attn=0.947) ---
+  REF : more she found herself in the long hall and close to the little glass table
+  CTC : a  e e a a e a e a  e e  a e a e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 463 (CTC=0.710, Attn=0.855) ---
+  REF : in the long hall and close to the little glass table 'now i'll
+  CTC : a e e   a e e   e a e  e a 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 464 (CTC=0.710, Attn=0.797) ---
+  REF : hall and close to the little glass table 'now i'll manage better this
+  CTC : o  e  o e e  ee 'a e e a e a a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 465 (CTC=0.729, Attn=0.943) ---
+  REF : close to the little glass table 'now i'll manage better this time' she
+  CTC : a e a a  e e 'a e e a e a e  a e a
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it alice 'and the caterpillar
+
+--- Sample 466 (CTC=0.700, Attn=0.843) ---
+  REF : glass table 'now i'll manage better this time' she said to herself and
+  CTC : a  ee 'a e e a e e a ee a e a e 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 467 (CTC=0.703, Attn=0.984) ---
+  REF : 'now i'll manage better this time' she said to herself and began
+  CTC : 'i  e e a e a a e a e a e e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 468 (CTC=0.725, Attn=0.841) ---
+  REF : i'll manage better this time' she said to herself and began by taking
+  CTC : a e a e a   a e o 'o e a  e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 469 (CTC=0.681, Attn=1.069) ---
+  REF : this time' she said to herself and began by taking the little golden key
+  CTC : a e e a e e e e 'e a e  e  e e a e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 470 (CTC=0.707, Attn=0.747) ---
+  REF : she said to herself and began by taking the little golden key and unlocking
+  CTC :   e e 'e a e e o a e a e e  e e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 471 (CTC=0.696, Attn=0.826) ---
+  REF : and began by taking the little golden key and unlocking the door that
+  CTC :  e a e e a a e a e a e e a e e  a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the cat the caterpillar
+
+--- Sample 472 (CTC=0.706, Attn=0.776) ---
+  REF : began by taking the little golden key and unlocking the door that led into the garden
+  CTC : e a  e o e e e  e e e a e e e e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the cat the caterpillar
+
+--- Sample 473 (CTC=0.711, Attn=0.750) ---
+  REF : taking the little golden key and unlocking the door that led into the garden
+  CTC : a e  e  e  e  a e e e a e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 474 (CTC=0.754, Attn=0.947) ---
+  REF : key and unlocking the door that led into the garden 'then
+  CTC : a a  a e a  a e  e 
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 475 (CTC=0.773, Attn=0.733) ---
+  REF : unlocking the door that led into the garden 'then she went to work nibbling
+  CTC : oi e a e  e o  e a a
+  ATTN: 'the cat the cat it was to the caterpillar 'it was to the cat the caterpillar
+
+--- Sample 476 (CTC=0.750, Attn=0.903) ---
+  REF : that led into the garden 'then she went to work nibbling at the mushroom
+  CTC : a e a 'e e a e  e e e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 477 (CTC=0.762, Attn=1.063) ---
+  REF : garden 'then she went to work nibbling at the mushroom 'she had
+  CTC : o ' e a e a e a e  a i
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 478 (CTC=0.718, Attn=0.744) ---
+  REF : 'then she went to work nibbling at the mushroom 'she had kept a piece of it in
+  CTC : a  a e a e a e a e a e e a  a e a e
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 479 (CTC=0.719, Attn=0.888) ---
+  REF : 'then she went to work nibbling at the mushroom 'she had kept a piece of it in her pocket
+  CTC :  a e a e a e  e e o e e a   a e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the the t
+
+--- Sample 480 (CTC=0.707, Attn=0.793) ---
+  REF : nibbling at the mushroom 'she had kept a piece of it in her pocket 'til she was about a foot
+  CTC : ae a e e e e a e e  a e ee a a e e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 481 (CTC=0.694, Attn=0.750) ---
+  REF : 'she had kept a piece of it in her pocket 'til she was about a foot high
+  CTC : o  o e a e a e ee i a a e e a a e a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was to her the caterpillar
+
+--- Sample 482 (CTC=0.690, Attn=0.714) ---
+  REF : had kept a piece of it in her pocket 'til she was about a foot high 'then she walked
+  CTC : a e a e e a e i a a e a e e e  o e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was to her the caterpillar
+
+--- Sample 483 (CTC=0.729, Attn=0.835) ---
+  REF : in her pocket 'til she was about a foot high 'then she walked down the little passage
+  CTC : a e   e e e a  e  a e e  e a e 
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 484 (CTC=0.737, Attn=0.737) ---
+  REF : 'til she was about a foot high 'then she walked down the little passage 'and
+  CTC : o a e e a e e a e  a e   a e e
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 485 (CTC=0.625, Attn=0.875) ---
+  REF : foot high 'then she walked down the little passage 'and then she
+  CTC : o a e a e a e a e  a e a a e a e  e
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it alice 'and the caterpillar
+
+--- Sample 486 (CTC=0.647, Attn=0.794) ---
+  REF : 'then she walked down the little passage 'and then she found herself
+  CTC :  e e e o a e e a a e a e e a e a e
+  ATTN: 'i don't the cat the cat the cat the cat on the caterpillar 'it the caterpillar
+
+--- Sample 487 (CTC=0.697, Attn=1.121) ---
+  REF : walked down the little passage 'and then she found herself at last
+  CTC : 'i   e e a e a e e e a a e a e e a
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar 'and the could the cate
+
+--- Sample 488 (CTC=0.700, Attn=1.233) ---
+  REF : passage 'and then she found herself at last in the beautiful
+  CTC :  e a  e a e e  a  e a e a e a e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar 'and the could the cate
+
+--- Sample 489 (CTC=0.695, Attn=1.458) ---
+  REF : 'and then she found herself at last in the beautiful garden
+  CTC : o e e e a e a e a e e e e a a e a e a
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s ouche t
+
+--- Sample 490 (CTC=0.727, Attn=1.030) ---
+  REF : she found herself at last in the beautiful garden among the bright
+  CTC : i a e  e e a e a e o o  e i i a e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was to her the caterpillar 'and the caterpillar
+
+--- Sample 491 (CTC=0.706, Attn=1.088) ---
+  REF : herself at last in the beautiful garden among the bright flower beds
+  CTC : a e e e a e o  e e e e o e a e  e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the could the cate
+
+--- Sample 492 (CTC=0.708, Attn=0.877) ---
+  REF : last in the beautiful garden among the bright flower beds and the
+  CTC : a e a e a  e e ' e  a e  e e e  a
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 493 (CTC=0.721, Attn=1.250) ---
+  REF : beautiful garden among the bright flower beds and the cool fountains
+  CTC : o e e  e a e a e a e e o e e a  e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 494 (CTC=0.745, Attn=1.235) ---
+  REF : among the bright flower beds and the cool fountains
+  CTC : 'i e a e e a e e e a e e  e 
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 495 (CTC=0.761, Attn=1.522) ---
+  REF : bright flower beds and the cool fountains 'end
+  CTC : a a e a e i a e a e  o 
+  ATTN: 'the cat the cat the cat the cat the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 496 (CTC=0.744, Attn=1.140) ---
+  REF : beds and the cool fountains 'end of chapter
+  CTC : i a a e a e   'i a a 
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar
+
+--- Sample 497 (CTC=0.743, Attn=1.914) ---
+  REF : the cool fountains 'end of chapter 
+  CTC : o e   'i o   a a e a
+  ATTN: 'the cat the cat it was to the caterpillar 'it was the caterpillar 'and the caterpillar
+
+--- Sample 498 (CTC=0.778, Attn=1.528) ---
+  REF : fountains 'end of chapter  'recorded
+  CTC : '' 'i   a a e a e 
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar
+
+--- Sample 499 (CTC=0.731, Attn=2.154) ---
+  REF : 'end of chapter  'recorded
+  CTC :  'a a a a a e  e 'a  a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar
+
+--- Sample 500 (CTC=0.711, Attn=1.895) ---
+  REF : 'end of chapter  'recorded on november
+  CTC : '  o a e a e ' 'i a e e a e a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 501 (CTC=0.806, Attn=2.871) ---
+  REF : chapter  'recorded on november 
+  CTC : aa e a' 'i a e a a e a e a  e
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'it all it it was the was the was the
+
+--- Sample 502 (CTC=1.043, Attn=4.000) ---
+  REF : 'recorded on november  
+  CTC : a 'i a e a a e a e e a e a e ae
+  ATTN: 'i don't the cat it was to the caterpillar 'it was the caterpillar 'it all it it was the was the was the
+
+--- Sample 503 (CTC=1.130, Attn=3.826) ---
+  REF : 'recorded on november  
+  CTC : oe a  e e a e  e  e e i e e e a a
+  ATTN: 'i don't the cat it was to the caterpillar 'i was the cat it was the caterpillar 'and the could alice
+
+--- Sample 504 (CTC=0.778, Attn=1.694) ---
+  REF : 'recorded on november   in oceanside
+  CTC : a e e a e a  e  i a e a e a e  e 
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 505 (CTC=0.771, Attn=2.714) ---
+  REF : november   in oceanside california'
+  CTC : a e e o e a  e a e  a e a e e e ae
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was in and the couche st
+
+--- Sample 506 (CTC=0.962, Attn=3.423) ---
+  REF :   in oceanside california'
+  CTC : a    a e e a e a e o a e a e a e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the
+
+--- Sample 507 (CTC=0.920, Attn=2.320) ---
+  REF :  in oceanside california'
+  CTC : a e a  e a  e e e a e e a e e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar
+
+--- Sample 508 (CTC=0.833, Attn=2.333) ---
+  REF : in oceanside california'
+  CTC : a e e a e a  e a  e  a
+  ATTN: 'the cat the cat the cat the cat the caterpillar 'and the caterpillar
+
+--- Sample 509 (CTC=0.810, Attn=2.667) ---
+  REF : oceanside california'
+  CTC : a e a  a a e 
+  ATTN: 'the caterpillar which a grow and the caterpillar 'and the caterpillar
+
+--- Sample 510 (CTC=0.818, Attn=4.182) ---
+  REF : california'
+  CTC :  a e  a
+  ATTN: 'the caterpillar which it was the cat the caterpillar
+
+--- Sample 511 (CTC=0.705, Attn=1.337) ---
+  REF : who were all talking at once while all the rest were quite silent and looked very uncomfortable
+  CTC : a e te e e e e e e  e e e e o e e o e 
+  ATTN: the was the cat the was to get the was the cat the was the could the cat the cat on the cat on the was the there s tithe oupe ouche chere ore oke the we the the we outhe thin t
+
+--- Sample 512 (CTC=0.699, Attn=0.871) ---
+  REF : talking at once while all the rest were quite silent and looked very uncomfortable the moment
+  CTC : oe e e e e e e e e e e e e e e  e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 513 (CTC=0.685, Attn=0.880) ---
+  REF : while all the rest were quite silent and looked very uncomfortable the moment alice appeared
+  CTC : a e e e e e  e o e e e e e e o e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 514 (CTC=0.694, Attn=1.012) ---
+  REF : silent and looked very uncomfortable the moment alice appeared she was appealed to by
+  CTC : a e te e e e o e e e  o e e e a e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 515 (CTC=0.678, Attn=0.920) ---
+  REF : very uncomfortable the moment alice appeared she was appealed to by all three to settle
+  CTC : a e a e e i o e e e e e a te e a te a e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 516 (CTC=0.642, Attn=0.889) ---
+  REF : the moment alice appeared she was appealed to by all three to settle the question
+  CTC : ' e  o e e e e a e e o e a e e e e e
+  ATTN: 'it it was the cat the cat the caterpillar 'and the cat the cat the caterpillar 'and the caterpillar
+
+--- Sample 517 (CTC=0.721, Attn=1.144) ---
+  REF : moment alice appeared she was appealed to by all three to settle the question and they repeated their arguments
+  CTC : a e e te e  te e te e te e e  e e e e  
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar 'and the cat was the cougathe s the oout oouchillld we s t t thithillild t we s outhinthin t
+
+--- Sample 518 (CTC=0.699, Attn=0.709) ---
+  REF : she was appealed to by all three to settle the question and they repeated their arguments to her though
+  CTC : a  te e te e te e e  e e e e e e  e e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could on
+
+--- Sample 519 (CTC=0.683, Attn=0.740) ---
+  REF : by all three to settle the question and they repeated their arguments to her though as they all spoke at
+  CTC : a e te e e o e e e e e o te e e te o  e e
+  ATTN: the was the cat on the cat the cat on the cat the cat on the cat on the caterpillar 'and the cat was the couge t
+
+--- Sample 520 (CTC=0.694, Attn=0.721) ---
+  REF : settle the question and they repeated their arguments to her though as they all spoke at once she found it very
+  CTC : o te e e e e e  e o e te e e o e te e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar of the was and the the the the t
+
+--- Sample 521 (CTC=0.676, Attn=1.261) ---
+  REF : and they repeated their arguments to her though as they all spoke at once she found it very hard indeed to make
+  CTC : a e e e e he he he he e e en o e e he the e he
+  ATTN: the was the cat on the cat the cat on the cat the was the cat on the was the cat on the cat on the was the there s tit wouritilouche wand ore th we cke oooulin t the the chind s touthe the therore w w
+
+--- Sample 522 (CTC=0.688, Attn=1.266) ---
+  REF : arguments to her though as they all spoke at once she found it very hard indeed to make out exactly what they
+  CTC : e  o the e e e he h o te e e e the hen e te en e e
+  ATTN: the was the cat the was to get the was the cat the was the could the cat the cat on the cat on the was ther tithe s the was t ouche cherere he t we cke oooulithit wine fore ouche the t the therore wat
+
+--- Sample 523 (CTC=0.680, Attn=0.629) ---
+  REF : though as they all spoke at once she found it very hard indeed to make out exactly what they said
+  CTC : o e e te e te e o te e o e e te o e te e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 524 (CTC=0.677, Attn=0.687) ---
+  REF : at once she found it very hard indeed to make out exactly what they said the executioner's argument
+  CTC : o e e o te te a te e te o e e a te e  e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the cat the caterpillar
+
+--- Sample 525 (CTC=0.737, Attn=0.853) ---
+  REF : very hard indeed to make out exactly what they said the executioner's argument was you couldn't
+  CTC : o e e te e te o e e e e e e e e  te e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the caterpilerin wat
+
+--- Sample 526 (CTC=0.740, Attn=0.812) ---
+  REF : make out exactly what they said the executioner's argument was you couldn't cut off ahead unless
+  CTC : a   te e e a e e e e o  e i e e  e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the could on
+
+--- Sample 527 (CTC=0.708, Attn=0.820) ---
+  REF : said the executioner's argument was you couldn't cut off ahead unless there was a body to
+  CTC : a e e e a   o  e i e e e e a te o e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the could on
+
+--- Sample 528 (CTC=0.730, Attn=0.760) ---
+  REF : the executioner's argument was you couldn't cut off ahead unless there was a body to cut it off from
+  CTC : a e e e e e e e e e e e te e te e te e te e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar of the was a grounder
+
+--- Sample 529 (CTC=0.710, Attn=0.650) ---
+  REF : argument was you couldn't cut off ahead unless there was a body to cut it off from that he had never
+  CTC : o e e e te e te e  e o te e o e e e e ee
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 530 (CTC=0.710, Attn=0.690) ---
+  REF : couldn't cut off ahead unless there was a body to cut it off from that he had never had to do such a
+  CTC : a e i e e e e o te e o te e e e e e e e e 
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 531 (CTC=0.721, Attn=1.240) ---
+  REF : unless there was a body to cut it off from that he had never had to do such a thing before and he wasn't
+  CTC :  e o te e e te e e e e e e o te e e e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar 'and the cat was the cougathe s the oout ooure wat wathithin we ck we t wathit wathililichillllin we t
+
+--- Sample 532 (CTC=0.735, Attn=0.686) ---
+  REF : to cut it off from that he had never had to do such a thing before and he wasn't going to begin at his
+  CTC : a e e e e e e e e e e e e e e  e o e te
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 533 (CTC=0.729, Attn=0.740) ---
+  REF : that he had never had to do such a thing before and he wasn't going to begin at his time of life
+  CTC : 'oe o e e e a e e e e o e e e  e e  e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could on
+
+--- Sample 534 (CTC=0.716, Attn=0.674) ---
+  REF : never had to do such a thing before and he wasn't going to begin at his time of life the king's
+  CTC : oe e e e e a e e e   e e  e e e e e o
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 535 (CTC=0.682, Attn=0.941) ---
+  REF : thing before and he wasn't going to begin at his time of life the king's argument was
+  CTC : o e a te e o  e e  e oe o e e a e e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the could on
+
+--- Sample 536 (CTC=0.716, Attn=0.761) ---
+  REF : wasn't going to begin at his time of life the king's argument was that anything that had
+  CTC : a e a e e o e e  e e  e e te a te e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the cat the caterpillar
+
+--- Sample 537 (CTC=0.724, Attn=0.885) ---
+  REF : his time of life the king's argument was that anything that had ahead could be beheaded
+  CTC : a e e  e e e e a e e o e te e te e a e e
+  ATTN: the was the caterpillar 'the cat was the cat the cat of the was the caterpillar 'and the was the was the cougat
+
+--- Sample 538 (CTC=0.692, Attn=0.769) ---
+  REF : the king's argument was that anything that had ahead could be beheaded and that you weren't
+  CTC : oe e e  e a te a e o e o te a e a te a e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could to
+
+--- Sample 539 (CTC=0.750, Attn=0.683) ---
+  REF : king's argument was that anything that had ahead could be beheaded and that you weren't to talk nonsense
+  CTC :   te te o te e te e e te e te o e  e e e 
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 540 (CTC=0.705, Attn=0.818) ---
+  REF : that anything that had ahead could be beheaded and that you weren't to talk nonsense the
+  CTC : a o e e e o e e e e e e e o e e e e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the to tin
+
+--- Sample 541 (CTC=0.700, Attn=0.922) ---
+  REF : had ahead could be beheaded and that you weren't to talk nonsense the queen's argument was
+  CTC : a e e e e e a e e a e e e  e a a  e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 542 (CTC=0.740, Attn=0.865) ---
+  REF : beheaded and that you weren't to talk nonsense the queen's argument was that if something wasn't
+  CTC : a e e e e a te e o e  e e e e e e e  e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 543 (CTC=0.747, Attn=0.736) ---
+  REF : weren't to talk nonsense the queen's argument was that if something wasn't done about it in
+  CTC :  e e e e o e a e e e e e e  e e e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 544 (CTC=0.738, Attn=0.952) ---
+  REF : the queen's argument was that if something wasn't done about it in less than no time
+  CTC : a  e e e e e e a e e e e a e e  e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 545 (CTC=0.721, Attn=0.667) ---
+  REF : the queen's argument was that if something wasn't done about it in less than no time she had everybody executed
+  CTC : a e  e e te a te a te e o e o te e  e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 546 (CTC=0.733, Attn=0.673) ---
+  REF : was that if something wasn't done about it in less than no time she had everybody executed all around
+  CTC : a e a e e e e e e  e e e e e  e e e e
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 547 (CTC=0.684, Attn=0.772) ---
+  REF : wasn't done about it in less than no time she had everybody executed all around
+  CTC : a e o e e e e a te e  e   e e a e e e
+  ATTN: the was the caterpillar 'the cat was the cat the cat on the cat on the caterpillar
+
+--- Sample 548 (CTC=0.695, Attn=0.976) ---
+  REF : in less than no time she had everybody executed all around it was this last remark
+  CTC :  e e e a e e o e e e e e e a  e e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 549 (CTC=0.682, Attn=0.871) ---
+  REF : she had everybody executed all around it was this last remark that had made the whole
+  CTC : a e a e e o te a e e e e e o e o  e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 550 (CTC=0.725, Attn=0.791) ---
+  REF : executed all around it was this last remark that had made the whole party look so grave and
+  CTC : a e e a e e e e e e o e e e e e e e e  e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the could on
+
+--- Sample 551 (CTC=0.744, Attn=0.698) ---
+  REF : around it was this last remark that had made the whole party look so grave and anxious
+  CTC : o e e e e e e e e e e e e e e e e e e e e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 552 (CTC=0.736, Attn=0.747) ---
+  REF : it was this last remark that had made the whole party look so grave and anxious alice could
+  CTC : a e e  e e e e e e e e e e e e e e o e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could to
+
+--- Sample 553 (CTC=0.740, Attn=0.802) ---
+  REF : remark that had made the whole party look so grave and anxious alice could think of nothing else
+  CTC : e e e e e e e e e e   e 'e e e e e e e
+  ATTN: the was the caterpillar 'the cat was the cat the cat of the was the caterpillar 'and the caterpillar
+
+--- Sample 554 (CTC=0.729, Attn=1.024) ---
+  REF : whole party look so grave and anxious alice could think of nothing else to say but it
+  CTC : a e e e e e e e e 'o e e o e e e e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the caterpilerin wat
+
+--- Sample 555 (CTC=0.714, Attn=1.243) ---
+  REF : and anxious alice could think of nothing else to say but it belongs to
+  CTC : a e e a e 'o e e  e e e e e e  e  e
+  ATTN: the cat the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s ouche t
+
+--- Sample 556 (CTC=0.711, Attn=0.904) ---
+  REF : alice could think of nothing else to say but it belongs to the duchess you'd better
+  CTC : 'i e e a e e e e e e a e e a e e e a e e
+  ATTN: 'it it was the cat the cat the caterpillar 'and the cat the cat the caterpillar 'and the caterpillar
+
+--- Sample 557 (CTC=0.734, Attn=0.745) ---
+  REF : could think of nothing else to say but it belongs to the duchess you'd better ask her about it
+  CTC : a  e e e e e e te e  e e e e e e   e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 558 (CTC=0.714, Attn=1.104) ---
+  REF : else to say but it belongs to the duchess you'd better ask her about it she's
+  CTC : a e e  e a e e e e a a a e e e e e  
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 559 (CTC=0.716, Attn=0.926) ---
+  REF : it belongs to the duchess you'd better ask her about it she's in prison the queen
+  CTC : a e a e e e a a e e  e e e e e a e a a
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the caterpilly
+
+--- Sample 560 (CTC=0.691, Attn=0.840) ---
+  REF : to the duchess you'd better ask her about it she's in prison the queen said to the executioner
+  CTC :  e e e e a e e a e e a e e a e e a e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was the could on
+
+--- Sample 561 (CTC=0.658, Attn=1.066) ---
+  REF : ask her about it she's in prison the queen said to the executioner fetch her
+  CTC :  e o e e e e e  e a e e e e e e e e e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 562 (CTC=0.718, Attn=1.113) ---
+  REF : it she's in prison the queen said to the executioner fetch her here and
+  CTC : a e e a e a a e a a e a a e e  e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the caterpillar 'and the could be the cat the oouge oug
+
+--- Sample 563 (CTC=0.699, Attn=0.871) ---
+  REF : she's in prison the queen said to the executioner fetch her here and the executioner went off
+  CTC : a e o e e e e e e a e e e e e e e e  e
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 564 (CTC=0.678, Attn=0.690) ---
+  REF : queen said to the executioner fetch her here and the executioner went off like an arrow
+  CTC : a  te a e e  e e a e e e e  e e e a
+  ATTN: the cat the cat on the cat the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 565 (CTC=0.702, Attn=0.905) ---
+  REF : executioner fetch her here and the executioner went off like an arrow the cat's head
+  CTC : a e e e  e e e e e e  e e e  o o e 
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 566 (CTC=0.690, Attn=0.964) ---
+  REF : her here and the executioner went off like an arrow the cat's head began fading away
+  CTC : a e a e e e e  e e e a e e   o e e o
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 567 (CTC=0.691, Attn=0.660) ---
+  REF : the executioner went off like an arrow the cat's head began fading away the moment he was gone
+  CTC : a e e e o e e e e o  e  e e e e e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 568 (CTC=0.696, Attn=0.641) ---
+  REF : off like an arrow the cat's head began fading away the moment he was gone and by the time he
+  CTC :  e e  e    e e e e e e e e e e a e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 569 (CTC=0.695, Attn=0.629) ---
+  REF : the cat's head began fading away the moment he was gone and by the time he had come back with the duchess
+  CTC : 'i e e e e e e e e e e e e e e o e te e 
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could ton
+
+--- Sample 570 (CTC=0.703, Attn=0.712) ---
+  REF : head began fading away the moment he was gone and by the time he had come back with the duchess it had entirely
+  CTC : o e te te e e te e e e e e e e te e e e te e
+  ATTN: the was the cat the was to the cat the could the cat on the was the caterpillar all the cat the was the was the our
+
+--- Sample 571 (CTC=0.648, Attn=0.733) ---
+  REF : away the moment he was gone and by the time he had come back with the duchess it had entirely disappeared
+  CTC : a te e e te e e e he he o e e e e e e e en en e
+  ATTN: the was the cat the was to get the was the cat the was the cat on the caterpillar 'and the was a going there the ame t
+
+--- Sample 572 (CTC=0.714, Attn=0.673) ---
+  REF : gone and by the time he had come back with the duchess it had entirely disappeared so the king and
+  CTC : a e e o e  o o e e e e e e  e e e e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 573 (CTC=0.710, Attn=1.559) ---
+  REF : he had come back with the duchess it had entirely disappeared so the king and the executioner
+  CTC :  e e e e e e e e e e e e e e e e e e  e
+  ATTN: the was the cat the was to the caterpillar 'it was the caterpillar 'and the cat the cat the cat on the the s ouge s the warime touge woud outhe s warlillild cougarithe ware ouche thiline se the ouge w
+
+--- Sample 574 (CTC=0.704, Attn=0.753) ---
+  REF : duchess it had entirely disappeared so the king and the executioner ran wildly up
+  CTC :  e o e e e e e e o e  e e e a te e o e o
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar
+
+--- Sample 575 (CTC=0.759, Attn=1.609) ---
+  REF : entirely disappeared so the king and the executioner ran wildly up and down looking for
+  CTC : o o e  e e e  e e e e e e o te  e e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar 'and the cat was the cougathe s the oout ooure wat wathithin we ckere ougathit wat won wind or thily t
+
+--- Sample 576 (CTC=0.724, Attn=1.460) ---
+  REF : so the king and the executioner ran wildly up and down looking for it while the rest of
+  CTC : i e e e e o o e e e e e e e e e  te e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar 'and the cat was the cougathe s the oout ooure wat wathithin we ck we t wathit we oure win t
+
+--- Sample 577 (CTC=0.705, Attn=0.853) ---
+  REF : and the executioner ran wildly up and down looking for it while the rest of the party went back
+  CTC : a e o te e e e e  en e e o e e e e e e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar of the was and the the the the t
+
+--- Sample 578 (CTC=0.717, Attn=0.778) ---
+  REF : executioner ran wildly up and down looking for it while the rest of the party went back to the game
+  CTC : a e e e o te e o te e e e e e e o e e e e
+  ATTN: the was the cat the cat on the cat on the cat the cat on the cat on the caterpillar 'and the cat was the couge t
+
+--- Sample 579 (CTC=0.684, Attn=1.066) ---
+  REF : up and down looking for it while the rest of the party went back to the game
+  CTC : a e o e e o e e e e e e e e e e e  
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 580 (CTC=0.681, Attn=0.708) ---
+  REF : for it while the rest of the party went back to the game end of chapter 
+  CTC : a a e e e e e e e e e e e  'o e e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 581 (CTC=0.680, Attn=1.020) ---
+  REF : of the party went back to the game end of chapter 
+  CTC : a e e e e e e e e ' 'o  e e  e a
+  ATTN: 'the cat the cat the cat the cat the cat on the caterpillar 'and the caterpillar
+
+--- Sample 582 (CTC=0.680, Attn=1.300) ---
+  REF : back to the game end of chapter  read by christian
+  CTC : a e e e o' 'o e e a a e a e a  a
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 583 (CTC=0.776, Attn=1.694) ---
+  REF : end of chapter  read by christian macquilan tokyo
+  CTC : o  e 'o e e e  e e e e e a  e a e
+  ATTN: 'the cat the cat the cat the cat the cat on the cat on the could the caterpillar 'and the cook and the the the
+
+--- Sample 584 (CTC=0.764, Attn=1.055) ---
+  REF : end of chapter  read by christian macquilan tokyo japan
+  CTC : ' o e e a e e  e e e e e e i a e e e e
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the cat the caterpillar
+
+--- Sample 585 (CTC=0.800, Attn=1.140) ---
+  REF :  read by christian macquilan tokyo japan december 
+  CTC :  o  e e e e e e e e e e e e e e  e
+  ATTN: the was the caterpillar 'the cat the cat on the cat on the cat the caterpillar
+
+--- Sample 586 (CTC=0.760, Attn=1.680) ---
+  REF : read by christian macquilan tokyo japan december  
+  CTC :  e e e e e e e e e e i e e e e e e e
+  ATTN: 'the cat the cat the cat the cat the was the cat the was the cat the cat the cat on the cat on the could to
+
+--- Sample 587 (CTC=0.762, Attn=2.190) ---
+  REF : christian macquilan tokyo japan december  
+  CTC : o  e a e e e a e e e e e  e e  e a
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the cat the was and the the s oucke t
+
+--- Sample 588 (CTC=0.955, Attn=3.682) ---
+  REF : tokyo japan december  
+  CTC : a ei e e a a e a  e a e  e e  
+  ATTN: the was the caterpillar 'the cat was the caterpillar 'and the caterpillar 'and the caterpillar
+
+--- Sample 589 (CTC=2.100, Attn=8.400) ---
+  REF : december  
+  CTC : 'a a e a a a a  a i e a 
+  ATTN: 'it it was the caterpillar 'i was the caterpillar 'and the caterpillar 'and the caterpillar
+

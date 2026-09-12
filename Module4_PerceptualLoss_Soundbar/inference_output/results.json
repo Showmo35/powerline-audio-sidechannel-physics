@@ -1,0 +1,22 @@
+{
+  "checkpoint": "<REPO_ROOT>/Module4_PerceptualLoss_Soundbar/checkpoints/best_model.pt",
+  "checkpoint_epoch": 126,
+  "checkpoint_val_loss": 1.583893895149231,
+  "n_val_samples": 768,
+  "reconstruction": {
+    "mse_mean": 0.18325300514698029,
+    "mse_std": 0.11436024308204651,
+    "mae_mean": 0.3493843078613281,
+    "mae_std": 0.09880249947309494,
+    "corr_mean": 0.528857304706549,
+    "corr_std": 0.16243385220020398
+  },
+  "baseline_noisy": {
+    "mse_mean": 0.3314917981624603,
+    "mae_mean": 0.45975565910339355,
+    "corr_mean": 0.50621620565245
+  },
+  "per_sample": [
+    {
+      "idx": 0,
+      "mse": 

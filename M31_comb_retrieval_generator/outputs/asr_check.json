@@ -1,0 +1,812 @@
+{
+  "n": 50,
+  "whisper": "small",
+  "arm": "raw",
+  "WER": {
+    "A_orig": 0.07696322631616749,
+    "B_realGL_vocoder_ceiling": 0.0929632263161675,
+    "C_genGL": 1.1719293778117308
+  },
+  "rows": [
+    {
+      "utt": "2989-138028-0044",
+      "ref": "ONCE OR TWICE AS WELL AS I REMEMBER REPLIED SANCHO",
+      "A_orig": {
+        "hyp": " Once or twice, as well as I remember replied Sancho.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Once or twice, as well as I remember reply to Sanjo.",
+        "wer": 0.3
+      },
+      "C_genGL": {
+        "hyp": " talk sometimes.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "5339-14134-0068",
+      "ref": "SAID SYLVIA SHIVERING ALL OVER WITH PASSION",
+      "A_orig": {
+        "hyp": " said Sylvia, shivering all over with passion.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " said Sylvia, shivering all over with passion.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Next time on 7-9-1-2-3.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "5339-14134-0071",
+      "ref": "SYLVIE SYLVIE",
+      "A_orig": {
+        "hyp": " Sylvie. Sylvie.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Sylvie. Sylvie.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": "",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "1867-148436-0026",
+      "ref": "THE BRUTE HAS GONE LAME YOU SEE",
+      "A_orig": {
+        "hyp": " The brute has gone lame, you see.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " The brute has gone lame, you see.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " So fuck, it's hard.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "5808-54425-0046",
+      "ref": "HE SAID YES AND I M GOING TO DO IT AGAIN",
+      "A_orig": {
+        "hyp": " He said, yes, and I'm going to do it again.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " He said, yes, and I'm going to do it again.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Thank you.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "211-122442-0057",
+      "ref": "THE DEVIL SAID D'ARTAGNAN",
+      "A_orig": {
+        "hyp": " The devil said to Artanian.",
+        "wer": 0.4
+      },
+      "B_realGL": {
+        "hyp": " The devil said to Artanian.",
+        "wer": 0.4
+      },
+      "C_genGL": {
+        "hyp": " A very important thank-you to you.",
+        "wer": 1.4
+      }
+    },
+    {
+      "utt": "1867-148436-0024",
+      "ref": "PA MEETS HIM AT THE DOOR AND ASKS HIM IN",
+      "A_orig": {
+        "hyp": " Pa meets him at the door and asks him in.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Pa meets him at the door and asks him in.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " I think that's it for the moment. So much for the moment.",
+        "wer": 1.2
+      }
+    },
+    {
+      "utt": "1867-148436-0040",
+      "ref": "THINKIN UP NEW WAYS OF RAISIN HELL",
+      "A_orig": {
+        "hyp": " thinking up new ways of raising hell.",
+        "wer": 0.2857142857142857
+      },
+      "B_realGL": {
+        "hyp": " thinking up new ways of raising hell.",
+        "wer": 0.2857142857142857
+      },
+      "C_genGL": {
+        "hyp": " Good talk to you guys.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "2989-138028-0040",
+      "ref": "THAT WOULD DO IF IT WAS THE TOOTHACHE MY MASTER HAD",
+      "A_orig": {
+        "hyp": " That would do if it was the toothache my master had.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " That would do if it was the toothache my master had.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Thank you.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "5339-14133-0044",
+      "ref": "AND YO'R PARENTS MAY LOOK FOR SOMETHING BETTER FOR YO MY PRETTY",
+      "A_orig": {
+        "hyp": " and your parents may look for something better for you, my pretty.",
+        "wer": 0.23076923076923078
+      },
+      "B_realGL": {
+        "hyp": " and your parents may look for something better for you, my pretty.",
+        "wer": 0.23076923076923078
+      },
+      "C_genGL": {
+        "hyp": " but I think we'll see what we have",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "2136-5143-0029",
+      "ref": "BUT STILL YOU KNOW YOUR FATHER IS OLD MAN",
+      "A_orig": {
+        "hyp": " But still you know your father is old man.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " But still you know your father is old man.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Um, post thumbs up what you saw above and I'll see ya at the next video.",
+        "wer": 1.7777777777777777
+      }
+    },
+    {
+      "utt": "2989-138028-0051",
+      "ref": "AND SO LONG AS ONE GAINS SOMETHING THERE IS NOTHING LOST",
+      "A_orig": {
+        "hyp": " And so long as one gains something, there is nothing lost.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " And so long as one gains something, there is nothing lost.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " with some logic and some pressure, some pressure drops.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "1363-135842-0008",
+      "ref": "AM I A WHAT HE DEMANDED",
+      "A_orig": {
+        "hyp": " Am I a what? He demanded.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Am I a what? He demanded.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Can I hope any of you start doing a few things and leave me a message? I don't talk.",
+        "wer": 3.0
+      }
+    },
+    {
+      "utt": "39-121914-0001",
+      "ref": "VERY FOND OF BOTH DAUGHTERS BUT PARTICULARLY OF EMMA",
+      "A_orig": {
+        "hyp": " very fond of both daughters, but particularly of Emma.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " very fond of both daughters, but particularly of Emma.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " some ...",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "8629-261140-0006",
+      "ref": "THE LOVE THE PASSION",
+      "A_orig": {
+        "hyp": " The love, the passion.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " The love, the passion.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Tell us the thoughts",
+        "wer": 0.75
+      }
+    },
+    {
+      "utt": "4195-186236-0027",
+      "ref": "THE LAWYER WHO HAD CONSENTED TO STAY AT THE MANSION FOR A TIME",
+      "A_orig": {
+        "hyp": " The lawyer who had consented to stay at the mansion for a time.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " The lawyer who had consented to stay at the mansion for a time.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": "",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "2136-5143-0001",
+      "ref": "WITH HER EAR AT THE KEYHOLE OF PAPA'S STUDY",
+      "A_orig": {
+        "hyp": " with her ear at the keyhole of Papa's study.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " with her ear at the keyhole of Papa's study.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Som \u0442\u0430\u043c-system-PLOM.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "2989-138028-0030",
+      "ref": "I AM THEREFORE IN A MEASURE CONSTRAINED TO FOLLOW THAT ROAD",
+      "A_orig": {
+        "hyp": " I am therefore in a measure constrained to follow that road.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " I am therefore in a measure constrained to follow that road.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " It's on the start of the project. It's on the start of the project.",
+        "wer": 1.4545454545454546
+      }
+    },
+    {
+      "utt": "8629-261139-0007",
+      "ref": "LOOKED AWAY AS SOON AS POSSIBLE",
+      "A_orig": {
+        "hyp": " Looked away as soon as possible.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Look the way as soon as possible.",
+        "wer": 0.5
+      },
+      "C_genGL": {
+        "hyp": " How come ONNCE is in the tub,",
+        "wer": 1.1666666666666667
+      }
+    },
+    {
+      "utt": "4195-186237-0033",
+      "ref": "YOU OUGHT TO BE VERY CONTENTED SIR",
+      "A_orig": {
+        "hyp": " You ought to be very content at Sir.",
+        "wer": 0.2857142857142857
+      },
+      "B_realGL": {
+        "hyp": " You ought to be very content at Sir.",
+        "wer": 0.2857142857142857
+      },
+      "C_genGL": {
+        "hyp": " I'm about to get on with something, something, something.",
+        "wer": 1.2857142857142858
+      }
+    },
+    {
+      "utt": "39-121914-0027",
+      "ref": "I AM SURE SHE WILL BE AN EXCELLENT SERVANT",
+      "A_orig": {
+        "hyp": " I am sure she will be an excellent servant.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " I am sure she will be an excellent servant.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Oh, some of them are still white.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "3879-174923-0070",
+      "ref": "I HAVE TOLD PAPA THAT I SHOULD ASK YOU AND HE WOULD BE DELIGHTED",
+      "A_orig": {
+        "hyp": " I've told Papa that I should ask you, and he would be delighted.",
+        "wer": 0.07142857142857142
+      },
+      "B_realGL": {
+        "hyp": " I've told Papa that I should ask you, and he would be delighted.",
+        "wer": 0.07142857142857142
+      },
+      "C_genGL": {
+        "hyp": " Thanks for this service, thanks for this service",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "211-122442-0027",
+      "ref": "BRUSH OFF YOUR BOOTS YESTERDAY FROM THE PAVEMENT OF PARIS",
+      "A_orig": {
+        "hyp": " Brush off your boots yesterday from the pavement of Paris.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Brush off your boots yesterday from the pavement of Paris.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Pero Sucha Pixton. Start to note that what you just heard was shown of...",
+        "wer": 1.4
+      }
+    },
+    {
+      "utt": "211-122442-0067",
+      "ref": "WHAT HAS BECOME OF YOUR THREE COMPANIONS",
+      "A_orig": {
+        "hyp": " What has become of your three companions?",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " What has become of your three companions?",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Thank you.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "8609-283227-0039",
+      "ref": "TO MISSUS TEMPLETON FOR NOT INVITING HER WITH YOU",
+      "A_orig": {
+        "hyp": " to Mrs. Templeton for not inviting her with you.",
+        "wer": 0.1111111111111111
+      },
+      "B_realGL": {
+        "hyp": " to Mrs. Templeton for not inviting her with you.",
+        "wer": 0.1111111111111111
+      },
+      "C_genGL": {
+        "hyp": "",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "1867-154071-0036",
+      "ref": "BILL GREGG SMILED SOURLY",
+      "A_orig": {
+        "hyp": " Bill Gregg smiled sourly.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Bill Gregg smiled sourly.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " And it's not something that's solid.",
+        "wer": 2.0
+      }
+    },
+    {
+      "utt": "3374-298025-0003",
+      "ref": "HUMAN BEINGS AND WHAT THEY WANT AND DO",
+      "A_orig": {
+        "hyp": " Human beings, and what they want and do.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Human beings, and what they want and do.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " compositions.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "5339-14134-0051",
+      "ref": "I'LL RECKON TO HEAR FRO THEE IN A WEEK OR MAYHAP LESS",
+      "A_orig": {
+        "hyp": " I'll be back in a week on May 1.",
+        "wer": 0.6153846153846154
+      },
+      "B_realGL": {
+        "hyp": " I'll be back in a week on MahaPlus.",
+        "wer": 0.6153846153846154
+      },
+      "C_genGL": {
+        "hyp": " Time out, time out, time out, time out, time out.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "211-122442-0069",
+      "ref": "AND HOW THE DEVIL DID YOU ESCAPE",
+      "A_orig": {
+        "hyp": " and how the devil did you escape.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " and how the devil did you escape.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " It's nice to talk about this.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "4195-186236-0006",
+      "ref": "THE BALANCE OF POWER SEEMED TO BE IN PATRICIA'S HANDS HOWEVER",
+      "A_orig": {
+        "hyp": " The balance of power seemed to be in Patricia's hands, however.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " The balance of power seemed to be in Patricia's hands, however.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " We're going with the phone, we're going with the phone. That's the phone, the phone.",
+        "wer": 1.3333333333333333
+      }
+    },
+    {
+      "utt": "2989-138028-0064",
+      "ref": "THE BREAD EATEN AND THE COMPANY DISPERSED",
+      "A_orig": {
+        "hyp": " the bread eaten and the company dispersed.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " the bread eaten and the company dispersed.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " enjoy.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "8629-261139-0031",
+      "ref": "AND THE SHOCK THE SURPRISE",
+      "A_orig": {
+        "hyp": " and the shock, the surprise.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " and the shock, the surprise.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " If you're sorry, do make a comment.",
+        "wer": 1.6
+      }
+    },
+    {
+      "utt": "7505-83618-0013",
+      "ref": "FOR ASKED THE INCAS",
+      "A_orig": {
+        "hyp": " 4. Ask the Incas.",
+        "wer": 0.5
+      },
+      "B_realGL": {
+        "hyp": " 4. Ask the Incas",
+        "wer": 0.5
+      },
+      "C_genGL": {
+        "hyp": " Bye my buddy.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "39-121914-0009",
+      "ref": "HOW SHE HAD DEVOTED ALL HER POWERS",
+      "A_orig": {
+        "hyp": " how she had devoted all her powers.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " how she had devoted all her powers.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " coriander, coriander, cocumnut, some rattling",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "1363-135842-0012",
+      "ref": "YET DOESN'T BELONG TO THE ORDER OF FLESH EATERS",
+      "A_orig": {
+        "hyp": " yet doesn't belong to the order of flesh eaters.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " yet doesn't belong to the order of flesh eaters.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " coriander, one sip, because the",
+        "wer": 0.9
+      }
+    },
+    {
+      "utt": "5808-54425-0043",
+      "ref": "THEN HE WENT DIRECTLY TO HER ROOM",
+      "A_orig": {
+        "hyp": " Then he went directly to her room.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Then he went directly to her room.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Thank you very much.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "1867-148436-0012",
+      "ref": "HIS EASTERN COURSE NASH PURSUED FOR A MILE OR MORE",
+      "A_orig": {
+        "hyp": " His eastern course Nash pursued for a mile or more.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " His eastern course Nash pursued for a mile or more.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " compositions that stand on their time.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "4195-186236-0028",
+      "ref": "THAT MAY BE ANSWERED THE BOY",
+      "A_orig": {
+        "hyp": " That may be, answered the boy.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " That may be, answered the boy.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": "",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "5867-48852-0020",
+      "ref": "OLLAYS SAID IT I HATED HIM OLLAYS I DID INDEED MISTER JOHN",
+      "A_orig": {
+        "hyp": " always said it. I hated him always. I did indeed Mr. John.",
+        "wer": 0.25
+      },
+      "B_realGL": {
+        "hyp": " always said it. I hated him always. I did indeed, Mr. John.",
+        "wer": 0.25
+      },
+      "C_genGL": {
+        "hyp": " Um it's a bit- you just make a smooth, a little faster building, that's what you call\u2013",
+        "wer": 1.5833333333333333
+      }
+    },
+    {
+      "utt": "5339-14134-0035",
+      "ref": "SHE HASTILY GOT UP AND LEFT THE ROOM",
+      "A_orig": {
+        "hyp": " She hastily got up and left the room.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " She hastily got up and left the room.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": "\u092a\u0941\u0906\u0909\u0935\u0941\u092d\u0941\ufffd compositions",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "6385-34655-0034",
+      "ref": "SUDDENLY HE HEARD A GENTLE NOISE VERY FAINT IT WAS LIKE DROPPING WATER HE WAS IN A DARK NARROW PASSAGE CLOSED SOME FEW PACES FURTHER ON BY A CURTAIN HE ADVANCED TO THE CURTAIN",
+      "A_orig": {
+        "hyp": " drawn by a curtain. He advanced to the curtain.",
+        "wer": 0.7647058823529411
+      },
+      "B_realGL": {
+        "hyp": " drawn by a curtain. He advanced to the curtain.",
+        "wer": 0.7647058823529411
+      },
+      "C_genGL": {
+        "hyp": " It's not a tongue twister. It's not a tongue twister, but it is.",
+        "wer": 0.9117647058823529
+      }
+    },
+    {
+      "utt": "4680-16026-0018",
+      "ref": "SMALL BONY AND FEEBLE AS THAT OF A SKELETON",
+      "A_orig": {
+        "hyp": " Small, bony, and feeble as that of a skeleton.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Small, bony, and feeble as that of a skeleton.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": "",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "5339-14134-0028",
+      "ref": "SAID COULSON HE'S SENT FOR",
+      "A_orig": {
+        "hyp": " said Coulson. He sent photo.",
+        "wer": 0.3333333333333333
+      },
+      "B_realGL": {
+        "hyp": " said Coulson. He sent photo.",
+        "wer": 0.3333333333333333
+      },
+      "C_genGL": {
+        "hyp": " Ouch,\u553e\u553e, \u8bd2\u553e\u3002",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "39-121915-0026",
+      "ref": "BUT DEAR EMMA WAS OF NO FEEBLE CHARACTER",
+      "A_orig": {
+        "hyp": " But dear Emma was of no feeble character.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " But dear Emma was of no feeble character.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " them. Thank you.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "211-122442-0070",
+      "ref": "THEY MERIT RICHLY THAT PIECE OF ATTENTION ON YOUR PART",
+      "A_orig": {
+        "hyp": " They merit richly that piece of attention on your part.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " They merit richly that piece of attention on your part.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " \ud83e\udd16",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "211-122442-0042",
+      "ref": "NOW LET US TALK ABOUT YOURSELF MY YOUNG FRIEND",
+      "A_orig": {
+        "hyp": " Now, let us talk about yourself, my young friend.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Now, let us talk about yourself, my young friend.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " Such emotions.",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "5867-48852-0017",
+      "ref": "HERE HE ENCOUNTERED HOPKINS",
+      "A_orig": {
+        "hyp": " Here he encountered Hopkins.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Here he encountered Hopkins.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " I don't see the truth for you.",
+        "wer": 2.0
+      }
+    },
+    {
+      "utt": "1867-154071-0002",
+      "ref": "HERE THEY TOOK UP THE VIGIL",
+      "A_orig": {
+        "hyp": " Here they took up the vigil.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " Here they took up the vigil.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " So, I'm going to talk to Dr. Dutton.",
+        "wer": 1.5
+      }
+    },
+    {
+      "utt": "39-121914-0025",
+      "ref": "YOU KNOW WE HAVE SETTLED ALL THAT ALREADY",
+      "A_orig": {
+        "hyp": " You know we have settled all that already.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " You know we have settled all that already.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": "",
+        "wer": 1.0
+      }
+    },
+    {
+      "utt": "4195-186236-0012",
+      "ref": "OF THE ESTATE DURING HER LIFETIME",
+      "A_orig": {
+        "hyp": " of the estate during her lifetime.",
+        "wer": 0.0
+      },
+      "B_realGL": {
+        "hyp": " of the estate during her lifetime.",
+        "wer": 0.0
+      },
+      "C_genGL": {
+        "hyp": " but from the start, from some of the students.",
+        "wer": 1.3333333333333333
+      }
+    }
+  ]
+}

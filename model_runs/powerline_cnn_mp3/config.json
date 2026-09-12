@@ -1,0 +1,19 @@
+{
+  "POWERLINE_FOLDER": "/fs/scratch/<allocation>/May29_Alice",
+  "MP3_FOLDER": "/fs/scratch/<allocation>/Alice_In_Wonderland_mp3",
+  "TIMING_FILE": "/fs/scratch/<allocation>/alice_timing_analysis.txt",
+  "OUTPUT_DIR": "/fs/scratch/<allocation>/model_runs/powerline_cnn_mp3",
+  "POWERLINE_SAMPLE_RATE": 200000,
+  "MP3_SAMPLE_RATE": 22050,
+  "CHUNK_DURATION": 0.5,
+  "CARRIER_FREQ": 20000,
+  "BANDWIDTH": 10000,
+  "DEVICE": "cuda",
+  "BATCH_SIZE": 10,
+  "NUM_EPOCHS": 10,
+  "LEARNING_RATE": 0.0001,
+  "TRAIN_SPLIT": 0.8,
+  "USE_GPU": true,
+  "SAVE_EVERY": 5,
+  "EARLY_STOPPING_PATIENCE": 20
+}

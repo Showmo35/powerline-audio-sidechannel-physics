@@ -1,0 +1,52 @@
+[
+ {
+  "chunk": "chunk_120",
+  "gt": "black and bitter but welcome enough to the farmers",
+  "retrieved_words": "perhaps vivid dimples off gowns",
+  "asr_of_retrieved": "perhaps a vivid dip was an off the counts",
+  "asr_of_true_words": "black and bitter welcome and welcome enough to farmers",
+  "n_words": 5,
+  "wer_retrieved": 1.0,
+  "wer_asr": 0.8888888888888888
+ },
+ {
+  "chunk": "chunk_084",
+  "gt": "very fond of both daughters but particularly of emma",
+  "retrieved_words": "fiery sudden bends peasants sit reciprocity own",
+  "asr_of_retrieved": "fiery sudden abyss peasants sit reciprocity down",
+  "asr_of_true_words": "very fond of both daughters but particularly of emma",
+  "n_words": 7,
+  "wer_retrieved": 1.0,
+  "wer_asr": 1.0
+ },
+ {
+  "chunk": "chunk_060",
+  "gt": "and as such was highly pleased with what he said",
+  "retrieved_words": "stripped famed face prince sak",
+  "asr_of_retrieved": "stripped famous face and prints out sack",
+  "asr_of_true_words": "such was highly pleased with what he said",
+  "n_words": 5,
+  "wer_retrieved": 1.0,
+  "wer_asr": 1.0
+ },
+ {
+  "chunk": "chunk_084",
+  "gt": "he loved to have the cloth laid",
+  "retrieved_words": "muff rid trees matters",
+  "asr_of_retrieved": "moth and riddle for trees of matters",
+  "asr_of_true_words": "we love to have the cloth laid",
+  "n_words": 4,
+  "wer_retrieved": 1.0,
+  "wer_asr": 1.0
+ },
+ {
+  "chunk": "chunk_072",
+  "gt": "human beings and what they want and do",
+  "retrieved_words": "shame furnishings wiped whilst burning",
+  "asr_of_retrieved": "shame furnitions and wipe them whilst burning",
+  "asr_of_true_words": "human beings what they want and do",
+  "n_words": 5,
+  "wer_retrieved": 1.0,
+  "wer_asr": 0.875
+ }
+]

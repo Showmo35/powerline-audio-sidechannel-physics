@@ -1,0 +1,2363 @@
+CER: 0.7260 | WER: 1.0452 | Samples: 590
+======================================================================
+
+--- Sample 0 (CER=0.707) ---
+REF : pretending to be two people 'but it's no use now' thought poor alice to pretend to
+PRED: a ee o ee a e e a o e o  e a a a 
+
+--- Sample 1 (CER=0.722) ---
+REF : people 'but it's no use now' thought poor alice to pretend to be two people why
+PRED:  a e e e e e o  o ta a a t e i e  i
+
+--- Sample 2 (CER=0.722) ---
+REF : 'but it's no use now' thought poor alice to pretend to be two people why there's hardly enough of
+PRED:  e o e o e o a a i ta i i e  i a te e
+
+--- Sample 3 (CER=0.720) ---
+REF : now' thought poor alice to pretend to be two people why there's hardly enough of me to make one respectable
+PRED: e e e a ai a th ti ti a th o i a th e a i e i  o
+
+--- Sample 4 (CER=0.657) ---
+REF : poor alice to pretend to be two people why there's hardly enough of me to make one respectable person'
+PRED: a a t ti ti e th e i a the e e i e i  o to te e he 
+
+--- Sample 5 (CER=0.667) ---
+REF : to be two people why there's hardly enough of me to make one respectable person' soon her eye
+PRED: ae e  i a the e e i e i i ho ho tet e he he he ha e e
+
+--- Sample 6 (CER=0.695) ---
+REF : there's hardly enough of me to make one respectable person' soon her eye fell on a little glass
+PRED: h e e e i e i si ho hi tet het ha he he ha he e si i a i
+
+--- Sample 7 (CER=0.696) ---
+REF : of me to make one respectable person' soon her eye fell on a little glass box that was lying
+PRED: he e i ha hi tet he he h he ha he he ti i h hen hen o o 
+
+--- Sample 8 (CER=0.644) ---
+REF : respectable person' soon her eye fell on a little glass box that was lying under the table
+PRED: sh e he ta te her ha he he te i te en to ho i a en in in in e
+
+--- Sample 9 (CER=0.688) ---
+REF : person' soon her eye fell on a little glass box that was lying under the table she opened it and
+PRED: h a se e e a a e e o a a i o o i a id se e
+
+--- Sample 10 (CER=0.714) ---
+REF : eye fell on a little glass box that was lying under the table she opened it and found in it
+PRED: h a e e e o i a in o o i a id he e a e ee
+
+--- Sample 11 (CER=0.714) ---
+REF : glass box that was lying under the table she opened it and found in it a very small cake on
+PRED: a e a a e  a a id se e a e e  e ee a
+
+--- Sample 12 (CER=0.727) ---
+REF : lying under the table she opened it and found in it a very small cake on which the words
+PRED: a ai a i e e a e e e a e e e sa e e
+
+--- Sample 13 (CER=0.718) ---
+REF : she opened it and found in it a very small cake on which the words eat me were
+PRED:  e e a e e e e ee e a i e e h 
+
+--- Sample 14 (CER=0.747) ---
+REF : and found in it a very small cake on which the words eat me were beautifully marked
+PRED:  e e e a e ee ae ee a  a e e
+
+--- Sample 15 (CER=0.696) ---
+REF : a very small cake on which the words eat me were beautifully marked in currents
+PRED: a eee a e e  e a  a e e to a ae
+
+--- Sample 16 (CER=0.776) ---
+REF : on which the words eat me were beautifully marked in currents 'well
+PRED:  e   a e e e o  e
+
+--- Sample 17 (CER=0.762) ---
+REF : words eat me were beautifully marked in currents 'well i'll eat
+PRED: a   a e e o o a e  o a a
+
+--- Sample 18 (CER=0.754) ---
+REF : were beautifully marked in currents 'well i'll eat it' said alice
+PRED:  e o o o e e  aa e e a a
+
+--- Sample 19 (CER=0.747) ---
+REF : marked in currents 'well i'll eat it' said alice and if it makes me grow larger
+PRED: h e ee e  a a  e a a a e 
+
+--- Sample 20 (CER=0.711) ---
+REF : 'well i'll eat it' said alice and if it makes me grow larger i can reach the
+PRED:   o i e e a a a ta e ta i a
+
+--- Sample 21 (CER=0.713) ---
+REF : 'well i'll eat it' said alice and if it makes me grow larger i can reach the key and if
+PRED: id a  a a a ta e ta e o i o a e
+
+--- Sample 22 (CER=0.709) ---
+REF : eat it' said alice and if it makes me grow larger i can reach the key and if it makes me grow smaller i
+PRED: a a a e e e th e o i a i a e e e e e
+
+--- Sample 23 (CER=0.670) ---
+REF : and if it makes me grow larger i can reach the key and if it makes me grow smaller i can creep under
+PRED: a e a e he a a in o a a he se es e e a a th  te
+
+--- Sample 24 (CER=0.670) ---
+REF : larger i can reach the key and if it makes me grow smaller i can creep under the door so
+PRED: h e a i a i a e e e e e a a a e te e ooe
+
+--- Sample 25 (CER=0.694) ---
+REF : the key and if it makes me grow smaller i can creep under the door so either way i'll get into the
+PRED: h e a se e e e e a a o e e e o e e h o
+
+--- Sample 26 (CER=0.735) ---
+REF : it makes me grow smaller i can creep under the door so either way i'll get into the garden and i don't
+PRED: e  ee a a o o e  on e se e o a a a e
+
+--- Sample 27 (CER=0.732) ---
+REF : i can creep under the door so either way i'll get into the garden and i don't care which happens'
+PRED:  a e e e  a e e oe a  a a  ta
+
+--- Sample 28 (CER=0.763) ---
+REF : under the door so either way i'll get into the garden and i don't care which happens' she ate
+PRED: oe a e e e ta a  e e oe oe
+
+--- Sample 29 (CER=0.747) ---
+REF : so either way i'll get into the garden and i don't care which happens' she ate a little bit and
+PRED: h e oe a a a a  ae o e e o 
+
+--- Sample 30 (CER=0.756) ---
+REF : the garden and i don't care which happens' she ate a little bit and said anxiously
+PRED:  a a a e ee e e a o e ae e
+
+--- Sample 31 (CER=0.724) ---
+REF : don't care which happens' she ate a little bit and said anxiously to herself
+PRED: o e oe e e a o ee a e e e te e 
+
+--- Sample 32 (CER=0.768) ---
+REF : happens' she ate a little bit and said anxiously to herself which way
+PRED:   a o e ae ee te ee a e ee
+
+--- Sample 33 (CER=0.773) ---
+REF : ate a little bit and said anxiously to herself which way which way
+PRED:  o ee a e e e tee ae e ae e
+
+--- Sample 34 (CER=0.789) ---
+REF : and said anxiously to herself which way which way holding
+PRED: e ae te  ae e ae e a
+
+--- Sample 35 (CER=0.773) ---
+REF : anxiously to herself which way which way holding her hand on the top of her
+PRED:  oe a e e ae e e sa e e a
+
+--- Sample 36 (CER=0.740) ---
+REF : which way which way holding her hand on the top of her head to feel which way
+PRED: e e a ee e sa e e  e o e e e
+
+--- Sample 37 (CER=0.720) ---
+REF : which way holding her hand on the top of her head to feel which way it was growing
+PRED: e e e sa e e  e o e e e e e e  a
+
+--- Sample 38 (CER=0.702) ---
+REF : way holding her hand on the top of her head to feel which way it was growing and she was quite surprised
+PRED: o a e e o e o e te e te te e  a she e ee
+
+--- Sample 39 (CER=0.718) ---
+REF : holding her hand on the top of her head to feel which way it was growing and she was quite surprised to find that she
+PRED: a e e o e e e te e e  ha he e e e h e he th
+
+--- Sample 40 (CER=0.706) ---
+REF : her head to feel which way it was growing and she was quite surprised to find that she remained the same size
+PRED: h e e te te e i ha he e e e o e e he a i on o
+
+--- Sample 41 (CER=0.685) ---
+REF : way it was growing and she was quite surprised to find that she remained the same size to be
+PRED: o  e e ha the e e o e e th o i e e e o a e
+
+--- Sample 42 (CER=0.693) ---
+REF : and she was quite surprised to find that she remained the same size to be sure this generally happens
+PRED: h te e he ho he  he o in he o e on han he he  o e ee
+
+--- Sample 43 (CER=0.725) ---
+REF : surprised to find that she remained the same size to be sure this generally happens when one eats cake
+PRED: h  e th o i o o e e a e h o e to e oao
+
+--- Sample 44 (CER=0.663) ---
+REF : she remained the same size to be sure this generally happens when one eats cake but alice
+PRED: e e e e e a e o o e o e e a o o e o o e e
+
+--- Sample 45 (CER=0.686) ---
+REF : size to be sure this generally happens when one eats cake but alice had gotten so much
+PRED: h a he se  e to e te ha o o e o a he e e e ee
+
+--- Sample 46 (CER=0.723) ---
+REF : be sure this generally happens when one eats cake but alice had gotten so much into the way of expecting nothing
+PRED: o e o i i ha i i e o a he o e e e o o o o e
+
+--- Sample 47 (CER=0.680) ---
+REF : happens when one eats cake but alice had gotten so much into the way of expecting nothing but out
+PRED: h  o e e o e he o te e e o o i o on to e  o  i
+
+--- Sample 48 (CER=0.680) ---
+REF : cake but alice had gotten so much into the way of expecting nothing but out of the way things to happen
+PRED: h e sa e te e e o o  e hon ho i i o i a i to hai
+
+--- Sample 49 (CER=0.679) ---
+REF : alice had gotten so much into the way of expecting nothing but out of the way things to happen that it seemed
+PRED: he e o o o  on hon o i e to i ha i to ho  e e e ha e
+
+--- Sample 50 (CER=0.712) ---
+REF : much into the way of expecting nothing but out of the way things to happen that it seemed quite dull and stupid
+PRED: e e e ho e  to a i he he  he hen en he he h he e e 
+
+--- Sample 51 (CER=0.673) ---
+REF : nothing but out of the way things to happen that it seemed quite dull and stupid for life to go on
+PRED: h e te in ha he ha he e he hen he he i he te e het i a e i
+
+--- Sample 52 (CER=0.702) ---
+REF : out of the way things to happen that it seemed quite dull and stupid for life to go on in the common way
+PRED: h e he  e en he he h e he e e her i a a i i a  e ed
+
+--- Sample 53 (CER=0.677) ---
+REF : happen that it seemed quite dull and stupid for life to go on in the common way so she set to
+PRED: o e ha a te e e  e i a a i o he e e o e ae
+
+--- Sample 54 (CER=0.717) ---
+REF : seemed quite dull and stupid for life to go on in the common way so she set to work and very
+PRED: a e a e e i a a  i e e e o  a e ae ae
+
+--- Sample 55 (CER=0.786) ---
+REF : stupid for life to go on in the common way so she set to work and very soon finished
+PRED: h a ae i e e o ae a sa e a
+
+--- Sample 56 (CER=0.734) ---
+REF : on in the common way so she set to work and very soon finished off the cake end
+PRED: a oe  ae a e a e  e a e e
+
+--- Sample 57 (CER=0.741) ---
+REF : so she set to work and very soon finished off the cake end
+PRED:  oe e si ee sa e e e
+
+--- Sample 58 (CER=0.746) ---
+REF : to work and very soon finished off the cake end of chapter 
+PRED:  si e e sa oe e o o 
+
+--- Sample 59 (CER=0.660) ---
+REF : very soon finished off the cake end of chapter 
+PRED: eee sa e e e e o e e 
+
+--- Sample 60 (CER=0.703) ---
+REF : finished off the cake end of chapter 
+PRED:  e e o o e ee sha e e  ee
+
+--- Sample 61 (CER=1.333) ---
+REF : end of chapter 
+PRED: e o e ei sha e e  ee tei a i
+
+--- Sample 62 (CER=1.667) ---
+REF : end of chapter 
+PRED:  o e e e sae e ee oe i i e e a
+
+--- Sample 63 (CER=0.762) ---
+REF : hair and it'll fetch things when you throw them and it'll sit up and beg for its dinner and all sorts
+PRED: o a o o o e oe a so  o o o a o  o
+
+--- Sample 64 (CER=0.755) ---
+REF : fetch things when you throw them and it'll sit up and beg for its dinner and all sorts of things i
+PRED:  o o o a so e to o a o o a ee to e e
+
+--- Sample 65 (CER=0.747) ---
+REF : throw them and it'll sit up and beg for its dinner and all sorts of things i can't remember half of
+PRED: o a so i o o a o  a o to e e e o o
+
+--- Sample 66 (CER=0.743) ---
+REF : sit up and beg for its dinner and all sorts of things i can't remember half of them and it belongs to
+PRED: a e a a o o  ee o  e e  o o e e o e
+
+--- Sample 67 (CER=0.768) ---
+REF : its dinner and all sorts of things i can't remember half of them and it belongs to a farmer you
+PRED: e e  too ee o e ee e e e e ae
+
+--- Sample 68 (CER=0.753) ---
+REF : sorts of things i can't remember half of them and it belongs to a farmer you know and he says
+PRED: aee ee o e e e e e e a o a a e
+
+--- Sample 69 (CER=0.707) ---
+REF : i can't remember half of them and it belongs to a farmer you know and he says it's so useful
+PRED:  o e a e e e e a a o a a e   o o
+
+--- Sample 70 (CER=0.705) ---
+REF : them and it belongs to a farmer you know and he says it's so useful it's worth
+PRED: a o e e  a o a o a a o o e a e
+
+--- Sample 71 (CER=0.733) ---
+REF : to a farmer you know and he says it's so useful it's worth a hundred pounds
+PRED:  e a o aa o o o  o e e e e o o
+
+--- Sample 72 (CER=0.730) ---
+REF : you know and he says it's so useful it's worth a hundred pounds he says it
+PRED: oa a i o o e e e e e o o o e e
+
+--- Sample 73 (CER=0.736) ---
+REF : says it's so useful it's worth a hundred pounds he says it kills all the
+PRED: a a o o e i e e o o o e e o 
+
+--- Sample 74 (CER=0.789) ---
+REF : useful it's worth a hundred pounds he says it kills all the rats and oh
+PRED:  e ee e o oe e o o a o e
+
+--- Sample 75 (CER=0.703) ---
+REF : worth a hundred pounds he says it kills all the rats and oh dear
+PRED: h e o oe e o o a a a e e
+
+--- Sample 76 (CER=0.714) ---
+REF : he says it kills all the rats and oh dear cried alice in
+PRED:  e o o sa a i e a a te e
+
+--- Sample 77 (CER=0.708) ---
+REF : it kills all the rats and oh dear cried alice in a sorrowful tone
+PRED: h oi ae a a e a e te  ee  
+
+--- Sample 78 (CER=0.720) ---
+REF : the rats and oh dear cried alice in a sorrowful tone i'm afraid i'll offend
+PRED: e a i e a a te e e e  a a a ae
+
+--- Sample 79 (CER=0.746) ---
+REF : oh dear cried alice in a sorrowful tone i'm afraid i'll offend it again
+PRED: e o e te  ee  a a a a e  i o
+
+--- Sample 80 (CER=0.744) ---
+REF : cried alice in a sorrowful tone i'm afraid i'll offend it again for the mouse was swimming
+PRED: i e e e e  a a a a e i i a a a o
+
+--- Sample 81 (CER=0.747) ---
+REF : in a sorrowful tone i'm afraid i'll offend it again for the mouse was swimming away from her as
+PRED: he  a a a a a tae o a a o e e e a o
+
+--- Sample 82 (CER=0.726) ---
+REF : i'm afraid i'll offend it again for the mouse was swimming away from her as hard as it could go
+PRED: a a i e a a sa oe e e a ai a e o
+
+--- Sample 83 (CER=0.722) ---
+REF : offend it again for the mouse was swimming away from her as hard as it could go and making quiet a commotion
+PRED:  e o a sa o e e a a a i o e te i  e o
+
+--- Sample 84 (CER=0.738) ---
+REF : for the mouse was swimming away from her as hard as it could go and making quiet a commotion in the pool as
+PRED:  a e a a a ai a e e  a a  a a e a i
+
+--- Sample 85 (CER=0.763) ---
+REF : swimming away from her as hard as it could go and making quiet a commotion in the pool as it went
+PRED: a a ai a e e i  e  a ae a a a a a
+
+--- Sample 86 (CER=0.753) ---
+REF : as hard as it could go and making quiet a commotion in the pool as it went so
+PRED: he ee  e e e ae a e a a ae a 
+
+--- Sample 87 (CER=0.708) ---
+REF : and making quiet a commotion in the pool as it went so she called softly
+PRED:  a e a a e aa a e a  e a o o
+
+--- Sample 88 (CER=0.712) ---
+REF : commotion in the pool as it went so she called softly after it the
+PRED: e a a a e a e a e e e o e e t o
+
+--- Sample 89 (CER=0.691) ---
+REF : as it went so she called softly after it the mouse dear
+PRED: aaee   e o e  e o i e o
+
+--- Sample 90 (CER=0.698) ---
+REF : so she called softly after it the mouse dear do come back again
+PRED:  e o e o o ta  e a a ae
+
+--- Sample 91 (CER=0.698) ---
+REF : so she called softly after it the mouse dear do come back again and i won't talk about
+PRED: a o e e  o to e e a a a i o o a
+
+--- Sample 92 (CER=0.694) ---
+REF : softly after it the mouse dear do come back again and i won't talk about cats or dogs
+PRED: a e o o e e a ta a i o oi a i o   i
+
+--- Sample 93 (CER=0.696) ---
+REF : the mouse dear do come back again and i won't talk about cats or dogs either if
+PRED:  e e e a ae o o ae o a o e o ae
+
+--- Sample 94 (CER=0.726) ---
+REF : do come back again and i won't talk about cats or dogs either if you don't like them
+PRED:  ae o o a e o a o e o e a e  oi
+
+--- Sample 95 (CER=0.709) ---
+REF : again and i won't talk about cats or dogs either if you don't like them when the mouse
+PRED: a a ae o  o e o a e e ee e e e
+
+--- Sample 96 (CER=0.716) ---
+REF : about cats or dogs either if you don't like them when the mouse heard this
+PRED: h e o e o a e e ta e e tee te ee
+
+--- Sample 97 (CER=0.738) ---
+REF : dogs either if you don't like them when the mouse heard this it turned round and
+PRED:  oe a e e ae e e sei te ee a  oe
+
+--- Sample 98 (CER=0.741) ---
+REF : if you don't like them when the mouse heard this it turned round and swam slowly back
+PRED: a e a a e see te ee a e e e a e ei
+
+--- Sample 99 (CER=0.744) ---
+REF : when the mouse heard this it turned round and swam slowly back to her its face
+PRED: ae sa ta ee a e ee a e ee e e e e
+
+--- Sample 100 (CER=0.702) ---
+REF : mouse heard this it turned round and swam slowly back to her its face was quite pale
+PRED: a e e e a e e e a e e e a te te e e o ai
+
+--- Sample 101 (CER=0.733) ---
+REF : it turned round and swam slowly back to her its face was quite pale with passion alice
+PRED: ' eee  e e e e e i e e  a a a a e
+
+--- Sample 102 (CER=0.718) ---
+REF : and swam slowly back to her its face was quite pale with passion alice thought
+PRED: a e e ee a e e e ee a a te tae aa
+
+--- Sample 103 (CER=0.735) ---
+REF : back to her its face was quite pale with passion alice thought and it said in a low
+PRED:  a a e e a a a ta o o en e  e
+
+--- Sample 104 (CER=0.723) ---
+REF : face was quite pale with passion alice thought and it said in a low trembling voice
+PRED: a aa a a ta te e o  e o  e e oe
+
+--- Sample 105 (CER=0.731) ---
+REF : with passion alice thought and it said in a low trembling voice let
+PRED:  a a o oe e  o  to o e e
+
+--- Sample 106 (CER=0.743) ---
+REF : alice thought and it said in a low trembling voice let us get to the shore
+PRED: eoa o  e e to o ee o a o o 
+
+--- Sample 107 (CER=0.676) ---
+REF : and it said in a low trembling voice let us get to the shore and then i'll
+PRED:  o e o e oe o oe a e o e o e sa e
+
+--- Sample 108 (CER=0.727) ---
+REF : low trembling voice let us get to the shore and then i'll tell you my history
+PRED: o o  ee o a o e o o e sa o i a e e
+
+--- Sample 109 (CER=0.667) ---
+REF : let us get to the shore and then i'll tell you my history
+PRED:  a a o e oe sa e a e  e ie
+
+--- Sample 110 (CER=0.735) ---
+REF : let us get to the shore and then i'll tell you my history and you'll understand why
+PRED: o a o ee sa sei a e  oe i e e e a
+
+--- Sample 111 (CER=0.759) ---
+REF : shore and then i'll tell you my history and you'll understand why it is that i hate
+PRED: a sa si a o e e a i e e e  i a 
+
+--- Sample 112 (CER=0.756) ---
+REF : i'll tell you my history and you'll understand why it is that i hate cats and dogs
+PRED: a e a  ae i i e e e  e o a  o o
+
+--- Sample 113 (CER=0.735) ---
+REF : history and you'll understand why it is that i hate cats and dogs it
+PRED:  a e e e e e o a i o a o a a
+
+--- Sample 114 (CER=0.710) ---
+REF : and you'll understand why it is that i hate cats and dogs it was high
+PRED: a e a  a e a a o a o a tae a a o
+
+--- Sample 115 (CER=0.667) ---
+REF : why it is that i hate cats and dogs it was high time to go for the
+PRED:  e a a o e oa ae e o o o ae
+
+--- Sample 116 (CER=0.653) ---
+REF : hate cats and dogs it was high time to go for the pool was getting quite
+PRED:  a e oa tae i i o o o a e i oe
+
+--- Sample 117 (CER=0.728) ---
+REF : dogs it was high time to go for the pool was getting quite crowded with birds and
+PRED: ae ae i i o o o a e o a a a e
+
+--- Sample 118 (CER=0.770) ---
+REF : it was high time to go for the pool was getting quite crowded with birds and animals that had fallen
+PRED:  o o o a e a a a a i ai a a
+
+--- Sample 119 (CER=0.772) ---
+REF : high time to go for the pool was getting quite crowded with birds and animals that had fallen into it
+PRED: a e a e a a a  a oe a a a e eie
+
+--- Sample 120 (CER=0.735) ---
+REF : the pool was getting quite crowded with birds and animals that had fallen into it there was a duck and
+PRED: a  a a a e a a i a  a te a a e e se e o
+
+--- Sample 121 (CER=0.695) ---
+REF : crowded with birds and animals that had fallen into it there was a duck and a dodo
+PRED: a a a ae ae a a e e e se se e e o a o o
+
+--- Sample 122 (CER=0.693) ---
+REF : and animals that had fallen into it there was a duck and a dodo a lorry and
+PRED: h ea a e e e se se  te o a o o o a se 
+
+--- Sample 123 (CER=0.662) ---
+REF : fallen into it there was a duck and a dodo a lorry and an eaglet and
+PRED: a ee e sa e o a o o o a se  a a
+
+--- Sample 124 (CER=0.627) ---
+REF : there was a duck and a dodo a lorry and an eaglet and several other curious
+PRED: he e e o a o o o a se a  a a a e e oe
+
+--- Sample 125 (CER=0.662) ---
+REF : and a dodo a lorry and an eaglet and several other curious creatures
+PRED: a o o o a se a  a i sh e e a a a o a
+
+--- Sample 126 (CER=0.697) ---
+REF : dodo a lorry and an eaglet and several other curious creatures alice led the
+PRED:  sa e a a a se e a a a a a a e see
+
+--- Sample 127 (CER=0.724) ---
+REF : and an eaglet and several other curious creatures alice led the way and the whole party
+PRED:  aa a   e a e o aa a se o a tae
+
+--- Sample 128 (CER=0.691) ---
+REF : several other curious creatures alice led the way and the whole party swam to the
+PRED: a  a a e o a a a se e e a te e a e ei
+
+--- Sample 129 (CER=0.726) ---
+REF : curious creatures alice led the way and the whole party swam to the shore
+PRED: a a aa a se o a te a ee ee e ee i
+
+--- Sample 130 (CER=0.645) ---
+REF : alice led the way and the whole party swam to the shore end of
+PRED:  e a ad te a e   e ee ee e ae
+
+--- Sample 131 (CER=0.641) ---
+REF : the way and the whole party swam to the shore end of chapter two
+PRED: ai ta a e e e e  e e e e e a o e e o
+
+--- Sample 132 (CER=0.714) ---
+REF : party swam to the shore end of chapter two
+PRED:  e e ee ee ee a o e ee
+
+--- Sample 133 (CER=0.714) ---
+REF : the shore end of chapter two
+PRED: ae ae o e ea
+
+--- Sample 134 (CER=0.667) ---
+REF : end of chapter two
+PRED: e o e e a
+
+--- Sample 135 (CER=0.744) ---
+REF : sounded quite faint in the distance and yet
+PRED: a ae a ae a  e
+
+--- Sample 136 (CER=0.657) ---
+REF : in the distance and yet what a dear
+PRED: a ie a a a a ie
+
+--- Sample 137 (CER=0.692) ---
+REF : and yet what a dear little puppy it was
+PRED: ae  a i e a e a
+
+--- Sample 138 (CER=0.727) ---
+REF : and yet what a dear little puppy it was said
+PRED:    a i e a e aa e a
+
+--- Sample 139 (CER=0.717) ---
+REF : and yet what a dear little puppy it was said alice as
+PRED: a i i i o e o i o i i
+
+--- Sample 140 (CER=0.706) ---
+REF : yet what a dear little puppy it was said alice as she leaped against
+PRED:   o eed o a o a i i a e  i
+
+--- Sample 141 (CER=0.701) ---
+REF : little puppy it was said alice as she leaped against a buttercup to
+PRED: a  o a o ta a ii a e e ee te e ei
+
+--- Sample 142 (CER=0.676) ---
+REF : was said alice as she leaped against a buttercup to rest herself and
+PRED: a  ta i ii a e  ee toe e ta i a a
+
+--- Sample 143 (CER=0.718) ---
+REF : said alice as she leaped against a buttercup to rest herself and found herself
+PRED: he a e  ee te e o a a  a a e ae
+
+--- Sample 144 (CER=0.711) ---
+REF : as she leaped against a buttercup to rest herself and found herself with one of the leaves
+PRED: a i i e to e e a a a  a a e a o e a  e
+
+--- Sample 145 (CER=0.724) ---
+REF : against a buttercup to rest herself and found herself with one of the leaves
+PRED: o e  a a a a e a o e a te ee e e
+
+--- Sample 146 (CER=0.754) ---
+REF : to rest herself and found herself with one of the leaves i should
+PRED: a e a e a ae a a e e o e
+
+--- Sample 147 (CER=0.722) ---
+REF : and found herself with one of the leaves i should have liked teaching it
+PRED:  o ae a to oo ee o a te  o ee
+
+--- Sample 148 (CER=0.772) ---
+REF : herself with one of the leaves i should have liked teaching it tricks very much
+PRED: a a tao e o a a a e o o  o e
+
+--- Sample 149 (CER=0.758) ---
+REF : leaves i should have liked teaching it tricks very much if i'd
+PRED: ae a e e e o o e e ae
+
+--- Sample 150 (CER=0.764) ---
+REF : i should have liked teaching it tricks very much if i'd
+PRED:  a   o o o to ae ta a i
+
+--- Sample 151 (CER=0.744) ---
+REF : should have liked teaching it tricks very much if i'd only been the right size
+PRED: a e i  e o o o o e ta i ai i  i oe
+
+--- Sample 152 (CER=0.733) ---
+REF : it tricks very much if i'd only been the right size to do it
+PRED: a a o ae ta i ai i  i a e e a ai
+
+--- Sample 153 (CER=0.698) ---
+REF : much if i'd only been the right size to do it oh dear
+PRED: ae ta i a i i o ee a oe ta i a
+
+--- Sample 154 (CER=0.689) ---
+REF : i'd only been the right size to do it oh dear
+PRED: a i a a a oe e ae ie oe a a
+
+--- Sample 155 (CER=0.727) ---
+REF : i'd only been the right size to do it oh dear i'd nearly forgotten
+PRED:  o oe e ae e a o a a a aa
+
+--- Sample 156 (CER=0.741) ---
+REF : size to do it oh dear i'd nearly forgotten that i'd got to
+PRED: a e a i  a  a ea a e
+
+--- Sample 157 (CER=0.810) ---
+REF : oh dear i'd nearly forgotten that i'd got to grow up again
+PRED:   a a a a a e i
+
+--- Sample 158 (CER=0.797) ---
+REF : dear i'd nearly forgotten that i'd got to grow up again let
+PRED:  a a a a a a e ae 
+
+--- Sample 159 (CER=0.800) ---
+REF : i'd nearly forgotten that i'd got to grow up again let me see how
+PRED:  o a a e ae ta o i a
+
+--- Sample 160 (CER=0.806) ---
+REF : forgotten that i'd got to grow up again let me see how is this
+PRED: a  a a e tae a  a a
+
+--- Sample 161 (CER=0.736) ---
+REF : to grow up again let me see how is this to be managed
+PRED: ee ta a a e e e e oe
+
+--- Sample 162 (CER=0.763) ---
+REF : let me see how is this to be managed i
+PRED:   e e e eee a
+
+--- Sample 163 (CER=0.719) ---
+REF : let me see how is this to be managed i suppose i ought to
+PRED: aa a e e e a e aa i a e e
+
+--- Sample 164 (CER=0.696) ---
+REF : how is this to be managed i suppose i ought to eat or drink something
+PRED:  a e e e e e i a a a a e te o ei
+
+--- Sample 165 (CER=0.652) ---
+REF : to be managed i suppose i ought to eat or drink something or other
+PRED: a e a e i i i a a e te a i o o  e
+
+--- Sample 166 (CER=0.800) ---
+REF : i suppose i ought to eat or drink something or other but the great question
+PRED: i a e e a  a tae a 
+
+--- Sample 167 (CER=0.756) ---
+REF : i suppose i ought to eat or drink something or other but the great question is
+PRED:  a e a i o tae i ae a e a
+
+--- Sample 168 (CER=0.754) ---
+REF : to eat or drink something or other but the great question is what
+PRED: a ie o tae i a a a  oe
+
+--- Sample 169 (CER=0.755) ---
+REF : something or other but the great question is what
+PRED: a ae i  a e a o a
+
+--- Sample 170 (CER=0.765) ---
+REF : but the great question is what the
+PRED:   a  o a 
+
+--- Sample 171 (CER=0.771) ---
+REF : question is what the great question
+PRED:  ae o a e a
+
+--- Sample 172 (CER=0.811) ---
+REF : what the great question certainly was
+PRED:  e o e  e
+
+--- Sample 173 (CER=0.811) ---
+REF : the great question certainly was what
+PRED: e o o o ee e
+
+--- Sample 174 (CER=0.730) ---
+REF : the great question certainly was what
+PRED:  a o o ee a a
+
+--- Sample 175 (CER=0.757) ---
+REF : the great question certainly was what
+PRED:  o o e o o e o  a
+
+--- Sample 176 (CER=0.780) ---
+REF : question certainly was what alice looked all round
+PRED: a  o ee e  a  ae e
+
+--- Sample 177 (CER=0.737) ---
+REF : was what alice looked all round her at
+PRED: ae o a  ae ta aai
+
+--- Sample 178 (CER=0.720) ---
+REF : what alice looked all round her at the flowers and
+PRED:  a  ae a o a ae a
+
+--- Sample 179 (CER=0.754) ---
+REF : alice looked all round her at the flowers and the blades of grass
+PRED:  ae a oe a a a a aee
+
+--- Sample 180 (CER=0.710) ---
+REF : alice looked all round her at the flowers and the blades of grass but
+PRED: aed a oe a a a a a ae e i
+
+--- Sample 181 (CER=0.765) ---
+REF : round her at the flowers and the blades of grass but she did not see
+PRED: ae a a a a ae ta e  
+
+--- Sample 182 (CER=0.823) ---
+REF : at the flowers and the blades of grass but she did not see anything that looked
+PRED:  a a ae a e  ei
+
+--- Sample 183 (CER=0.788) ---
+REF : and the blades of grass but she did not see anything that looked like the right thing
+PRED: a e ta i   e o o o i a
+
+--- Sample 184 (CER=0.829) ---
+REF : grass but she did not see anything that looked like the right thing to
+PRED: a   a i i a a i
+
+--- Sample 185 (CER=0.747) ---
+REF : but she did not see anything that looked like the right thing to eat or drink under
+PRED:   i o o a i a ae i i o e
+
+--- Sample 186 (CER=0.765) ---
+REF : see anything that looked like the right thing to eat or drink under the circumstances
+PRED: a i iid a ae i i ee e e e e
+
+--- Sample 187 (CER=0.746) ---
+REF : looked like the right thing to eat or drink under the circumstances
+PRED: aa ae a e i e e e e  a taee
+
+--- Sample 188 (CER=0.686) ---
+REF : thing to eat or drink under the circumstances there
+PRED: ae i e e o e e ta te ee
+
+--- Sample 189 (CER=0.725) ---
+REF : to eat or drink under the circumstances there was a
+PRED: a e ee e  tae t e ee   e toe
+
+--- Sample 190 (CER=0.720) ---
+REF : under the circumstances there was a large mushroom
+PRED: a a ta  e   e ta e e o 
+
+--- Sample 191 (CER=0.744) ---
+REF : there was a large mushroom growing near her
+PRED:  aee ta oe o ta ta
+
+--- Sample 192 (CER=0.714) ---
+REF : there was a large mushroom growing near her about
+PRED:  a ee o o i a a a
+
+--- Sample 193 (CER=0.708) ---
+REF : there was a large mushroom growing near her about the same height
+PRED:  a e e o o i a a a a oe
+
+--- Sample 194 (CER=0.682) ---
+REF : a large mushroom growing near her about the same height as herself
+PRED: a a o i a a a ae o e e e a
+
+--- Sample 195 (CER=0.790) ---
+REF : mushroom growing near her about the same height as herself and
+PRED: a a a a a oe a e
+
+--- Sample 196 (CER=0.767) ---
+REF : her about the same height as herself and when she had looked
+PRED:  a ae e ee te o
+
+--- Sample 197 (CER=0.769) ---
+REF : about the same height as herself and when she had looked under it
+PRED:  a e  e so ee tae a
+
+--- Sample 198 (CER=0.735) ---
+REF : height as herself and when she had looked under it and on both sides
+PRED: ae e se ae ta e i i ae
+
+--- Sample 199 (CER=0.786) ---
+REF : and when she had looked under it and on both sides of it
+PRED:  o a ta e ai a ae
+
+--- Sample 200 (CER=0.700) ---
+REF : and when she had looked under it and on both sides of it and behind it
+PRED:  e ee a e i i a a ee ee o e
+
+--- Sample 201 (CER=0.732) ---
+REF : looked under it and on both sides of it and behind it it
+PRED: a e e a a e  a a e a
+
+--- Sample 202 (CER=0.696) ---
+REF : and on both sides of it and behind it it occurred to her
+PRED:  a a ee i e a e  ta e e e e 
+
+--- Sample 203 (CER=0.698) ---
+REF : sides of it and behind it it occurred to her that she
+PRED:  a te ti e e e e e oe a ae
+
+--- Sample 204 (CER=0.672) ---
+REF : and behind it it occurred to her that she might as well look and
+PRED: ' a e o i e e e e e o e a ta ie o e oe
+
+--- Sample 205 (CER=0.697) ---
+REF : it it occurred to her that she might as well look and see what was on top of
+PRED:  i e e e e o e a a  e o e o  a e
+
+--- Sample 206 (CER=0.697) ---
+REF : it occurred to her that she might as well look and see what was on top of it
+PRED:  e e oe a a ee o e e o e o e e e
+
+--- Sample 207 (CER=0.754) ---
+REF : her that she might as well look and see what was on top of it she
+PRED: a a e   e oe o e ee 
+
+--- Sample 208 (CER=0.788) ---
+REF : she might as well look and see what was on top of it she stretched
+PRED: ae ee o a e a ai
+
+--- Sample 209 (CER=0.765) ---
+REF : and see what was on top of it she stretched herself
+PRED:  a e a a  e wo o o
+
+--- Sample 210 (CER=0.818) ---
+REF : of it she stretched herself up on
+PRED:   wa o a  a
+
+--- Sample 211 (CER=0.769) ---
+REF : she stretched herself up on tip toe and
+PRED:   a o o i a a ta
+
+--- Sample 212 (CER=0.769) ---
+REF : she stretched herself up on tip toe and
+PRED:  a o o e a a tae 
+
+--- Sample 213 (CER=0.723) ---
+REF : stretched herself up on tip toe and peeped over
+PRED: a a ee ae a a e e oe
+
+--- Sample 214 (CER=0.742) ---
+REF : herself up on tip toe and peeped over the edge of the mushroom
+PRED: a a a ta e e e  ta i i tii
+
+--- Sample 215 (CER=0.765) ---
+REF : on tip toe and peeped over the edge of the mushroom
+PRED: e a i o a i a a e 
+
+--- Sample 216 (CER=0.792) ---
+REF : and peeped over the edge of the mushroom and her eyes
+PRED:  e a i e  e  ta
+
+--- Sample 217 (CER=0.768) ---
+REF : and peeped over the edge of the mushroom and her eyes immediately met
+PRED: a a a  a a i e a i o ee o
+
+--- Sample 218 (CER=0.734) ---
+REF : over the edge of the mushroom and her eyes immediately met those
+PRED: h a a i e  a o ee o e o ee
+
+--- Sample 219 (CER=0.708) ---
+REF : mushroom and her eyes immediately met those of a
+PRED: o a o e e o  o e oae
+
+--- Sample 220 (CER=0.737) ---
+REF : and her eyes immediately met those of a large caterpillar
+PRED:  a e o a o  oo ooe a e e ee
+
+--- Sample 221 (CER=0.722) ---
+REF : eyes immediately met those of a large caterpillar that
+PRED: a so e  o o a  a a a oe a a i
+
+--- Sample 222 (CER=0.714) ---
+REF : met those of a large caterpillar that was sitting
+PRED:  oa aaa a eae i a ae
+
+--- Sample 223 (CER=0.770) ---
+REF : those of a large caterpillar that was sitting on the top with
+PRED: a aaoe i i  o o ta
+
+--- Sample 224 (CER=0.787) ---
+REF : a large caterpillar that was sitting on the top with its arms
+PRED: ai a a o o a a
+
+--- Sample 225 (CER=0.783) ---
+REF : caterpillar that was sitting on the top with its arms folded
+PRED: e a o o a a ta  o i
+
+--- Sample 226 (CER=0.786) ---
+REF : that was sitting on the top with its arms folded quietly
+PRED:  o oe a ta  o e a
+
+--- Sample 227 (CER=0.782) ---
+REF : sitting on the top with its arms folded quietly smoking
+PRED: a e  a ta e e e a a
+
+--- Sample 228 (CER=0.721) ---
+REF : with its arms folded quietly smoking a long
+PRED:  a e e e a e so o e oe
+
+--- Sample 229 (CER=0.732) ---
+REF : arms folded quietly smoking a long hooker
+PRED: a ee a e o o e e o ae to
+
+--- Sample 230 (CER=0.700) ---
+REF : folded quietly smoking a long hooker and
+PRED:  o o e o o ee oe a
+
+--- Sample 231 (CER=0.708) ---
+REF : quietly smoking a long hooker and taking not the
+PRED:  o o e o o o e o a o e o
+
+--- Sample 232 (CER=0.673) ---
+REF : smoking a long hooker and taking not the smallest
+PRED: e o o o e oe ai ae a a e ee
+
+--- Sample 233 (CER=0.679) ---
+REF : long hooker and taking not the smallest notice of her
+PRED: oe a a o e  ad e e e a ta
+
+--- Sample 234 (CER=0.667) ---
+REF : hooker and taking not the smallest notice of her or
+PRED:  o e a a e ee a oe a ae
+
+--- Sample 235 (CER=0.721) ---
+REF : and taking not the smallest notice of her or of anything else
+PRED: o e a ad a e e a oe ae a a a a
+
+--- Sample 236 (CER=0.717) ---
+REF : the smallest notice of her or of anything else
+PRED:  a e  a o oe ae a a a a a a
+
+--- Sample 237 (CER=0.714) ---
+REF : smallest notice of her or of anything else
+PRED: a a oe ae a ae a e 
+
+--- Sample 238 (CER=0.783) ---
+REF : her or of anything else
+PRED: a a ae a a a
+
+--- Sample 239 (CER=0.739) ---
+REF : or of anything else end
+PRED: a a e a e
+
+--- Sample 240 (CER=0.800) ---
+REF : else end of chapter 
+PRED: a a a a a
+
+--- Sample 241 (CER=0.833) ---
+REF : end of chapter  recorded
+PRED:  a o aa
+
+--- Sample 242 (CER=0.778) ---
+REF : end of chapter  recorded on
+PRED:  a o e a  ta
+
+--- Sample 243 (CER=0.744) ---
+REF : end of chapter  recorded on tuesday the
+PRED:  a o e a e ta i e oa
+
+--- Sample 244 (CER=0.714) ---
+REF : end of chapter  recorded on tuesday the th
+PRED: o o e ae a  e ta i e o   e a a
+
+--- Sample 245 (CER=0.667) ---
+REF :  recorded on tuesday the th of december in
+PRED: a ta e e o e e a oi eee
+
+--- Sample 246 (CER=0.680) ---
+REF : recorded on tuesday the th of december in new york
+PRED:  a i e o e  aad ae oe oe e a e 
+
+--- Sample 247 (CER=0.680) ---
+REF : on tuesday the th of december in new york new york
+PRED: o o  ad ae oe o e ad se e i ae
+
+--- Sample 248 (CER=0.692) ---
+REF : the th of december in new york new york
+PRED: a a o o ee a e e ad a 
+
+--- Sample 249 (CER=0.714) ---
+REF : th of december in new york new york
+PRED:  oe e a e e ad a
+
+--- Sample 250 (CER=0.800) ---
+REF : in new york new york
+PRED:  a a a 
+
+--- Sample 251 (CER=0.846) ---
+REF : york new york
+PRED:  a i
+
+--- Sample 252 (CER=0.750) ---
+REF : after a while she remembered that she still held the pieces of mushroom in her hands
+PRED: 'e o ta ad a e e  a a a i i e   id a e
+
+--- Sample 253 (CER=0.711) ---
+REF : a while she remembered that she still held the pieces of mushroom in her hands and she set
+PRED: a  a a e e e a a a o    i i e en 'i  e
+
+--- Sample 254 (CER=0.772) ---
+REF : remembered that she still held the pieces of mushroom in her hands and she set to work very carefully
+PRED: a i a i i i i    i e e en i i a taad te
+
+--- Sample 255 (CER=0.765) ---
+REF : still held the pieces of mushroom in her hands and she set to work very carefully
+PRED: a i  i e e e 'i i a taid te e i
+
+--- Sample 256 (CER=0.769) ---
+REF : mushroom in her hands and she set to work very carefully nibbling first at one
+PRED: i e ee' 'i a taad te ee sa e e tee
+
+--- Sample 257 (CER=0.756) ---
+REF : and she set to work very carefully nibbling first at one and then at the other
+PRED:  a saad te ee a e e ta a  e  
+
+--- Sample 258 (CER=0.739) ---
+REF : set to work very carefully nibbling first at one and then at the other and growing sometimes
+PRED: a aid te e e a e e ta e i ae ae ad te e
+
+--- Sample 259 (CER=0.709) ---
+REF : carefully nibbling first at one and then at the other and growing sometimes taller and
+PRED: e ad ti e ta e  e sae sad te e a e a id
+
+--- Sample 260 (CER=0.713) ---
+REF : nibbling first at one and then at the other and growing sometimes taller and sometimes shorter
+PRED: ae a e a i e in a e ad e e e e a i he e e ad
+
+--- Sample 261 (CER=0.698) ---
+REF : and then at the other and growing sometimes taller and sometimes shorter until she had succeeded
+PRED: i e sae ad te e a i a i the h e hi thi i e
+
+--- Sample 262 (CER=0.690) ---
+REF : other and growing sometimes taller and sometimes shorter until she had succeeded in bringing herself
+PRED: a ad a e e e a i he he e hi he ti e e hi hin e i
+
+--- Sample 263 (CER=0.691) ---
+REF : sometimes taller and sometimes shorter until she had succeeded in bringing herself down to her
+PRED: a i  i he i e had hi th  e i in i a en en e en 
+
+--- Sample 264 (CER=0.678) ---
+REF : and sometimes shorter until she had succeeded in bringing herself down to her usual height
+PRED: a e e sad i te e e te i e ta en en e a i ti i e ei
+
+--- Sample 265 (CER=0.735) ---
+REF : until she had succeeded in bringing herself down to her usual height
+PRED: ' i ta i ie t en en e a i i ae eee '
+
+--- Sample 266 (CER=0.721) ---
+REF : succeeded in bringing herself down to her usual height it was
+PRED: a ee t en en e a a i ae eee 'a
+
+--- Sample 267 (CER=0.789) ---
+REF : herself down to her usual height it was so long since she
+PRED: ae ae i ae a 'e o aa
+
+--- Sample 268 (CER=0.734) ---
+REF : her usual height it was so long since she had been anything near
+PRED: e ee 'e wo e sa a a a a i
+
+--- Sample 269 (CER=0.726) ---
+REF : it was so long since she had been anything near the right size
+PRED: ' oe sa a e o  e ei a ai
+
+--- Sample 270 (CER=0.753) ---
+REF : it was so long since she had been anything near the right size that it felt quite
+PRED: ' o e a a e o  o e a a  i ae
+
+--- Sample 271 (CER=0.684) ---
+REF : was so long since she had been anything near the right size that it felt quite strange at first
+PRED: a ae a  o o e o on an a a  o id a i a i e e i
+
+--- Sample 272 (CER=0.708) ---
+REF : she had been anything near the right size that it felt quite strange at first but she got
+PRED: a  e e e i   id a i a e e o e e 'e e
+
+--- Sample 273 (CER=0.705) ---
+REF : near the right size that it felt quite strange at first but she got used to it in a few minutes
+PRED: a   i  id a i a e e e to i en 'e e e e e o o
+
+--- Sample 274 (CER=0.684) ---
+REF : size that it felt quite strange at first but she got used to it in a few minutes and began talking
+PRED: a e a a a ie e o i en 'e e e e e o en e en i t
+
+--- Sample 275 (CER=0.660) ---
+REF : quite strange at first but she got used to it in a few minutes and began talking to herself as
+PRED: a e e a i e 'e e  e e o e e en in a e to e et
+
+--- Sample 276 (CER=0.675) ---
+REF : but she got used to it in a few minutes and began talking to herself as usual
+PRED:  a toe e o e e i sid a e a e e ti a e e e
+
+--- Sample 277 (CER=0.680) ---
+REF : got used to it in a few minutes and began talking to herself as usual 'come
+PRED: o o e ee id a e e e e e ta eee e  
+
+--- Sample 278 (CER=0.708) ---
+REF : minutes and began talking to herself as usual 'come there's half my plan
+PRED: aid a e a e e e te ee ea a tae
+
+--- Sample 279 (CER=0.746) ---
+REF : talking to herself as usual 'come there's half my plan done now
+PRED: a aee ta e a a sa a  i e
+
+--- Sample 280 (CER=0.754) ---
+REF : as usual 'come there's half my plan done now how puzzling all
+PRED: a ee  a sa a ee si ti e
+
+--- Sample 281 (CER=0.743) ---
+REF : 'come there's half my plan done now how puzzling all these changes are
+PRED: ' a sa e e ee si ti e a a a i
+
+--- Sample 282 (CER=0.741) ---
+REF : 'come there's half my plan done now how puzzling all these changes are i'm never sure
+PRED: o a e e o e e si i e e o e eed 'i a o
+
+--- Sample 283 (CER=0.730) ---
+REF : plan done now how puzzling all these changes are i'm never sure what i'm going to be from
+PRED: e e e se 'i e e o e e en si i o   a ae
+
+--- Sample 284 (CER=0.753) ---
+REF : how puzzling all these changes are i'm never sure what i'm going to be from one minute to another
+PRED: ' a e o e een si  o   i sa i a i  a
+
+--- Sample 285 (CER=0.750) ---
+REF : all these changes are i'm never sure what i'm going to be from one minute to another however
+PRED: a e eend si e    i a i a i i ai si 
+
+--- Sample 286 (CER=0.736) ---
+REF : i'm never sure what i'm going to be from one minute to another however i've got back to
+PRED: ' e e  a a i a ii aid ae tee tae
+
+--- Sample 287 (CER=0.725) ---
+REF : sure what i'm going to be from one minute to another however i've got back to my right size
+PRED: ai a e e i i ae a e se tae e i ae
+
+--- Sample 288 (CER=0.747) ---
+REF : from one minute to another however i've got back to my right size the next thing is
+PRED: o ee aed ae e ta e ae aad a o e
+
+--- Sample 289 (CER=0.728) ---
+REF : another however i've got back to my right size the next thing is to get into that
+PRED: a 'ae a ta e i aend a e e e ad te
+
+--- Sample 290 (CER=0.689) ---
+REF : however i've got back to my right size the next thing is to get into that beautiful garden
+PRED: a i a e a a i a en ind an o e ee ha e to i e e e i
+
+--- Sample 291 (CER=0.699) ---
+REF : to my right size the next thing is to get into that beautiful garden how is that to
+PRED: a e e  and a e e e ha te e i e ee i a e e o
+
+--- Sample 292 (CER=0.655) ---
+REF : the next thing is to get into that beautiful garden how is that to be done i wonder'
+PRED: ' o e ee ha e  i e he e ti ha he e  e e i oe
+
+--- Sample 293 (CER=0.638) ---
+REF : is to get into that beautiful garden how is that to be done i wonder'
+PRED: a a te te i e he e te ha e e o i e o o in i i i 
+
+--- Sample 294 (CER=0.704) ---
+REF : that beautiful garden how is that to be done i wonder' as she said this
+PRED: h e e e a e e  e e o i i i i i  e e oe
+
+--- Sample 295 (CER=0.687) ---
+REF : how is that to be done i wonder' as she said this she came suddenly
+PRED:  to  e e o oi ii i  'e e o e a i sa
+
+--- Sample 296 (CER=0.743) ---
+REF : to be done i wonder' as she said this she came suddenly upon an open place
+PRED: a   ee a   e ue a a ta to i a ei
+
+--- Sample 297 (CER=0.687) ---
+REF : as she said this she came suddenly upon an open place with a little
+PRED:    e ue a sa ta ta i a i oe oi a e
+
+--- Sample 298 (CER=0.711) ---
+REF : as she said this she came suddenly upon an open place with a little house in it about four
+PRED: 'e e e e ta the e to i e i o o i ad a  e a  e
+
+--- Sample 299 (CER=0.682) ---
+REF : this she came suddenly upon an open place with a little house in it about four feet high
+PRED: a i ta  to i e  e o i a a i e i i h e e ai
+
+--- Sample 300 (CER=0.716) ---
+REF : suddenly upon an open place with a little house in it about four feet high
+PRED:  a e e ee ad e  e ee a a e ee e e
+
+--- Sample 301 (CER=0.716) ---
+REF : place with a little house in it about four feet high 'whoever lives
+PRED: aed a e ee a  e ee ee  e o
+
+--- Sample 302 (CER=0.733) ---
+REF : little house in it about four feet high 'whoever lives there' thought alice
+PRED: a ee i a e tee ee  a e a ai a
+
+--- Sample 303 (CER=0.754) ---
+REF : four feet high 'whoever lives there' thought alice it'll never do
+PRED: a e ee ee a a e a a a i a ae
+
+--- Sample 304 (CER=0.795) ---
+REF : 'whoever lives there' thought alice it'll never do to come upon them this
+PRED: ' e a a ta a a e  a a a
+
+--- Sample 305 (CER=0.744) ---
+REF : 'whoever lives there' thought alice it'll never do to come upon them this size
+PRED: ' e o a a a ad e e e e a a i i a
+
+--- Sample 306 (CER=0.725) ---
+REF : lives there' thought alice it'll never do to come upon them this size why i should frighten
+PRED: a e a a i i an e o i i i in a in  and a e i a
+
+--- Sample 307 (CER=0.723) ---
+REF : alice it'll never do to come upon them this size why i should frighten them out of their wits'
+PRED:  a e e e e i in a i a ad i e i a i a in to e
+
+--- Sample 308 (CER=0.658) ---
+REF : do to come upon them this size why i should frighten them out of their wits' so
+PRED: a ta i in a in a and i e i a i e in te i i he i
+
+--- Sample 309 (CER=0.714) ---
+REF : this size why i should frighten them out of their wits' so she began nibbling
+PRED:  e a ad i e a  ei te a id a e 'e 'e e e
+
+--- Sample 310 (CER=0.714) ---
+REF : why i should frighten them out of their wits' so she began nibbling at the right hand a bit
+PRED: ' e a i a i te a id i e 'e e e e  a a e
+
+--- Sample 311 (CER=0.714) ---
+REF : frighten them out of their wits' so she began nibbling at the right hand a bit again
+PRED:  i te a id a e 'e 'e e a a a a  iei e ad
+
+--- Sample 312 (CER=0.701) ---
+REF : so she began nibbling at the right hand a bit again and did not venture to go
+PRED:  a e e so e  a a e i i sad e e a ie
+
+--- Sample 313 (CER=0.691) ---
+REF : so she began nibbling at the right hand a bit again and did not venture to go near the house till
+PRED: ' o e a a a e i i i sad e e e toe o in e ad
+
+--- Sample 314 (CER=0.699) ---
+REF : nibbling at the right hand a bit again and did not venture to go near the house till she had brought herself down
+PRED: a   a e ti e i i sa he e e ti e hen en hen an and he e he e
+
+--- Sample 315 (CER=0.687) ---
+REF : bit again and did not venture to go near the house till she had brought herself down to nine inches
+PRED: a i e sad e e e tee  en en an and he e he he e e in ai
+
+--- Sample 316 (CER=0.670) ---
+REF : and did not venture to go near the house till she had brought herself down to nine inches high
+PRED: a e a tie en en en an and a e he he e e i o ind a i i i
+
+--- Sample 317 (CER=0.746) ---
+REF : go near the house till she had brought herself down to nine inches high
+PRED: a e a sad a e ee a i ai a  ee
+
+--- Sample 318 (CER=0.719) ---
+REF : till she had brought herself down to nine inches high end
+PRED: '  e ee a i o i a ie i  a
+
+--- Sample 319 (CER=0.727) ---
+REF : down to nine inches high end of chapter five
+PRED:  e o  i ie ea a a
+
+--- Sample 320 (CER=0.742) ---
+REF : inches high end of chapter five
+PRED: a  ee i a a  ai
+
+--- Sample 321 (CER=0.821) ---
+REF : end of chapter five recorded
+PRED: a  e a  
+
+--- Sample 322 (CER=0.789) ---
+REF : end of chapter five recorded december 
+PRED: ' e a e i a ta
+
+--- Sample 323 (CER=0.789) ---
+REF : end of chapter five recorded december 
+PRED:  t ee i  a ta tae sa e
+
+--- Sample 324 (CER=0.741) ---
+REF : five recorded december   in
+PRED:  e i a a ae sa e s a
+
+--- Sample 325 (CER=0.800) ---
+REF : recorded december   in longmont colorado
+PRED:  a ta ae i e e  sad sa ae
+
+--- Sample 326 (CER=0.775) ---
+REF : recorded december   in longmont colorado
+PRED: e te ee id te  ee sad a ad ta  a
+
+--- Sample 327 (CER=1.000) ---
+REF :   in longmont colorado
+PRED: ae a e e  sad a ad sa sae 
+
+--- Sample 328 (CER=1.000) ---
+REF :  in longmont colorado
+PRED: e  'ad sa ad ta  ae i  
+
+--- Sample 329 (CER=0.900) ---
+REF : in longmont colorado
+PRED: a ad ta si  
+
+--- Sample 330 (CER=0.875) ---
+REF : colorado
+PRED: ai a 
+
+--- Sample 331 (CER=0.667) ---
+REF : the march hare was said to live 'i've seen hatters before' she said to herself 'the march hare will
+PRED: a e a ti i  i 'i 'e he  e had ti a i  e 'e o e
+
+--- Sample 332 (CER=0.700) ---
+REF : to live 'i've seen hatters before' she said to herself 'the march hare will be much more interesting
+PRED: 'a e e  e' ha te a e e en 'en o ten ten te e e '
+
+--- Sample 333 (CER=0.705) ---
+REF : 'i've seen hatters before' she said to herself 'the march hare will be much more interesting 'and perhaps
+PRED: h e e e ha thi a i e hen 'hen o  hen hen e e te 'he 'he  i 
+
+--- Sample 334 (CER=0.686) ---
+REF : she said to herself 'the march hare will be much more interesting 'and perhaps as this
+PRED: ha e i e 'he 'e o to to to e a i i a i e he i a e
+
+--- Sample 335 (CER=0.699) ---
+REF : 'the march hare will be much more interesting 'and perhaps as this is may
+PRED: ' to  h o e  i 'i o i e a et 'a a  oea
+
+--- Sample 336 (CER=0.738) ---
+REF : will be much more interesting 'and perhaps as this is may it won't be raving mad
+PRED: ae  'i 'i  i  a i 'i a a ai ad te a
+
+--- Sample 337 (CER=0.681) ---
+REF : interesting 'and perhaps as this is may it won't be raving mad 'at least
+PRED: a i i e ai 'i a i a' ad te a a a e
+
+--- Sample 338 (CER=0.703) ---
+REF : as this is may it won't be raving mad 'at least not so mad as it
+PRED: ' a a  ' ad te a  si a  a e oi
+
+--- Sample 339 (CER=0.680) ---
+REF : this is may it won't be raving mad 'at least not so mad as it was in march'
+PRED: ' ' ad te a e shi a i a e o i i i i i
+
+--- Sample 340 (CER=0.679) ---
+REF : it won't be raving mad 'at least not so mad as it was in march' 'as she said this
+PRED: ' a a ad a a e ai i i i e 'a  a
+
+--- Sample 341 (CER=0.667) ---
+REF : mad 'at least not so mad as it was in march' 'as she said this she looked up 'and
+PRED: a ad a  a e o a a ii e 'a 'i a o e ae
+
+--- Sample 342 (CER=0.725) ---
+REF : not so mad as it was in march' 'as she said this she looked up 'and there was the cat again
+PRED: ' e o i si i i i 'i  a o  ta a i e 
+
+--- Sample 343 (CER=0.718) ---
+REF : it was in march' 'as she said this she looked up 'and there was the cat again 'sitting on the branch of
+PRED:  i i e 'a 'i a o  ti ai ti i i 'i i e i
+
+--- Sample 344 (CER=0.752) ---
+REF : march' 'as she said this she looked up 'and there was the cat again 'sitting on the branch of a tree'
+PRED: ' o o  ti a thi ii ti i i e i a  i
+
+--- Sample 345 (CER=0.767) ---
+REF : this she looked up 'and there was the cat again 'sitting on the branch of a tree' 'did
+PRED: a i a ti e i ti i e i ae ee
+
+--- Sample 346 (CER=0.727) ---
+REF : there was the cat again 'sitting on the branch of a tree' 'did you say pig or
+PRED: h i  i ta i e i ae 'i  o o
+
+--- Sample 347 (CER=0.724) ---
+REF : 'sitting on the branch of a tree' 'did you say pig or fig'
+PRED: 'a a e i a i  o a a a e
+
+--- Sample 348 (CER=0.708) ---
+REF : of a tree' 'did you say pig or fig' said the cat
+PRED: a 'o o  a ta ta si a
+
+--- Sample 349 (CER=0.660) ---
+REF : 'did you say pig or fig' said the cat 'i said pig'
+PRED: ' o a a ta ta i a si 
+
+--- Sample 350 (CER=0.695) ---
+REF : you say pig or fig' said the cat 'i said pig' replied alice
+PRED:  a a ae ta' i a a si ae a ta 
+
+--- Sample 351 (CER=0.625) ---
+REF : or fig' said the cat 'i said pig' replied alice 'and i wish that
+PRED: a e aid i a i 'i te a th a i 'i a
+
+--- Sample 352 (CER=0.708) ---
+REF : fig' said the cat 'i said pig' replied alice 'and i wish that you wouldn't keep appearing
+PRED: 'i a i 'i te  a a i i 'a o i a i oi
+
+--- Sample 353 (CER=0.721) ---
+REF : 'i said pig' replied alice 'and i wish that you wouldn't keep appearing 'and vanishing
+PRED: ' ta ta ta i e ' o i o i ta i a i a i
+
+--- Sample 354 (CER=0.734) ---
+REF : pig' replied alice 'and i wish that you wouldn't keep appearing 'and vanishing so suddenly you
+PRED: 'h a e i 'a o  a e ta i a i o i sad te ta i i
+
+--- Sample 355 (CER=0.771) ---
+REF : alice 'and i wish that you wouldn't keep appearing 'and vanishing so suddenly you make one quite
+PRED: 'i  ae t ai ai ti a i ie 'a e a
+
+--- Sample 356 (CER=0.776) ---
+REF : that you wouldn't keep appearing 'and vanishing so suddenly you make one quite giddy'
+PRED:   ai a sa ta i ie 'a e a ti a ai
+
+--- Sample 357 (CER=0.730) ---
+REF : appearing 'and vanishing so suddenly you make one quite giddy' 'all right'
+PRED: a i si h e e 'a e ti i ae a
+
+--- Sample 358 (CER=0.694) ---
+REF : so suddenly you make one quite giddy' 'all right' said the cat
+PRED: 'a ie 'a e te te ee  'i 'i a i a ti
+
+--- Sample 359 (CER=0.714) ---
+REF : you make one quite giddy' 'all right' said the cat 'and this time it vanished
+PRED: ' a i i ie  ' a a ti i ta a
+
+--- Sample 360 (CER=0.750) ---
+REF : quite giddy' 'all right' said the cat 'and this time it vanished quite slowly 'beginning
+PRED: ae  ' i a' a i i a i i ad ai
+
+--- Sample 361 (CER=0.791) ---
+REF : 'all right' said the cat 'and this time it vanished quite slowly 'beginning with the end of
+PRED: ' a i ai a i ii ti a a i
+
+--- Sample 362 (CER=0.748) ---
+REF : right' said the cat 'and this time it vanished quite slowly 'beginning with the end of the tale 'and ending
+PRED: a' a i i a i i i ti a o i a i 'i i
+
+--- Sample 363 (CER=0.769) ---
+REF : cat 'and this time it vanished quite slowly 'beginning with the end of the tale 'and ending with the grin 'which remained
+PRED: a   i i ti ai o i o i ad a a i a i
+
+--- Sample 364 (CER=0.754) ---
+REF : vanished quite slowly 'beginning with the end of the tale 'and ending with the grin 'which remained sometime after
+PRED: a ta ai o i o i  ha o  i a a a i ti  ii
+
+--- Sample 365 (CER=0.726) ---
+REF : 'beginning with the end of the tale 'and ending with the grin 'which remained sometime after the rest of it had gone'
+PRED: 'h i o o i  had o a i ta a ha i to e o i i i i i
+
+--- Sample 366 (CER=0.687) ---
+REF : of the tale 'and ending with the grin 'which remained sometime after the rest of it had gone' 'well
+PRED: 'i ta e i ta i a i ti e o i ti i i i i 'i ' e
+
+--- Sample 367 (CER=0.710) ---
+REF : ending with the grin 'which remained sometime after the rest of it had gone' 'well i've often
+PRED: sai ta a a i ta i to i i i i i i 'e ' 'a 'a ee
+
+--- Sample 368 (CER=0.733) ---
+REF : remained sometime after the rest of it had gone' 'well i've often seen a cat without a
+PRED: ha i o i i i i i i 'i '  i a ta  a ii
+
+--- Sample 369 (CER=0.787) ---
+REF : after the rest of it had gone' 'well i've often seen a cat without a grin' 'thought alice
+PRED: ai i i ' ae a a e i 'ae 'i
+
+--- Sample 370 (CER=0.773) ---
+REF : gone' 'well i've often seen a cat without a grin' 'thought alice but a grin
+PRED: ' e a a i  ta i  a
+
+--- Sample 371 (CER=0.759) ---
+REF : 'well i've often seen a cat without a grin' 'thought alice but a grin without a cat
+PRED: a  ta  e  ii ae 'a 'i  i a sad te
+
+--- Sample 372 (CER=0.747) ---
+REF : often seen a cat without a grin' 'thought alice but a grin without a cat 'it's the most curious
+PRED:  e a ii 'a' 'a 'i ' i ai ta sad ta 
+
+--- Sample 373 (CER=0.736) ---
+REF : a grin' 'thought alice but a grin without a cat 'it's the most curious thing i ever saw
+PRED: a e' 'a ' i a i said ta  i ta ii
+
+--- Sample 374 (CER=0.709) ---
+REF : alice but a grin without a cat 'it's the most curious thing i ever saw in all my life'
+PRED: ' i a a i said ta e ta ta  ii i e ii
+
+--- Sample 375 (CER=0.684) ---
+REF : grin without a cat 'it's the most curious thing i ever saw in all my life' 'she
+PRED: ' ad a ad tha e ta th ti i in i e i e e  o
+
+--- Sample 376 (CER=0.667) ---
+REF : 'it's the most curious thing i ever saw in all my life' 'she had not gone much
+PRED: 'a ta   o to ti i i i o i   h i o te o i e
+
+--- Sample 377 (CER=0.705) ---
+REF : curious thing i ever saw in all my life' 'she had not gone much further 'before she came
+PRED: a ta ti i in i o i  he 'h i o o o in to i i o d
+
+--- Sample 378 (CER=0.767) ---
+REF : saw in all my life' 'she had not gone much further 'before she came inside of the house of
+PRED: i ' ' e oe to i to toii i ai i ii
+
+--- Sample 379 (CER=0.714) ---
+REF : life' 'she had not gone much further 'before she came inside of the house of the march hare
+PRED: ' a e o e ti i to a in thi o i o o  o o i i
+
+--- Sample 380 (CER=0.704) ---
+REF : 'she had not gone much further 'before she came inside of the house of the march hare 'she thought
+PRED: a e a i to i in to o in on i i i i id hoe 'e 'o o
+
+--- Sample 381 (CER=0.766) ---
+REF : further 'before she came inside of the house of the march hare 'she thought it must be the right house 'because
+PRED: a  in ti o in o i i i i id ho  'i 'i o e o o i i
+
+--- Sample 382 (CER=0.743) ---
+REF : came inside of the house of the march hare 'she thought it must be the right house 'because the chimneys were
+PRED: a o o i i i i hoi 'o 'i o e o o i tha i a ei
+
+--- Sample 383 (CER=0.774) ---
+REF : of the march hare 'she thought it must be the right house 'because the chimneys were shaped like ears 'and
+PRED:  ai a 'i i o e  a aa a a ae 'a a
+
+--- Sample 384 (CER=0.780) ---
+REF : 'she thought it must be the right house 'because the chimneys were shaped like ears 'and the roof was stashed
+PRED: ' o   a a i i a tai 'a  i ta ii
+
+--- Sample 385 (CER=0.781) ---
+REF : it must be the right house 'because the chimneys were shaped like ears 'and the roof was stashed with fur
+PRED: a a i a a a a a i 'i   e o ii i thi ii
+
+--- Sample 386 (CER=0.753) ---
+REF : 'because the chimneys were shaped like ears 'and the roof was stashed with fur 'it was such a
+PRED: ' a a 'a a e a i a i ie 'i  a
+
+--- Sample 387 (CER=0.724) ---
+REF : shaped like ears 'and the roof was stashed with fur 'it was such a large house that she
+PRED: a 'a  e a  ti i ii 'i i a a ae
+
+--- Sample 388 (CER=0.740) ---
+REF : 'and the roof was stashed with fur 'it was such a large house that she did not like to go nearer
+PRED: a   ti i ii 'i  a ae' sai e ae
+
+--- Sample 389 (CER=0.747) ---
+REF : stashed with fur 'it was such a large house that she did not like to go nearer 'til she had nibbled
+PRED:  ai 'i 'i 'a taa si ee o o  ta o
+
+--- Sample 390 (CER=0.762) ---
+REF : 'it was such a large house that she did not like to go nearer 'til she had nibbled some more 'of the left
+PRED: ' a ad si ee o o  i a ad ta e
+
+--- Sample 391 (CER=0.784) ---
+REF : large house that she did not like to go nearer 'til she had nibbled some more 'of the left hand bit of mushroom
+PRED: a' 'ad tae o o  i o ad a i i i 'a
+
+--- Sample 392 (CER=0.782) ---
+REF : she did not like to go nearer 'til she had nibbled some more 'of the left hand bit of mushroom 'and she raised
+PRED: ai a o ii i oi ad tai a ti e ie 'i e
+
+--- Sample 393 (CER=0.771) ---
+REF : nearer 'til she had nibbled some more 'of the left hand bit of mushroom 'and she raised herself about two
+PRED:  i ai a ta e i ti te ie 'i e te a a
+
+--- Sample 394 (CER=0.789) ---
+REF : nibbled some more 'of the left hand bit of mushroom 'and she raised herself about two feet high
+PRED: a ta  a ti e 'ie e ae a i a ae
+
+--- Sample 395 (CER=0.774) ---
+REF : left hand bit of mushroom 'and she raised herself about two feet high 'even then she
+PRED: a a e 'ae a a a i ae i  a
+
+--- Sample 396 (CER=0.747) ---
+REF : 'and she raised herself about two feet high 'even then she walked up towards it
+PRED: ' a ae a a ae' 'i e a a a a
+
+--- Sample 397 (CER=0.731) ---
+REF : raised herself about two feet high 'even then she walked up towards it rather timidly 'saying
+PRED: a e i i ae 'i e to ta ti i ti i i 
+
+--- Sample 398 (CER=0.711) ---
+REF : two feet high 'even then she walked up towards it rather timidly 'saying to herself
+PRED: a e a ae to ta ta o ti i o o in o e i
+
+--- Sample 399 (CER=0.761) ---
+REF : 'even then she walked up towards it rather timidly 'saying to herself 'suppose it should
+PRED: ' to ta ti o o i i  i  ii 'i i a 
+
+--- Sample 400 (CER=0.742) ---
+REF : she walked up towards it rather timidly 'saying to herself 'suppose it should be raving mad after
+PRED: a o o i o  o  i ti ii 'i 'i 'o o i o i ii
+
+--- Sample 401 (CER=0.737) ---
+REF : rather timidly 'saying to herself 'suppose it should be raving mad after all
+PRED: ' e i i  ii 'i 'o o o o in i ai
+
+--- Sample 402 (CER=0.787) ---
+REF : 'saying to herself 'suppose it should be raving mad after all 'i almost wish i'd
+PRED: ae a' 'i a  o e sae' 'ii o o
+
+--- Sample 403 (CER=0.730) ---
+REF : 'suppose it should be raving mad after all 'i almost wish i'd gone to the hatter instead'
+PRED: ' a oi o i oe a' 'i i o o to i
+
+--- Sample 404 (CER=0.741) ---
+REF : should be raving mad after all 'i almost wish i'd gone to the hatter instead' end
+PRED: he oe ae' 'i 'i o ta to i i i
+
+--- Sample 405 (CER=0.761) ---
+REF : after all 'i almost wish i'd gone to the hatter instead' end of chapter
+PRED: ' 'ii a t i i ai ii i  a
+
+--- Sample 406 (CER=0.723) ---
+REF : 'i almost wish i'd gone to the hatter instead' end of chapter six
+PRED: 'a   oi o i oi ii i ' i a ii
+
+--- Sample 407 (CER=0.740) ---
+REF : i'd gone to the hatter instead' end of chapter six
+PRED: a i e ai i i i 'i i tae i i
+
+--- Sample 408 (CER=0.747) ---
+REF : was more than alice could bear 'she got up in great disgust and walked off 'the
+PRED: h o e i ae ie oe o e oe e ae
+
+--- Sample 409 (CER=0.771) ---
+REF : could bear 'she got up in great disgust and walked off 'the door mouse
+PRED: ae ie oe a e o e e ee a e a
+
+--- Sample 410 (CER=0.741) ---
+REF : 'she got up in great disgust and walked off 'the door mouse fell asleep instantly
+PRED: a o e o a o e e ee a  ee ta o ee
+
+--- Sample 411 (CER=0.767) ---
+REF : in great disgust and walked off 'the door mouse fell asleep instantly and
+PRED:  o e e ee a e ta o e ae 
+
+--- Sample 412 (CER=0.718) ---
+REF : and walked off 'the door mouse fell asleep instantly and neither of the others
+PRED: a  ae ta o e e ee e a e ei
+
+--- Sample 413 (CER=0.765) ---
+REF : 'the door mouse fell asleep instantly and neither of the others took the least notice
+PRED:  a  e a  ee ee ae ee a e
+
+--- Sample 414 (CER=0.761) ---
+REF : mouse fell asleep instantly and neither of the others took the least notice of her going
+PRED:  o o ie ee a e i a a i i a e te
+
+--- Sample 415 (CER=0.765) ---
+REF : instantly and neither of the others took the least notice of her going though she
+PRED: ai tae i a a i tai e i e e ai
+
+--- Sample 416 (CER=0.714) ---
+REF : and neither of the others took the least notice of her going though she looked back once or
+PRED: ha a i ti a an ha an an e i en e i e ee i ee a e
+
+--- Sample 417 (CER=0.699) ---
+REF : others took the least notice of her going though she looked back once or twice half
+PRED: h a i a i e te i i i a e a e ie a
+
+--- Sample 418 (CER=0.738) ---
+REF : notice of her going though she looked back once or twice half hoping that they would
+PRED:  i e te e e  ae ai e oe o  e e
+
+--- Sample 419 (CER=0.765) ---
+REF : going though she looked back once or twice half hoping that they would call after her
+PRED:  a e o i oe o e e e es ae
+
+--- Sample 420 (CER=0.792) ---
+REF : she looked back once or twice half hoping that they would call after her 'the
+PRED: a a  e o i ee e  ee 
+
+--- Sample 421 (CER=0.871) ---
+REF : or twice half hoping that they would call after her 'the last time she
+PRED:  i  aee to
+
+--- Sample 422 (CER=0.857) ---
+REF : half hoping that they would call after her 'the last time she saw them
+PRED:  ae  o oo e oa
+
+--- Sample 423 (CER=0.815) ---
+REF : would call after her 'the last time she saw them they were trying to put the door
+PRED: aae e o o o o to a a a ai
+
+--- Sample 424 (CER=0.760) ---
+REF : 'the last time she saw them they were trying to put the door mouse into the
+PRED: e o o o o o o o e a  a a e a e
+
+--- Sample 425 (CER=0.732) ---
+REF : 'the last time she saw them they were trying to put the door mouse into the teapot
+PRED:  o o o o o en  a a an a o e e e ee e e
+
+--- Sample 426 (CER=0.746) ---
+REF : she saw them they were trying to put the door mouse into the teapot 'at
+PRED: a o oa a  a  a a e  tae ee e e
+
+--- Sample 427 (CER=0.776) ---
+REF : they were trying to put the door mouse into the teapot 'at any rate
+PRED:   a ee ta aee  a a
+
+--- Sample 428 (CER=0.763) ---
+REF : door mouse into the teapot 'at any rate i'll never go there
+PRED:  ae ta ae  e  o 
+
+--- Sample 429 (CER=0.800) ---
+REF : the teapot 'at any rate i'll never go there again'
+PRED:  e  o  e a ae
+
+--- Sample 430 (CER=0.700) ---
+REF : 'at any rate i'll never go there again' said alice
+PRED: ' a  to o o o a ta tae
+
+--- Sample 431 (CER=0.721) ---
+REF : 'at any rate i'll never go there again' said alice as she picked her
+PRED:  e  i o oo o o o a a a a  a a a
+
+--- Sample 432 (CER=0.728) ---
+REF : rate i'll never go there again' said alice as she picked her way through the wood
+PRED: h   o o to o o e he ta a  e  o on on on i e i
+
+--- Sample 433 (CER=0.708) ---
+REF : there again' said alice as she picked her way through the wood 'it's the
+PRED: a  oe e a a  e e o ii oi a oe e ee
+
+--- Sample 434 (CER=0.718) ---
+REF : again' said alice as she picked her way through the wood 'it's the stupidest teaparty
+PRED:  ta e e a ii ai e oe e te te  t ee
+
+--- Sample 435 (CER=0.689) ---
+REF : as she picked her way through the wood 'it's the stupidest teaparty i ever
+PRED: a a ei ai a ie e te te  e te e a a ai
+
+--- Sample 436 (CER=0.649) ---
+REF : her way through the wood 'it's the stupidest teaparty i ever was at in all
+PRED: i a oe e te te  to  a a a e e ae a ae
+
+--- Sample 437 (CER=0.667) ---
+REF : 'it's the stupidest teaparty i ever was at in all my life
+PRED: a e te e e to te ten a  a a en han a an en h en en en
+
+--- Sample 438 (CER=0.706) ---
+REF : the stupidest teaparty i ever was at in all my life
+PRED: a e to e on a  an a en an a e e in i e e e e 
+
+--- Sample 439 (CER=0.674) ---
+REF : teaparty i ever was at in all my life 'just as
+PRED: a e o o e a a a o e i e e e o  oe
+
+--- Sample 440 (CER=0.735) ---
+REF : ever was at in all my life 'just as she said this
+PRED: a   e i o e e o   o o oo o o
+
+--- Sample 441 (CER=0.745) ---
+REF : all my life 'just as she said this she noticed that
+PRED: a e  oe oo ooe a ta 
+
+--- Sample 442 (CER=0.783) ---
+REF : 'just as she said this she noticed that one of the trees had
+PRED:   oo oe a ta e ae
+
+--- Sample 443 (CER=0.747) ---
+REF : 'just as she said this she noticed that one of the trees had a door leading
+PRED: h on on on on on on on n an a  te hen ton en en te to on on o
+
+--- Sample 444 (CER=0.614) ---
+REF : as she said this she noticed that one of the trees had a door leading right into it
+PRED: a  e o en thi e te ha te o on o o on en en e e o en
+
+--- Sample 445 (CER=0.716) ---
+REF : she noticed that one of the trees had a door leading right into it 'that's
+PRED: a a  i ta e e o e o o in o  e e e o
+
+--- Sample 446 (CER=0.776) ---
+REF : that one of the trees had a door leading right into it 'that's very curious'
+PRED:  e te e e e ae oe oe o
+
+--- Sample 447 (CER=0.864) ---
+REF : had a door leading right into it 'that's very curious' she thought
+PRED: i a  a o o
+
+--- Sample 448 (CER=0.877) ---
+REF : leading right into it 'that's very curious' she thought 'but everything's
+PRED:  oe    ee
+
+--- Sample 449 (CER=0.862) ---
+REF : 'that's very curious' she thought 'but everything's curious today
+PRED: '   o a  ai
+
+--- Sample 450 (CER=0.815) ---
+REF : 'that's very curious' she thought 'but everything's curious today
+PRED: ' oe oe  a a e a 
+
+--- Sample 451 (CER=0.787) ---
+REF : curious' she thought 'but everything's curious today 'i think i may as well
+PRED: ae a o  o o ae a i ae ee
+
+--- Sample 452 (CER=0.740) ---
+REF : thought 'but everything's curious today 'i think i may as well go in at once'
+PRED:  a e oo o a i i i e  e i
+
+--- Sample 453 (CER=0.725) ---
+REF : everything's curious today 'i think i may as well go in at once' 'and
+PRED: a o o o e i i e  ee e i e 
+
+--- Sample 454 (CER=0.745) ---
+REF : today 'i think i may as well go in at once' 'and in she
+PRED:  e ie o e e ee e a e
+
+--- Sample 455 (CER=0.759) ---
+REF : 'i think i may as well go in at once' 'and in she went
+PRED: ' a e e ee e e a a
+
+--- Sample 456 (CER=0.806) ---
+REF : well go in at once' 'and in she went
+PRED:  e e  a sa
+
+--- Sample 457 (CER=0.879) ---
+REF : once' 'and in she went 'once more
+PRED:  a a a
+
+--- Sample 458 (CER=0.854) ---
+REF : 'and in she went 'once more she found herself in
+PRED:  ae ae ta ta 
+
+--- Sample 459 (CER=0.833) ---
+REF : she went 'once more she found herself in the long hall
+PRED: a ta o ai sa i
+
+--- Sample 460 (CER=0.818) ---
+REF : 'once more she found herself in the long hall and close
+PRED:  a oe a ae e a
+
+--- Sample 461 (CER=0.733) ---
+REF : 'once more she found herself in the long hall and close to the little glass
+PRED: ' a  o o i  ta a e i a a e oe
+
+--- Sample 462 (CER=0.787) ---
+REF : more she found herself in the long hall and close to the little glass table
+PRED:  a ee tae e a e a a
+
+--- Sample 463 (CER=0.806) ---
+REF : in the long hall and close to the little glass table 'now i'll
+PRED: aaee a a a a e  a
+
+--- Sample 464 (CER=0.783) ---
+REF : hall and close to the little glass table 'now i'll manage better this
+PRED: e ta   o a i   e o o  
+
+--- Sample 465 (CER=0.814) ---
+REF : close to the little glass table 'now i'll manage better this time' she
+PRED:  a o a  a e  o tae
+
+--- Sample 466 (CER=0.700) ---
+REF : glass table 'now i'll manage better this time' she said to herself and
+PRED:  a 'i o e e oe tae e i ee ii
+
+--- Sample 467 (CER=0.703) ---
+REF : 'now i'll manage better this time' she said to herself and began
+PRED: ' a o e o e tae e sa i e i i i   o
+
+--- Sample 468 (CER=0.681) ---
+REF : i'll manage better this time' she said to herself and began by taking
+PRED: i a o oe e ti e e i i i 'ii a aee
+
+--- Sample 469 (CER=0.722) ---
+REF : this time' she said to herself and began by taking the little golden key
+PRED: a oed ti e e i i i 'ii o  si e ie
+
+--- Sample 470 (CER=0.720) ---
+REF : she said to herself and began by taking the little golden key and unlocking
+PRED: ae iii e a  sa tae e e i a a e
+
+--- Sample 471 (CER=0.696) ---
+REF : and began by taking the little golden key and unlocking the door that
+PRED: ' a e sad te e e  i a ad te e ie
+
+--- Sample 472 (CER=0.682) ---
+REF : began by taking the little golden key and unlocking the door that led into the garden
+PRED: a e i a ta i e i i a ad a e e i i in i e t e
+
+--- Sample 473 (CER=0.724) ---
+REF : taking the little golden key and unlocking the door that led into the garden
+PRED: a ae a a ad a e e e  i a e  e e e 
+
+--- Sample 474 (CER=0.702) ---
+REF : key and unlocking the door that led into the garden 'then
+PRED: a ad ta e e e i ae  ee e
+
+--- Sample 475 (CER=0.760) ---
+REF : unlocking the door that led into the garden 'then she went to work nibbling
+PRED: a i e  i a  ie e    a e a
+
+--- Sample 476 (CER=0.819) ---
+REF : that led into the garden 'then she went to work nibbling at the mushroom
+PRED: a  ie  a e  a a
+
+--- Sample 477 (CER=0.873) ---
+REF : garden 'then she went to work nibbling at the mushroom 'she had
+PRED:  a e a a ie
+
+--- Sample 478 (CER=0.731) ---
+REF : 'then she went to work nibbling at the mushroom 'she had kept a piece of it in
+PRED: 'e a e  ta  aei i a ta e i
+
+--- Sample 479 (CER=0.730) ---
+REF : 'then she went to work nibbling at the mushroom 'she had kept a piece of it in her pocket
+PRED:  e a ta e ta i i 'i o o to  i he ie
+
+--- Sample 480 (CER=0.793) ---
+REF : nibbling at the mushroom 'she had kept a piece of it in her pocket 'til she was about a foot
+PRED: a iee 'i o a te ead ta e e ae
+
+--- Sample 481 (CER=0.667) ---
+REF : 'she had kept a piece of it in her pocket 'til she was about a foot high
+PRED: 'e a e a toe ad ae e e e e o e ie 'e
+
+--- Sample 482 (CER=0.714) ---
+REF : had kept a piece of it in her pocket 'til she was about a foot high 'then she walked
+PRED: h a ta ad a e e aee a e ae 'i e o e
+
+--- Sample 483 (CER=0.741) ---
+REF : in her pocket 'til she was about a foot high 'then she walked down the little passage
+PRED: a e a ae o e i' 'i e  e e e ie
+
+--- Sample 484 (CER=0.724) ---
+REF : 'til she was about a foot high 'then she walked down the little passage 'and
+PRED: ' ae a e i 'i e o e e e i o i 
+
+--- Sample 485 (CER=0.703) ---
+REF : foot high 'then she walked down the little passage 'and then she
+PRED:  a' 'ae a e e e o oe i i e e a
+
+--- Sample 486 (CER=0.721) ---
+REF : 'then she walked down the little passage 'and then she found herself
+PRED: 'a a e e e a oe i i e e a  ae
+
+--- Sample 487 (CER=0.758) ---
+REF : walked down the little passage 'and then she found herself at last
+PRED: 'i a a a e e a  a  a a
+
+--- Sample 488 (CER=0.750) ---
+REF : passage 'and then she found herself at last in the beautiful
+PRED: ai i e  a  o  ta a i a 
+
+--- Sample 489 (CER=0.661) ---
+REF : 'and then she found herself at last in the beautiful garden
+PRED: a e a i o e a a i i a a aee
+
+--- Sample 490 (CER=0.742) ---
+REF : she found herself at last in the beautiful garden among the bright
+PRED: ' a i tai a i i a a ta ii e a ae
+
+--- Sample 491 (CER=0.706) ---
+REF : herself at last in the beautiful garden among the bright flower beds
+PRED: h  o a a i a a ta i i i 'i a i a e ae
+
+--- Sample 492 (CER=0.738) ---
+REF : last in the beautiful garden among the bright flower beds and the
+PRED: i a a tae i i ae a ta a ae
+
+--- Sample 493 (CER=0.735) ---
+REF : beautiful garden among the bright flower beds and the cool fountains
+PRED: a ae i i ae ad ta a a e a a a
+
+--- Sample 494 (CER=0.765) ---
+REF : among the bright flower beds and the cool fountains
+PRED: ' ae ad ta a a e a a a
+
+--- Sample 495 (CER=0.783) ---
+REF : bright flower beds and the cool fountains 'end
+PRED:  ta a ae a a e
+
+--- Sample 496 (CER=0.791) ---
+REF : beds and the cool fountains 'end of chapter
+PRED: a i a a a  oa
+
+--- Sample 497 (CER=0.829) ---
+REF : the cool fountains 'end of chapter 
+PRED: a ae a a a i
+
+--- Sample 498 (CER=0.833) ---
+REF : fountains 'end of chapter  'recorded
+PRED:  a a ae 
+
+--- Sample 499 (CER=0.846) ---
+REF : 'end of chapter  'recorded
+PRED:  ' a a a
+
+--- Sample 500 (CER=0.763) ---
+REF : 'end of chapter  'recorded on november
+PRED: ' a a ae  a e
+
+--- Sample 501 (CER=0.774) ---
+REF : chapter  'recorded on november 
+PRED: a ee e a e a a
+
+--- Sample 502 (CER=0.826) ---
+REF : 'recorded on november  
+PRED:  e i a a  a sae
+
+--- Sample 503 (CER=0.826) ---
+REF : 'recorded on november  
+PRED: 'e  i a a  a i a a e a a
+
+--- Sample 504 (CER=0.750) ---
+REF : 'recorded on november   in oceanside
+PRED: a ad a a  ae a i e a a a ae
+
+--- Sample 505 (CER=0.771) ---
+REF : november   in oceanside california'
+PRED: ae  ae a i ee a ea a e e a e
+
+--- Sample 506 (CER=0.769) ---
+REF :   in oceanside california'
+PRED:  a ae aa e e ae ae a  e
+
+--- Sample 507 (CER=0.800) ---
+REF :  in oceanside california'
+PRED: a aa e a ae ae e ae 
+
+--- Sample 508 (CER=0.750) ---
+REF : in oceanside california'
+PRED: ' a  e a a a
+
+--- Sample 509 (CER=0.810) ---
+REF : oceanside california'
+PRED:  a a a 
+
+--- Sample 510 (CER=0.909) ---
+REF : california'
+PRED: a  
+
+--- Sample 511 (CER=0.695) ---
+REF : who were all talking at once while all the rest were quite silent and looked very uncomfortable
+PRED: a i h i he e h a hen o e e on en en en e on e on in he ed
+
+--- Sample 512 (CER=0.677) ---
+REF : talking at once while all the rest were quite silent and looked very uncomfortable the moment
+PRED: a a h a he hi hen a in in en o in o hen o e e e e
+
+--- Sample 513 (CER=0.685) ---
+REF : while all the rest were quite silent and looked very uncomfortable the moment alice appeared
+PRED: h e in hen a in in ene in in in on he end he e e e e e i ta
+
+--- Sample 514 (CER=0.718) ---
+REF : silent and looked very uncomfortable the moment alice appeared she was appealed to by
+PRED:  o o i i e he e e e e e tee th sa e te
+
+--- Sample 515 (CER=0.724) ---
+REF : very uncomfortable the moment alice appeared she was appealed to by all three to settle
+PRED: a i eed a e e e tee te sa e te  i a a a
+
+--- Sample 516 (CER=0.704) ---
+REF : the moment alice appeared she was appealed to by all three to settle the question
+PRED: ' e o te a sa e te i e e a i te aad
+
+--- Sample 517 (CER=0.694) ---
+REF : moment alice appeared she was appealed to by all three to settle the question and they repeated their arguments
+PRED: h e en an in a he e he e i he e en e he hen he he e o i
+
+--- Sample 518 (CER=0.660) ---
+REF : she was appealed to by all three to settle the question and they repeated their arguments to her though
+PRED: h e e he e on en en en e he hen hn hen ie i hn e ee he 
+
+--- Sample 519 (CER=0.663) ---
+REF : by all three to settle the question and they repeated their arguments to her though as they all spoke at
+PRED: h i i an e he he an he ie i in hen e h a he he the thes
+
+--- Sample 520 (CER=0.649) ---
+REF : settle the question and they repeated their arguments to her though as they all spoke at once she found it very
+PRED: ae he hen he he he i e he h h a he e he e en he ed
+
+--- Sample 521 (CER=0.712) ---
+REF : and they repeated their arguments to her though as they all spoke at once she found it very hard indeed to make
+PRED: he e ho i hen h a he e he e en e e e oe ed
+
+--- Sample 522 (CER=0.688) ---
+REF : arguments to her though as they all spoke at once she found it very hard indeed to make out exactly what they
+PRED: sh e hen o at he e he e en n e en on en n o e o ed
+
+--- Sample 523 (CER=0.670) ---
+REF : though as they all spoke at once she found it very hard indeed to make out exactly what they said
+PRED: sa he ten he ter e e on en in hen en on in on en on in hin the ti thed ee
+
+--- Sample 524 (CER=0.677) ---
+REF : at once she found it very hard indeed to make out exactly what they said the executioner's argument
+PRED: a o a e hen en o in a o on in in he  e he e e e e ee
+
+--- Sample 525 (CER=0.695) ---
+REF : very hard indeed to make out exactly what they said the executioner's argument was you couldn't
+PRED: ai  i a i o i hi the  e he e e e o e a i a  e
+
+--- Sample 526 (CER=0.750) ---
+REF : make out exactly what they said the executioner's argument was you couldn't cut off ahead unless
+PRED: a i id hae 'he e e o  a i ha i the  i i a
+
+--- Sample 527 (CER=0.719) ---
+REF : said the executioner's argument was you couldn't cut off ahead unless there was a body to
+PRED: h' 'a e e o e a i ha hi the i hin in hen hen e e he e
+
+--- Sample 528 (CER=0.720) ---
+REF : the executioner's argument was you couldn't cut off ahead unless there was a body to cut it off from
+PRED: th e o e in he e he en en he hen hn on e o ed
+
+--- Sample 529 (CER=0.690) ---
+REF : argument was you couldn't cut off ahead unless there was a body to cut it off from that he had never
+PRED: a e a he he in in en an en hen hen hn he on hen in he hen h a  e
+
+--- Sample 530 (CER=0.690) ---
+REF : couldn't cut off ahead unless there was a body to cut it off from that he had never had to do such a
+PRED: a i i an in e hen hn on an aen in he hen a a e e ho hen to en
+
+--- Sample 531 (CER=0.683) ---
+REF : unless there was a body to cut it off from that he had never had to do such a thing before and he wasn't
+PRED: e hen in he an e in he hn hen a e hen hen e hen hen en on oe
+
+--- Sample 532 (CER=0.637) ---
+REF : to cut it off from that he had never had to do such a thing before and he wasn't going to begin at his
+PRED: h e he a hen he he a e he hor en he hen o en en h e hen in oe hene
+
+--- Sample 533 (CER=0.635) ---
+REF : that he had never had to do such a thing before and he wasn't going to begin at his time of life
+PRED: h e e e he i hen hin a an hen he he e hen in he e ho ha i
+
+--- Sample 534 (CER=0.642) ---
+REF : never had to do such a thing before and he wasn't going to begin at his time of life the king's
+PRED: the in hen hin han a an hin he e in he in han hin on in the   e
+
+--- Sample 535 (CER=0.635) ---
+REF : thing before and he wasn't going to begin at his time of life the king's argument was
+PRED: h i i e h in hin in ha hin a i i te h e e e a a
+
+--- Sample 536 (CER=0.716) ---
+REF : wasn't going to begin at his time of life the king's argument was that anything that had
+PRED: h e ei a in tai e e  e e  te ei a  e 
+
+--- Sample 537 (CER=0.701) ---
+REF : his time of life the king's argument was that anything that had ahead could be beheaded
+PRED: a i ai a e e   ta i ta h e a a  a e
+
+--- Sample 538 (CER=0.725) ---
+REF : the king's argument was that anything that had ahead could be beheaded and that you weren't
+PRED: ' e  te a a   e a e e a e id ae
+
+--- Sample 539 (CER=0.702) ---
+REF : king's argument was that anything that had ahead could be beheaded and that you weren't to talk nonsense
+PRED: ae he he i h h o a o in en a hen e ind e e e ha a i
+
+--- Sample 540 (CER=0.716) ---
+REF : that anything that had ahead could be beheaded and that you weren't to talk nonsense the
+PRED:  e e e o e i a e id i e ee t i e a ee
+
+--- Sample 541 (CER=0.733) ---
+REF : had ahead could be beheaded and that you weren't to talk nonsense the queen's argument was
+PRED:   i  e id a e  t i eed a e e  e o
+
+--- Sample 542 (CER=0.740) ---
+REF : beheaded and that you weren't to talk nonsense the queen's argument was that if something wasn't
+PRED: ai a e i ta i eed 'e e e  e o i e he i
+
+--- Sample 543 (CER=0.714) ---
+REF : weren't to talk nonsense the queen's argument was that if something wasn't done about it in
+PRED: a e ta i eed a e e e e o i ae he e a en e e ed
+
+--- Sample 544 (CER=0.714) ---
+REF : the queen's argument was that if something wasn't done about it in less than no time
+PRED:  ae e   o i thee e i a i th he id ha e he e o
+
+--- Sample 545 (CER=0.667) ---
+REF : the queen's argument was that if something wasn't done about it in less than no time she had everybody executed
+PRED: th i en en in en e he en in he e he he e he e in ha e ha e ed
+
+--- Sample 546 (CER=0.683) ---
+REF : was that if something wasn't done about it in less than no time she had everybody executed all around
+PRED: a i e en ha in he he in he e he e an ha he ha hin he th e e
+
+--- Sample 547 (CER=0.709) ---
+REF : wasn't done about it in less than no time she had everybody executed all around
+PRED: a e e e in ha e he e in a en o e en hen thd ha e e the ee e e
+
+--- Sample 548 (CER=0.707) ---
+REF : in less than no time she had everybody executed all around it was this last remark
+PRED: ae  i a i he e e he he th i te o e e o e e  te
+
+--- Sample 549 (CER=0.729) ---
+REF : she had everybody executed all around it was this last remark that had made the whole
+PRED: hi he  i e th i te o e ee e ee o i to e h a e
+
+--- Sample 550 (CER=0.692) ---
+REF : executed all around it was this last remark that had made the whole party look so grave and
+PRED: ai ti te o e ee e ee e  to hi the th h he e ha i a 
+
+--- Sample 551 (CER=0.733) ---
+REF : around it was this last remark that had made the whole party look so grave and anxious
+PRED: e ae to o i he th  e ai a i e e a e ed
+
+--- Sample 552 (CER=0.703) ---
+REF : it was this last remark that had made the whole party look so grave and anxious alice could
+PRED: h o i to hen the th he oee o in the hen en en toe en e 'e e e
+
+--- Sample 553 (CER=0.688) ---
+REF : remark that had made the whole party look so grave and anxious alice could think of nothing else
+PRED: ai ta o o o in he oe in hen o e hend e e e e e e  e e
+
+--- Sample 554 (CER=0.718) ---
+REF : whole party look so grave and anxious alice could think of nothing else to say but it
+PRED: o i e en hen en ta e hed e e e e e e e en en en an in e i
+
+--- Sample 555 (CER=0.714) ---
+REF : and anxious alice could think of nothing else to say but it belongs to
+PRED: a e e e e e se e e  tae a i ied a e e
+
+--- Sample 556 (CER=0.735) ---
+REF : alice could think of nothing else to say but it belongs to the duchess you'd better
+PRED: e so e ee aen a i i ed ha e  e i ta ei
+
+--- Sample 557 (CER=0.681) ---
+REF : could think of nothing else to say but it belongs to the duchess you'd better ask her about it
+PRED: h ta een then en a in in ed ha te e e i a o he en ta en ed
+
+--- Sample 558 (CER=0.714) ---
+REF : else to say but it belongs to the duchess you'd better ask her about it she's
+PRED: a e id a e e tai a e e en ta e e e e ee
+
+--- Sample 559 (CER=0.716) ---
+REF : it belongs to the duchess you'd better ask her about it she's in prison the queen
+PRED:  e e tai ta i a e a ee e e e e o  e
+
+--- Sample 560 (CER=0.713) ---
+REF : to the duchess you'd better ask her about it she's in prison the queen said to the executioner
+PRED: aid a  he e a e e e e e ee e ad aid e ee
+
+--- Sample 561 (CER=0.658) ---
+REF : ask her about it she's in prison the queen said to the executioner fetch her
+PRED: ae a ee e e e e e e ae te e e e e e  a 
+
+--- Sample 562 (CER=0.690) ---
+REF : it she's in prison the queen said to the executioner fetch her here and
+PRED:  ae o e ed a tee te ee ad ae e
+
+--- Sample 563 (CER=0.656) ---
+REF : she's in prison the queen said to the executioner fetch her here and the executioner went off
+PRED: a e a thee i he e e ee sh a e i the the e e h ee
+
+--- Sample 564 (CER=0.655) ---
+REF : queen said to the executioner fetch her here and the executioner went off like an arrow
+PRED: o i e e i e i e a  i the the e e to o e o e i e
+
+--- Sample 565 (CER=0.702) ---
+REF : executioner fetch her here and the executioner went off like an arrow the cat's head
+PRED:  si   se h e e o o e o e e e he e e 
+
+--- Sample 566 (CER=0.655) ---
+REF : her here and the executioner went off like an arrow the cat's head began fading away
+PRED: a i te he e e to o e th e en tee he the e e e hen e e i
+
+--- Sample 567 (CER=0.649) ---
+REF : the executioner went off like an arrow the cat's head began fading away the moment he was gone
+PRED: ta e o in en en en te he he he e e e e hen in in an e he id
+
+--- Sample 568 (CER=0.641) ---
+REF : off like an arrow the cat's head began fading away the moment he was gone and by the time he
+PRED: o e en te he he te e he oe e hen in in an in o he e an in ed
+
+--- Sample 569 (CER=0.667) ---
+REF : the cat's head began fading away the moment he was gone and by the time he had come back with the duchess
+PRED: e e se se o  an in hin han in an hen en in in he en hen in o e
+
+--- Sample 570 (CER=0.694) ---
+REF : head began fading away the moment he was gone and by the time he had come back with the duchess it had entirely
+PRED: ta e han in an an in e e n in e n en e e en he ed
+
+--- Sample 571 (CER=0.695) ---
+REF : away the moment he was gone and by the time he had come back with the duchess it had entirely disappeared
+PRED: ta an in o e e n in e en en en he e en ie a ed
+
+--- Sample 572 (CER=0.673) ---
+REF : gone and by the time he had come back with the duchess it had entirely disappeared so the king and
+PRED: a a in he in an e o he e en he he an in h he in he he 
+
+--- Sample 573 (CER=0.656) ---
+REF : he had come back with the duchess it had entirely disappeared so the king and the executioner
+PRED: a e in in he en an he he en hen a he in he he en e e in he e
+
+--- Sample 574 (CER=0.679) ---
+REF : duchess it had entirely disappeared so the king and the executioner ran wildly up
+PRED: a ad e e a i a e i he e e en e in he e an he i e
+
+--- Sample 575 (CER=0.690) ---
+REF : entirely disappeared so the king and the executioner ran wildly up and down looking for
+PRED: ha in h e in he he e e he in he e an h e he e oe e on i
+
+--- Sample 576 (CER=0.667) ---
+REF : so the king and the executioner ran wildly up and down looking for it while the rest of
+PRED: h a a a e e in he e hen a e en e en he e in a hene he he ed
+
+--- Sample 577 (CER=0.663) ---
+REF : and the executioner ran wildly up and down looking for it while the rest of the party went back
+PRED: h e he ha e an a e in e e he e in er e he h e he en e id
+
+--- Sample 578 (CER=0.707) ---
+REF : executioner ran wildly up and down looking for it while the rest of the party went back to the game
+PRED: h wa he he en o e in a hen hen a en on hen on o in hen on on ad
+
+--- Sample 579 (CER=0.645) ---
+REF : up and down looking for it while the rest of the party went back to the game
+PRED: a o e i a en e the hen to he to o in ho o e o o e o
+
+--- Sample 580 (CER=0.708) ---
+REF : for it while the rest of the party went back to the game end of chapter 
+PRED:  a i i e i o i e o e e   o
+
+--- Sample 581 (CER=0.680) ---
+REF : of the party went back to the game end of chapter 
+PRED: a ii tei e oe e e e a e e a e
+
+--- Sample 582 (CER=0.700) ---
+REF : back to the game end of chapter  read by christian
+PRED: a e e   a e sa tae
+
+--- Sample 583 (CER=0.755) ---
+REF : end of chapter  read by christian macquilan tokyo
+PRED:    a e sa a a tae ad
+
+--- Sample 584 (CER=0.727) ---
+REF : end of chapter  read by christian macquilan tokyo japan
+PRED: 'e a ee e sa  a a a ai ad te e eed
+
+--- Sample 585 (CER=0.680) ---
+REF :  read by christian macquilan tokyo japan december 
+PRED:  e a  a a aad the e a ha e e e
+
+--- Sample 586 (CER=0.740) ---
+REF : read by christian macquilan tokyo japan december  
+PRED:  a a a a iid te e ae e e e a ed ta e
+
+--- Sample 587 (CER=0.714) ---
+REF : christian macquilan tokyo japan december  
+PRED: a ai te e ae a e e a ae ad a  ee e
+
+--- Sample 588 (CER=0.864) ---
+REF : tokyo japan december  
+PRED: ae ae e   a ae ad a hae e
+
+--- Sample 589 (CER=1.400) ---
+REF : december  
+PRED: ' a ta e ad a ae 
+

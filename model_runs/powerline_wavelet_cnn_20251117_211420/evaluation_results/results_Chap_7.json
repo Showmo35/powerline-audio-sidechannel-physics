@@ -1,0 +1,14 @@
+{
+  "chapter": "Chap_7",
+  "duration_seconds": 50,
+  "model_type": "Wavelet Attention CNN (V4)",
+  "chunk_duration": 0.1,
+  "chunk_samples": 20000,
+  "total_output_samples": 10000000,
+  "correlation": 0.5710271843814558,
+  "mse": 0.06780823320150375,
+  "mae": 0.23105165362358093,
+  "sample_rate": 200000,
+  "model_parameters": 68762694,
+  "device_used": "cuda"
+}

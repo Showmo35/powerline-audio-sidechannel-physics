@@ -1,0 +1,101 @@
+{
+  "alignment_heads": [
+    [
+      6,
+      6
+    ],
+    [
+      7,
+      0
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      2
+    ],
+    [
+      8,
+      5
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      9,
+      0
+    ],
+    [
+      9,
+      4
+    ],
+    [
+      9,
+      8
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      11,
+      4
+    ]
+  ],
+  "begin_suppress_tokens": [
+    220,
+    50256
+  ],
+  "bos_token_id": 50257,
+  "decoder_start_token_id": 50257,
+  "eos_token_id": 50256,
+  "forced_decoder_ids": [
+    [
+      1,
+      50362
+    ]
+  ],
+  "is_multilingual": false,
+  "max_initial_timestamp_index": 50,
+  "max_length": 448,
+  "no_timestamps_token_id": 50362,
+  "pad_token_id": 50256,
+  "prev_sot_token_id": 50360,
+  "suppress_tokens": [],
+  "transformers_version": "5.2.0"
+}

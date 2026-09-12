@@ -1,0 +1,19 @@
+{
+  "ckpt": "<REPO_ROOT>/Cascade/checkpoints/best_model.pt",
+  "n_val_total": 590,
+  "n_samples_used": 5,
+  "indices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "avg_cer": 0.6934738755984176,
+  "avg_wer": 0.9003947368421052,
+  "std_cer": 0.007527121073349072,
+  "std_wer": 0.0204248504336129,
+  "device": "cuda",
+  "audio_saved": true,
+  "griffin_lim_iters": 24
+}

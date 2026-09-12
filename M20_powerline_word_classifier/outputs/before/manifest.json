@@ -1,0 +1,82 @@
+[
+ {
+  "tag": "ex0",
+  "correct": true,
+  "true": "before",
+  "pred": "before",
+  "chunk": "chunk_084",
+  "dur": 0.48
+ },
+ {
+  "tag": "ex1",
+  "correct": true,
+  "true": "before",
+  "pred": "before",
+  "chunk": "chunk_048",
+  "dur": 0.5
+ },
+ {
+  "tag": "ex2",
+  "correct": true,
+  "true": "before",
+  "pred": "before",
+  "chunk": "chunk_012",
+  "dur": 0.44
+ },
+ {
+  "tag": "ex3",
+  "correct": true,
+  "true": "before",
+  "pred": "before",
+  "chunk": "chunk_048",
+  "dur": 0.52
+ },
+ {
+  "tag": "ex4",
+  "correct": true,
+  "true": "before",
+  "pred": "before",
+  "chunk": "chunk_072",
+  "dur": 0.48
+ },
+ {
+  "tag": "ex5",
+  "correct": true,
+  "true": "before",
+  "pred": "before",
+  "chunk": "chunk_036",
+  "dur": 0.58
+ },
+ {
+  "tag": "ex6",
+  "correct": false,
+  "true": "before",
+  "pred": "into",
+  "chunk": "chunk_048",
+  "dur": 0.46
+ },
+ {
+  "tag": "ex7",
+  "correct": false,
+  "true": "before",
+  "pred": "time",
+  "chunk": "chunk_096",
+  "dur": 0.66
+ },
+ {
+  "tag": "ex8",
+  "correct": false,
+  "true": "before",
+  "pred": "into",
+  "chunk": "chunk_048",
+  "dur": 0.48
+ },
+ {
+  "tag": "ex9",
+  "correct": false,
+  "true": "before",
+  "pred": "upon",
+  "chunk": "chunk_120",
+  "dur": 0.58
+ }
+]

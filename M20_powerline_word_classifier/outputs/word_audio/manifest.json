@@ -1,0 +1,74 @@
+[
+ {
+  "word": "missus",
+  "k": 0,
+  "chunk": "chunk_001",
+  "dur": 0.52
+ },
+ {
+  "word": "missus",
+  "k": 1,
+  "chunk": "chunk_001",
+  "dur": 0.52
+ },
+ {
+  "word": "missus",
+  "k": 2,
+  "chunk": "chunk_001",
+  "dur": 0.52
+ },
+ {
+  "word": "said",
+  "k": 0,
+  "chunk": "chunk_002",
+  "dur": 0.54
+ },
+ {
+  "word": "said",
+  "k": 1,
+  "chunk": "chunk_004",
+  "dur": 0.52
+ },
+ {
+  "word": "said",
+  "k": 2,
+  "chunk": "chunk_005",
+  "dur": 0.54
+ },
+ {
+  "word": "little",
+  "k": 0,
+  "chunk": "chunk_002",
+  "dur": 0.54
+ },
+ {
+  "word": "little",
+  "k": 1,
+  "chunk": "chunk_003",
+  "dur": 0.52
+ },
+ {
+  "word": "little",
+  "k": 2,
+  "chunk": "chunk_003",
+  "dur": 0.58
+ },
+ {
+  "word": "time",
+  "k": 0,
+  "chunk": "chunk_002",
+  "dur": 0.52
+ },
+ {
+  "word": "time",
+  "k": 1,
+  "chunk": "chunk_002",
+  "dur": 0.54
+ },
+ {
+  "word": "time",
+  "k": 2,
+  "chunk": "chunk_002",
+  "dur": 0.52
+ }
+]

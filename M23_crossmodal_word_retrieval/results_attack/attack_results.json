@@ -1,0 +1,4025 @@
+{
+ "summary": {
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "n_sentences": 250,
+  "oracle_topk_content_recall": 0.10755813953488372,
+  "content_slots_in_vocab": 0.5707364341085271,
+  "powerline": {
+   "content_recall": 0.027480783595489475,
+   "word_f1": 0.09335629422660345,
+   "wer": 1.567552961185975
+  },
+  "blind": {
+   "content_recall": 0.006934704184704185,
+   "word_f1": 0.07838335214279596,
+   "wer": 1.0359139187885198
+  },
+  "lift": {
+   "content_recall": 0.02054607941078529,
+   "word_f1": 0.014972942083807492,
+   "wer": 0.5316390423974553
+  }
+ },
+ "rows": [
+  {
+   "utt_id": "2136-5140-0015",
+   "text": "WOULD RELATE SOME LITTLE STORY REFLECTING EVEN TO MY CHILDISH MIND A STRANGE SUSPICION OF A SPIRITUAL MEANING",
+   "powerline_rec": "SUSPECTING THE STRANGER GAVE CANADIAN PERIODICAL TO SITTING IN HIGH ROOM STEPS ON UNKNOWN WALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0625,
+    "wer": 0.9444444444444444
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8629-261139-0019",
+   "text": "WHICH TO THEIR TWO HEARTS IF TO NO OTHERS SEEMED STRANGELY APPROPRIATE FOLLOWED THE CESSATION OF THESE SOUNDS THEN THE WITNESS WAS DISMISSED AND AMABEL",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.06451612903225806,
+    "wer": 0.96
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06451612903225806,
+    "wer": 0.96
+   }
+  },
+  {
+   "utt_id": "1867-148436-0039",
+   "text": "BUT HE DIDN'T SEE NONE THEN THE CIRCUS STARTED AN B'LIEVE ME IT WAS SOME CIRCUS JO HADN'T HAD MUCH ACTION FOR SOME TIME",
+   "powerline_rec": "I DID NOT GO TO THE SHOP AND I HAVE FINISHED MY EGG HOMES. I WAS LOOKING FOR SOMETHING IN THE SHADOW OF THE CHAIR. I DIDN'T KNOW WHAT IT WAS BUT I DID THINK IT COULD BE A TRAMP. I ANSWERED THE PHONE AND T",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.07692307692307693,
+    "word_f1": 0.2413793103448276,
+    "wer": 1.6296296296296295
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0625,
+    "wer": 0.9629629629629629
+   }
+  },
+  {
+   "utt_id": "328-129766-0098",
+   "text": "THAT THOUGH I WAS TO HIM TO MOST AGREEABLE WOMAN IN THE WORLD YET BECAUSE HE LOVED ME HE COULD NOT INJURE ME",
+   "powerline_rec": "EVERYBODY HATED THE ENGLISH LANGUAGE AND LOOKED AT EVERYTHING WITH AN ATTITUDE OF DISGUST.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.058823529411764705,
+    "wer": 0.9565217391304348
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.21428571428571425,
+    "wer": 0.9130434782608695
+   }
+  },
+  {
+   "utt_id": "5867-48852-0041",
+   "text": "BUT THE VERY ALLUSION TO ANY SUCH ROBBERY COVERED JOHN EAMES'S FACE WITH A BLUSH",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2136-5143-0023",
+   "text": "UN GOUT BIZARRE VRAIMENT BUT I LOVE VERY MUCH TO BE NEAR TO THE DEAD PEOPLE",
+   "powerline_rec": "I knew somebody who wore a board leader at work. He became aware of something wise. They heard someone blow a ball through a wall.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.052631578947368425,
+    "wer": 1.5625
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.16666666666666669,
+    "wer": 0.9375
+   }
+  },
+  {
+   "utt_id": "2136-5143-0035",
+   "text": "HE WILL NOT COME TO LIE HERE A DAY SOONER BY CAUSE OF THAT",
+   "powerline_rec": "GAVE DRAWN MADE BUILT GREEN SPOKEN SENT SUMMER CITY SINGLE TILL KING TRIP KEPT BUILT",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0714285714285714
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809523,
+    "wer": 0.9285714285714286
+   }
+  },
+  {
+   "utt_id": "1867-148436-0029",
+   "text": "HE DIDN'T EVEN NEED AN EXCUSE YOU SEE",
+   "powerline_rec": "FELLOW SLOWLY LOOKS AT THE FULL DOGS PASSAGE TO EXPLAIN SPEED ALTOGETHER WHILE SLEEPING",
+   "blind_rec": "THEY ARE GOING TO THE STORE TO BUY CHOCOLATE COATED CANDIES",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.5555555555555556
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.2222222222222223
+   }
+  },
+  {
+   "utt_id": "2989-138028-0024",
+   "text": "OF COUNTLESS PRINCES MONARCHS LORDS MEDES ASSYRIANS PERSIANS GREEKS AND BARBARIANS ALL THESE LINEAGES AND LORDSHIPS HAVE ENDED IN A POINT AND COME TO NOTHING",
+   "powerline_rec": "THESE BOYS HAVE BEEN BURIED IN THE FOREST WITH THEIR PAPAS FINGER AND RING. THEY ARE GOING TO BE DISCOVERED BY THE POLICE. THE CORONEL IS DELIGHTED AT THIS NEWS. THE MERCHANT HAS ANSWERED HIS QUESTION ABOUT THE WORN R",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.11764705882352941,
+    "word_f1": 0.1694915254237288,
+    "wer": 1.56
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.12903225806451613,
+    "wer": 0.96
+   }
+  },
+  {
+   "utt_id": "8629-261139-0048",
+   "text": "I CANNOT SAY I KNEW SHE HAD MONEY IN HER HOUSE THIS I HAD UNHAPPILY BEEN MADE ACQUAINTED WITH IN AN ACCIDENTAL WAY",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.09090909090909091,
+    "word_f1": 0.14814814814814814,
+    "wer": 0.9130434782608695
+   },
+   "blind": {
+    "content_recall": 0.09090909090909091,
+    "word_f1": 0.14814814814814814,
+    "wer": 0.9130434782608695
+   }
+  },
+  {
+   "utt_id": "6385-34669-0029",
+   "text": "THE WHOLE THING WAS IN A STATE OF DISLOCATION BENEATH IT WAS HANGING HOMO'S CHAIN",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5808-54425-0055",
+   "text": "THIS WAS A TERRIBLE TERRIBLE MAN OR A MONSTER",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5808-54425-0050",
+   "text": "STILL HE CREPT SLOWLY TOWARDS HER HIS LIPS WORKING AND HIS HANDS MOVING CONVULSIVELY JOE JOE SHE SAID HOARSELY WHAT S THE MATTER",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4640-19189-0039",
+   "text": "THE FIVE CHOSEN MEN LEFT THE BARRICADE BY WAY OF MONDETOUR LANE",
+   "powerline_rec": "LINCOLN WAS MIDDLED IN THE MIDNIGHT DANCING OF DARKNESS UNDER THE COUNCIL'S RAPID SHIPS, MEANT TO GLANCE AT THE BANK OF SYMPATHY AND HOPE FOR EUROPE.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1142857142857143,
+    "wer": 2.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09999999999999999,
+    "wer": 0.9166666666666666
+   }
+  },
+  {
+   "utt_id": "2518-154825-0055",
+   "text": "AND I COULD OPEN MY EYES WITHOUT A TRACE OF GIDDINESS SO I BEGAN TO MOVE FORWARD AGAIN ON HANDS AND KNEES AND ELZEVIR",
+   "powerline_rec": "YOU AND SOMEONE WHO IS YOUNGER THAN YOU ARE LOOKING AT THE EYES OF AN AUDIENCE AS THEY LIE ON THE GROUND. THEY START TO DROP LIKE ROCKS. THE MEMBERS OF YOUR GROUP ARE TRYING TO PULL THEM TOWARDS THEIR BOOTS. THEY ARE LOSING STE",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.07692307692307693,
+    "word_f1": 0.17543859649122806,
+    "wer": 1.7083333333333333
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857142,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "1867-154071-0044",
+   "text": "SHAKE SAID RONICKY DOONE THAT'S THE SORT OF TALK I WANTED TO HEAR",
+   "powerline_rec": "I FEEL LIKE I HAVE TO SELL THE SOAP AND CHAIR AT THE CAMP SHARP LOCATION. I WILL SEND IT OFF IN THE BANKS. I AM NOT SURE IF THIS IS HONEST OR NOT. I THINK I SHOULD BUILD A HOUSE ON THE LINES OF THE MERE ADVICE FROM",
+   "blind_rec": "I AM NOT HOME AT THE MOMENT",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1509433962264151,
+    "wer": 3.357142857142857
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.19047619047619047,
+    "wer": 0.9285714285714286
+   }
+  },
+  {
+   "utt_id": "1363-135842-0006",
+   "text": "WE UNS HAVEN'T HAD BREAKFAST YET SO WE UNS ARE FEELING PO'LY REPLIED UNC BILLY WITH A GRIN A SUDDEN THOUGHT POPPED INTO PETER'S HEAD",
+   "powerline_rec": "COLONEL KNEW THE FOOL WORE A POOR CLOTHES IN FRONT OF THE TEMPLE AND WAS TOTALLY SHOCKED WHEN HE SAW BILLY DROP DEAD AT THE DOOR TO HIS ROOM.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.07692307692307693,
+    "word_f1": 0.07692307692307691,
+    "wer": 1.0357142857142858
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06060606060606061,
+    "wer": 0.9642857142857143
+   }
+  },
+  {
+   "utt_id": "7505-258964-0039",
+   "text": "MORE ABNORMAL WILL BE THEIR TEMPORARY VALUE WHEN THEY ARE SUDDENLY NEEDED LAND NEAR THE SITE OF AN EXPOSITION TAKES ON A VERY",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0625,
+    "word_f1": 0.19354838709677416,
+    "wer": 0.8695652173913043
+   },
+   "blind": {
+    "content_recall": 0.0625,
+    "word_f1": 0.19354838709677416,
+    "wer": 0.8695652173913043
+   }
+  },
+  {
+   "utt_id": "8629-261139-0074",
+   "text": "THERE ARE FIVE HUNDRED DOLLARS ON THAT TABLE TAKE THEM AND LET THEM PAVE YOUR WAY TO A BETTER LIFE",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.07407407407407407,
+    "wer": 0.95
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07407407407407407,
+    "wer": 0.95
+   }
+  },
+  {
+   "utt_id": "5339-14134-0004",
+   "text": "AND WERE PERHAPS AS FULL OF CONSIDERATION AS TO THE POSSIBLE CONTENTS OF THIS LONDON LETTER",
+   "powerline_rec": "SOLDIERS FROM EUROPE ARE MOVING TO REST AND WORK WITH SPRANG FROM PRISONERS WHOSE FINGERS HAVE BEEN WOUNDED IN AN IRRATIONAL SPIRITUAL AGGRESSION AGAINST THE SISTERS AT THE KITCHEN OF THE PRISON.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.18604651162790697,
+    "wer": 1.875
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4195-186236-0021",
+   "text": "NO REPLIED UNCLE JOHN THE MERRICKS ARE OUT OF ELMHURST NOW AND IT RETURNS TO ITS RIGHTFUL OWNERS YOU OWE ME NOTHING MY LAD",
+   "powerline_rec": "FERKO HELPED KINDLY WITH LAUGHTER WHILE WENDY HELD HIS HANDS AND ANIMALS WERE MOVING IN COMFORTABLE CLOTHES OUTSIDE THE AWFUL OFFICE WHERE HE WAS WORKING ON A PROJECT THAT ADVERTISED SUCCESSFUL BREAKFAST AT TWICE THE PRICE",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.06779661016949153,
+    "wer": 1.5
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.125,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "1867-154071-0022",
+   "text": "THE GIRL HESITATED A MOMENT",
+   "powerline_rec": "DALE THOUGHT PLAYING WITH THE DALES' FAMILY ON EVENING AFTER SHAKING HIS HEAD AT THE DEVIL'S BATTLE AGAINST MILES.",
+   "blind_rec": "TOEFL TEST TOES TEST TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL TOEFL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333333,
+    "wer": 3.8
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 4.6
+   }
+  },
+  {
+   "utt_id": "2136-5143-0001",
+   "text": "WITH HER EAR AT THE KEYHOLE OF PAPA'S STUDY",
+   "powerline_rec": "I was startled when someone said something sharp to my head while I was having supper somewhere several fingers were some how missing",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.3
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08695652173913043,
+    "wer": 1.4
+   }
+  },
+  {
+   "utt_id": "1867-148436-0004",
+   "text": "BARD WHO'S HE LOGAN CONSIDERED THE OTHER WITH A SARDONIC SMILE",
+   "powerline_rec": "I prayed for quiet, but nobody died. I was dressed pretty, pitying those who did. Sometimes, someone separated us gently. We sold some stock at a size smaller than usual.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0975609756097561,
+    "wer": 2.3333333333333335
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809525,
+    "wer": 0.9166666666666666
+   }
+  },
+  {
+   "utt_id": "6415-100596-0027",
+   "text": "I BEGIN TO THINK SO MYSELF SAID PATTY THE NEXT MORNING'S MAIL BROUGHT A BUNCH OF VIOLETS AND AN APOLOGY FROM KATE FERRIS",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0625,
+    "wer": 0.9583333333333334
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0625,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "211-122442-0019",
+   "text": "WELL THEN I COUNT ON YOU AT THE APPOINTED HOUR I SHALL BE READY",
+   "powerline_rec": "ADAM FLEW HIS AIRPLANE TO THE EDGE OF THE WORLD WHERE HE FOUND A PROMISED LOTTO WINNING NUMBER THAT WAS FIXED BY HIS FRIEND WHO HASTENED IT WITH IRON AND SPRANG IT ON HIM AT HOUR THREE AM WHEN ADAM'S SOAP COMPANY SOLD THEIR STOCK IN AFRA",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.14285714285714285,
+    "word_f1": 0.14035087719298245,
+    "wer": 3.2857142857142856
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909093,
+    "wer": 0.9285714285714286
+   }
+  },
+  {
+   "utt_id": "2989-138028-0040",
+   "text": "THAT WOULD DO IF IT WAS THE TOOTHACHE MY MASTER HAD",
+   "powerline_rec": "SOMEBODY FORGIVES SOMEONE ELSE FROM CASTLE TO VESSEL, KEEPING IT LEVEL LIKE HYACINTH.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333334,
+    "wer": 1.1818181818181819
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09999999999999999,
+    "wer": 0.9090909090909091
+   }
+  },
+  {
+   "utt_id": "4640-19189-0002",
+   "text": "AND HAD ALLOWED HIMSELF TO INCLINE TO THE BROADENING INFLUENCE OF PROGRESS AND HE HAD COME TO ACCEPT AS A DEFINITIVE AND MAGNIFICENT EVOLUTION",
+   "powerline_rec": "EXPLORER JOHN GATHERED WITH BROTHERS AND WIFE IN THE CORNER OF THE ROOM WHERE EVERYBODY WAS LISTENING TO THE EXPLANATION GIVEN BY REBECCA WHO WAS ADMIRABLELY PRESENTED AS PURE AND DEAR. ALL ENJOYED THE EXPERIENCE.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.2040816326530612,
+    "wer": 1.3333333333333333
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4640-19189-0032",
+   "text": "LET THE READER RECALL THE STATE OF HIS SOUL WE HAVE JUST RECALLED IT EVERYTHING WAS A VISION TO HIM NOW HIS JUDGMENT WAS DISTURBED",
+   "powerline_rec": "THEY LIEUTENANT WAS RETURNING FROM THE HOTEL WHERE HE HAD REPORTED TO BE OPEN AND SPOKE WITH HIS FELLOW SOLDIER WHO STOOD OUTSIDE THE HOTEL AND WHOM HE BELONGED TO. THEY ENJOYED THE RAIN WHILE CRYING OVER SOM",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1509433962264151,
+    "wer": 1.4
+   },
+   "blind": {
+    "content_recall": 0.09090909090909091,
+    "word_f1": 0.1818181818181818,
+    "wer": 0.88
+   }
+  },
+  {
+   "utt_id": "5339-14134-0044",
+   "text": "NO I SHAN'T HE REPLIED SHORTLY LIKING HAS NOUGHT TO DO WITH IT AH YO KNEW NOUGHT ABOUT IT LAST NEET CONTINUED DANIEL MUSINGLY",
+   "powerline_rec": "REPLIES TO HOPES OF RESTING IN THE VALLEY OF SLEEP, WHILE TALKING WITH MIDDLE EEUUPEAN MEN ABOUT THEIR NIGHTS AND WORLDS.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.14285714285714285,
+    "word_f1": 0.13953488372093023,
+    "wer": 0.92
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2136-5143-0016",
+   "text": "HOW SOLEMN MURMURED MADAME WHAT NOBLE TOMB",
+   "powerline_rec": "I KNOW THAT YOU'RE WISE AND GRAND, BUT I'M NOT ALLOWED TO PRAY OR CRY. I'VE BEEN RUNNING FROM THE WHOLE SUMMER LONG.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 3.7142857142857144
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1867-154071-0016",
+   "text": "SHE WORE A BLACK STRAW HAT TURNED BACK FROM HER FACE WITH A SINGLE BIG RED FLOWER AT THE SIDE OF IT",
+   "powerline_rec": "I smiled at my friends, who were playing happily on the farm. We found some salt and thought about our dear henry.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09302325581395349,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13793103448275862,
+    "wer": 0.9545454545454546
+   }
+  },
+  {
+   "utt_id": "1867-148436-0036",
+   "text": "WELL THIS TENDERFOOT HE LOOKS OVER THE HOSS IN THE CORRAL AND SAYS",
+   "powerline_rec": "I showed sooner than expected to look at the chain of events shed some facts about french small smile strong fond smaller",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.05882352941176471,
+    "wer": 1.6153846153846154
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5808-54425-0058",
+   "text": "FINALLY HE FLUNG HER FROM HIM LIKE A RAG AND SANK INTO A CHAIR",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1363-135842-0017",
+   "text": "IT IS BECAUSE THE MOTHERS HAVE BIG POCKETS IN WHICH THEY CARRY THEIR BABIES OLD MISSUS POSSUM HAS JUST SUCH A POCKET",
+   "powerline_rec": "BOTH BROTHERS OF THE NORTHERN PALACE HAVE POWERFUL MANNERS AND ARE WORN WITH GOLD NAMES. THEY RISE TO THE OCCASION AND ARE HELD IN HIGH RESPECT BY ALL. THE BABY WHO IS ALSO A NABOB HAS A PROPER NAME AND IS",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.14285714285714285,
+    "word_f1": 0.25,
+    "wer": 1.6818181818181819
+   },
+   "blind": {
+    "content_recall": 0.07142857142857142,
+    "word_f1": 0.19999999999999998,
+    "wer": 0.9545454545454546
+   }
+  },
+  {
+   "utt_id": "2518-154825-0000",
+   "text": "HOW FEARFUL AND DIZZY TIS TO CAST ONE'S EYES SO LOW I'LL LOOK NO MORE",
+   "powerline_rec": "I HAVE TO STAY AWAY FROM THE FAMILY ON SUMMER DAYS WHEN THEY GO TO THE STATION AND I FEEL SAD ABOUT IT. I TRY NOT TO THINK OF THEM BUT IT'S HARD BECAUSE THEY'RE MY FAVORITE FAMILY. I'M SCARCELY ABLE TO GET OVER THE LOSS",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP FROM THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.14545454545454545,
+    "wer": 2.6470588235294117
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06451612903225808,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "298-126791-0061",
+   "text": "AND BY HIS SYMPATHY SUCCEEDED IN RESTORING THE COLONEL TO HIS OWN GOOD GRACES",
+   "powerline_rec": "THE DUKE SEIZED THE TEETH OF THE PEASANTS FROM THEIR BUSHES AND DESTROYED THE BRANCHES OF THE TREES TO DISTURB THE SEAS.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.20689655172413793,
+    "wer": 1.5
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8629-261139-0036",
+   "text": "HE WITHSTOOD THE CLAMOUR AND BEGAN SPEAKING AGAIN BEFORE THE CORONER HAD BEEN ABLE TO FULLY RESTORE QUIET I KNOW SAID HE",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP FROM THERE.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP FROM THERE.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.11764705882352941,
+    "wer": 0.9545454545454546
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.11764705882352941,
+    "wer": 0.9545454545454546
+   }
+  },
+  {
+   "utt_id": "8108-280354-0014",
+   "text": "NOR MUST YOU ONCE TURN ROUND TO LOOK UPON HER",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08695652173913043,
+    "wer": 1.4
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08695652173913043,
+    "wer": 1.4
+   }
+  },
+  {
+   "utt_id": "2989-138028-0022",
+   "text": "THOSE THAT HAD AN HUMBLE ORIGIN AND ROSE TO THE GREATNESS THEY STILL PRESERVE",
+   "powerline_rec": "YOUR DEGREE IS PREPARED FOR YOU TO BREAKFAST IN DARKNESS UNDER THE ARMY OF MARILLA AT THE CORNER OF LINCOLN AND COUNTESS WHERE QUALITIES ARE PROMISED BY THE PAPERS OF WORSTED WATCHING THE YOUNGER LADY APPROACHING FROM HOME WITH",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.125,
+    "wer": 2.642857142857143
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5808-54425-0043",
+   "text": "THEN HE WENT DIRECTLY TO HER ROOM",
+   "powerline_rec": "THEY ARE GOING TO THE STORE",
+   "blind_rec": "THEY ARE GOING TO THE STORE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.8571428571428571
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.8571428571428571
+   }
+  },
+  {
+   "utt_id": "7505-258958-0025",
+   "text": "OR THAT MEN PERFORM FOR EACH OTHER E G THOSE OF THE SINGER PHYSICIAN TEACHER JUDGE ALL SERVICES THAT DO NOT TAKE ON MATERIAL FORM",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1875,
+    "wer": 0.92
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1875,
+    "wer": 0.92
+   }
+  },
+  {
+   "utt_id": "8629-261139-0064",
+   "text": "IF YOU WANT MY MONEY TAKE IT IF YOU WANT MY LIFE",
+   "powerline_rec": "I AM GOING TO THE HOMESCHOOL TODAY",
+   "blind_rec": "I AM GOING TO THE HOMESCHOOL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5867-48852-0084",
+   "text": "SAID MISSUS DALE THEY SHOULD NOT HAVE LET HIM COME SAID LILY BUT THEY DON'T UNDERSTAND",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE",
+   "powerline": {
+    "content_recall": 0.18181818181818182,
+    "word_f1": 0.19047619047619044,
+    "wer": 0.8823529411764706
+   },
+   "blind": {
+    "content_recall": 0.18181818181818182,
+    "word_f1": 0.19047619047619044,
+    "wer": 0.8823529411764706
+   }
+  },
+  {
+   "utt_id": "4640-19188-0001",
+   "text": "STILL GREAT AS WAS THIS OMNIPOTENCE A MURMUR AROSE",
+   "powerline_rec": "WENDY MARIPOSA WARRIORS MAIN RAIN MAID READING PROGRESS MERCHANT POULTRY POULTRY POULTRY POULTRY POULTRY POULTRY POULTRY POULTRY POULTRY POULTRY POULTRY POULTRY POULTRY POULTRY",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF HE CAN BE REHABILITATED",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.5555555555555554
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.4444444444444444
+   }
+  },
+  {
+   "utt_id": "211-122442-0048",
+   "text": "WHY IT IS INDEED A TRUE ROYAL JEWEL",
+   "powerline_rec": "I'm so interested in these Indians who use their pure pale faces to hide behind useless masks on narrow streets near schools during small storms on hills.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 3.5
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.875
+   }
+  },
+  {
+   "utt_id": "5867-48852-0061",
+   "text": "NO JOHN NO SHE ANSWERED",
+   "powerline_rec": "TO THE HOUSE",
+   "blind_rec": "TO THE HOUSE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2989-138028-0047",
+   "text": "BUT TO COME TO THE POINT WHAT DOES TERESA SAY TERESA SAYS",
+   "powerline_rec": "JOHN GATHERED BOLTS FROM THE BANK TO PROVE JERRY'S CRIED CLAIM THAT HE WAS PAUSED DURING A POLITICAL JUMP IN WHICH BONNY COOK AND BOBBY JOE HAD PLENTY OF PURE CHANCE.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809523,
+    "wer": 2.5833333333333335
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.17391304347826086,
+    "wer": 1.0833333333333333
+   }
+  },
+  {
+   "utt_id": "1867-154071-0032",
+   "text": "SAID GREGG HUSKILY AIN'T THERE THAT'S WHERE YOU AND ME DON'T AGREE",
+   "powerline_rec": "PAPA lifted simply PAPA's sixteen-year-old son instead of waiting on the hill for his Grahams to arrive.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.06060606060606061,
+    "wer": 1.3333333333333333
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7505-83618-0000",
+   "text": "THEIR CULTURE MYTH WHICH HE HAS RECORDED",
+   "powerline_rec": "TO BE HONEST I AM NOT SURE WHAT YOU MEAN BY THAT",
+   "blind_rec": "TO BE HONEST I AM NOT SURE WHAT YOU MEAN BY THAT",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.7142857142857142
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.7142857142857142
+   }
+  },
+  {
+   "utt_id": "39-121914-0001",
+   "text": "VERY FOND OF BOTH DAUGHTERS BUT PARTICULARLY OF EMMA",
+   "powerline_rec": "I EXCLAIM THAT THE BANKS ARE DAZZLINGLY DARK AND I PAUSE TO THINK WHETHER IT IS SAFE TO SLEEP IN THIS CITY.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.4444444444444446
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.6666666666666667
+   }
+  },
+  {
+   "utt_id": "2989-138028-0051",
+   "text": "AND SO LONG AS ONE GAINS SOMETHING THERE IS NOTHING LOST",
+   "powerline_rec": "I WANTED TO PROMISE MY PARENTS I'D KEEP THE CASES SAFE WHEN WE LEFT FOR THE BANK ON OUR WAY HOME FROM THE HOSPITAL WHERE MY CONSCIENCE TOLD ME IT WAS WRONG THAT THEY WERE IN CRISIS AND THE LIGHTNING OF COURSE DIDN'T HELP ANY.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.03773584905660377,
+    "wer": 4.2727272727272725
+   },
+   "blind": {
+    "content_recall": 0.16666666666666666,
+    "word_f1": 0.08333333333333334,
+    "wer": 1.3636363636363635
+   }
+  },
+  {
+   "utt_id": "39-121914-0015",
+   "text": "FOR HAVING BEEN A VALETUDINARIAN ALL HIS LIFE WITHOUT ACTIVITY OF MIND OR BODY",
+   "powerline_rec": "I touched my head to rock the love of knowledge. I seem ashamed at being flung away by fate. I am wearing a large common building. I was sent to camp for the battle.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1395348837209302,
+    "wer": 2.357142857142857
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809523,
+    "wer": 0.9285714285714286
+   }
+  },
+  {
+   "utt_id": "8629-261139-0060",
+   "text": "LAY IN THE GENEROSITY OF THIS GREAT HEARTED WOMAN AND IF OUT OF PUSILLANIMITY",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909093,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909093,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "211-122442-0023",
+   "text": "THE CONVERSATION NATURALLY FELL UPON THE INCARCERATION OF THE POOR MAN",
+   "powerline_rec": "I FELT SORRY FOR THE FAMILY'S EXISTENCE AND ADMINISTRATION BUT THEY WANTED TO STOP THE SECRET SILVER SOAP SALE.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857142,
+    "wer": 1.6363636363636365
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909093,
+    "wer": 1.2727272727272727
+   }
+  },
+  {
+   "utt_id": "6415-100596-0001",
+   "text": "FOR A WHOLE SEMESTER ENTERED UPON HER COLLEGE CAREER IN AN ENTIRELY UNPREMEDITATED AND IMPROMPTU MANNER IT BEGAN ONE DAY AWAY BACK IN NOVEMBER",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8108-274318-0015",
+   "text": "MEMORY OF HIS IDENTITY OF WHERE HE WAS OF WHAT HE OUGHT TO DO THE VERY FOUNDATIONS OF HIS STRENGTH WERE SHAKEN",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY. I HAVE NO IDEA WHERE YOU ARE.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY.",
+   "powerline": {
+    "content_recall": 0.1,
+    "word_f1": 0.06666666666666667,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2136-5143-0015",
+   "text": "IS THERE THE VAULT DEMANDED MADAME EAGERLY I ASSENTED MY FAITH CURIOUS REASON YOU SAY BECAUSE POOR MAMMA IS BURIED THERE YOU WILL NOT APPROACH",
+   "powerline_rec": "BORN DEAR LADY BORE BLUE RIDE",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7059-77900-0039",
+   "text": "OUGHT TO BE TACIT OR EXPLICIT IN THE KISSING AND EMBRACING BETWEEN ROMEO AND JULIET",
+   "powerline_rec": "I AM NOT HOME TODAY",
+   "blind_rec": "I AM NOT HOME TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8108-280354-0011",
+   "text": "THE LIFELESS GHOSTS CAME FLOCKING AND AS THEY HEARD THEY WEPT TANTALUS FORGOT HIS HUNGER AND THIRST",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.16666666666666666,
+    "word_f1": 0.19047619047619044,
+    "wer": 0.9411764705882353
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4640-19188-0040",
+   "text": "AND HE HAD SILENTLY REMOVED HIS COAT AND FLUNG IT ON THE PILE WITH THE REST THE EMOTION AROUSED WAS INDESCRIBABLE",
+   "powerline_rec": "YOU HELPED THE WORST PRIDE CROW DINNER LIVES BUT IT IS NOT COMFORTABLE AND YOU ARE DISTURBED WITH YOUR MISERABLE HEADACHE AND IMAGINE THAT YOU HAVE BEEN DRIVEN TO THE GARDEN WHERE THERE IS A LAMP ON WHICH THERE IS A STORY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.1,
+    "word_f1": 0.1923076923076923,
+    "wer": 1.8571428571428572
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5867-48852-0075",
+   "text": "AND TELLING OF AN AMOUNT OF SUFFERING GREATER EVEN THAN THAT WHICH SHE HAD ANTICIPATED",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8609-283227-0061",
+   "text": "ARE THERE NOT COUNTLESS MODES OF SAYING THE TRUTH YOU HAVE SOME OF THEM I HOPE I HAVE SOME",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.26086956521739135,
+    "wer": 0.8947368421052632
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.26086956521739135,
+    "wer": 0.8947368421052632
+   }
+  },
+  {
+   "utt_id": "2136-5143-0031",
+   "text": "AS HE MADE HIS WILL MY DEAR EVERY MAN SO RICH AS HE ESPECIALLY SO OLD",
+   "powerline_rec": "I HOPE I CAN HELP YOU WITH YOUR WORK ROUND ABROAD. MY UNCLE ASKED ME TO LOOK AFTER HIS OFFICE WHILE HE IS AWAY. I AM SURE THAT THE SPENDING ON SKIN WILL BE MORE THAN WHAT WE EXPECT.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.16666666666666666,
+    "word_f1": 0.16,
+    "wer": 2.3125
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4195-186237-0022",
+   "text": "MAY I SMOKE OF COURSE BUT DON'T SPOIL THE LACE CURTAINS DEAR ANSWERED PATSY MISCHIEVOUSLY",
+   "powerline_rec": "MISTER MEAT WHISPERS THAT BILLY IS LEARNING TO SPEND HIS TIME ON THINGS LIKE HOPPING HORSES AND WATCHING NICE HOTELS. HE FEELS INTERESTED IN THE CAPTAIN'S PAPER CHAPTER.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.044444444444444446,
+    "wer": 1.8125
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08695652173913043,
+    "wer": 0.9375
+   }
+  },
+  {
+   "utt_id": "3374-298026-0008",
+   "text": "AND MADLY LOVING WITHOUT KNOWING IT WHEN MY INNERMOST BEING OVERFLOWED WITH A VAGUE LONGING WHICH IT BREATHED FORTH BUT RARELY IN HALF SUPPRESSED SIGHS",
+   "powerline_rec": "SHIPS SEIZED BY THE TROOPS DIED OF PAINFUL GAZE INTO THE FUTURE WITH HISSELF INSTEAD OF THE HEADS AND SOFT SOAP STIFFENING LIKE GLASS THOUGHTS OF SPACE AND SPEECH BUT STILL REMEMBERED AS FORMS LIKE STEPS INTO THE",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.05555555555555555,
+    "word_f1": 0.11111111111111112,
+    "wer": 1.44
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0625,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7505-258964-0034",
+   "text": "MAY BE RELATIVELY PERMANENT OR TEMPORARY BUSINESS CONDITIONS SOMETIMES CHANGE QUICKLY AN URGENT DEMAND FOR SPECIAL MACHINERY RAISES QUICKLY ITS RENT AND VALUE",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4195-186237-0033",
+   "text": "YOU OUGHT TO BE VERY CONTENTED SIR",
+   "powerline_rec": "I WANT TO READ THE NEWSPAPERS BUT THEY ARE MISERABLE AND DIFFICULT TO UNDERSTAND.",
+   "blind_rec": "THEY ARE GOING TO THE STORE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1,
+    "wer": 1.8571428571428572
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7505-258958-0023",
+   "text": "AND REDUCIBLE TO PSYCHIC INCOME SOME PORTIONS AT LEAST OF THE OBJECTIVE INCOMES OF GOODS ARE CONTINUALLY BY USE BECOMING SUBJECTIVE INCOMES OF ENJOYMENT",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.20689655172413796,
+    "wer": 0.9583333333333334
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.20689655172413796,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "1334-135589-0096",
+   "text": "NAY EDWARD RECOLLECT THAT I HAVE AS EDITH OBSERVED PASSED MY LIFE IN THE WOODS EDWARD WAS MOST KINDLY RECEIVED BY MISTER HEATHERSTONE EDWARD",
+   "powerline_rec": "MARGUERITE WAS ANGRY AT EDWARD WHO PLAYED LIEUTENANT BEHIND THE COMMANDER'S THICK WALLS WHERE ENEMIES KNEW AND SHOWED DIFFERENT SHAPES OF WARSHIP WITH HANDS THAT CARRY SICK SHIP TO DESTROY IN",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.25,
+    "word_f1": 0.18518518518518515,
+    "wer": 1.2916666666666667
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 0.9166666666666666
+   }
+  },
+  {
+   "utt_id": "7505-258964-0042",
+   "text": "AND FAVORABLY LOCATED BUILDING SITES ILLUSTRATE THE SAME PRINCIPLE IN SOME CASES IT IS TRUE THE DEMAND MAY BE DUE TO SOME TEMPORARY CAUSE",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 0.9166666666666666
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 0.9166666666666666
+   }
+  },
+  {
+   "utt_id": "211-122442-0075",
+   "text": "NEITHER OF THEM HAD RETURNED THEIR LACKEYS LIKEWISE WERE ABSENT AND NOTHING HAD BEEN HEARD OF EITHER THE ONE OR THE OTHER",
+   "powerline_rec": "LINCOLN WAS HAVING BREAKFAST WITH JIMMY AND LEIF WHEN HE FEELLED BLOOD FROM HIS HEAD. THE EGGS HAD BEEN EATEN UP TO THIS POINT. SPRANG INTO ACTION AS HE REALIZED SOMETHING WENT WRONG.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.07692307692307693,
+    "word_f1": 0.1568627450980392,
+    "wer": 1.4090909090909092
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07407407407407407,
+    "wer": 0.9545454545454546
+   }
+  },
+  {
+   "utt_id": "4640-19188-0036",
+   "text": "WHICH ONE BEHOLDS IN THE DEPTHS OF HISTORY HOVERING OVER THERMOPYLAE",
+   "powerline_rec": "LINCOLN WELCOMES ESTHER TO HIS HOUSE ON THE ORCHARD WHERE SHE LOOKS AT THE PICTURES AND RECALLS THE INDIAN WAR THAT HAD BEEN ENDING WITH VICTORY FOR THE AMERICANS BUT NOW BEGINS WITH THE BEGINNING OF THE NEW YEAR WHEN",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08888888888888888,
+    "wer": 3.4545454545454546
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333334,
+    "wer": 1.2727272727272727
+   }
+  },
+  {
+   "utt_id": "4195-186238-0025",
+   "text": "EXCEEDINGLY YOU MUST BE NEARLY BANKRUPT BY THIS TIME SAID PATSY ON TUESDAY EVENING IT'S AN EXPENSIVE CITY TO LIVE IN SIGHED UNCLE JOHN",
+   "powerline_rec": "SHOUTED SHE WAS EXPECTING TO SEE SOMETHING IMPORTANT IN THE SPACE SHIP.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.10810810810810811,
+    "wer": 0.96
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06060606060606061,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4195-186238-0015",
+   "text": "BESIDES THE CHECK BOOK WHICH WAS CAREFULLY HIDDEN AWAY IN AN INSIDE POCKET SO THE COST OF THE CAB DID NOT WORRY HIM",
+   "powerline_rec": "DUKE'S DEAR WREN IS BEATING UP THE PRISONER IN THE CASTLE. IT'S BEST TO KEEP AWAY FROM THE DUSTY LAMP.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.09090909090909091,
+    "word_f1": 0.15,
+    "wer": 0.9565217391304348
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.20689655172413796,
+    "wer": 0.9130434782608695
+   }
+  },
+  {
+   "utt_id": "5339-14133-0001",
+   "text": "AND BELL ROBSON THOUGH NOT GETTING WORSE DID NOT MAKE ANY PROGRESS TOWARDS AMENDMENT",
+   "powerline_rec": "I doubt thou knowest of the tender feeling of the chair where the nation's motion nature leads to terror. I fear lest the race will lose its way on this westward watch. He kept his promise but dropped his shoulders when he walked. He gave me papers which contained kindness and conscience.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.034482758620689655,
+    "wer": 3.7857142857142856
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1,
+    "wer": 0.9285714285714286
+   }
+  },
+  {
+   "utt_id": "8629-261139-0030",
+   "text": "INFINITELY MORE THAN ANYONE THERE HAD EXPECTED",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2989-138028-0042",
+   "text": "REPLIED CARRASCO AND WITH THIS THE HOUSEKEEPER RETIRED",
+   "powerline_rec": "MADAME BEAUTIFUL JASPER DROPPED OFFERED ESTHER TO ATTACK HILL ALONE WITH EFFORT",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.16666666666666666,
+    "word_f1": 0.1,
+    "wer": 1.5
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.14285714285714288,
+    "wer": 0.875
+   }
+  },
+  {
+   "utt_id": "7059-88364-0023",
+   "text": "WHEN THE CALIFORNIAN RELEGATES THE DRAMATIC TO SECONDARY SCENES BOTH IN HIS LIFE AND HIS PHOTOPLAY AND TURNS TO THE GENUINELY EPIC AND LYRIC",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14133-0038",
+   "text": "AND I'VE BEEN NEAR NEITHER KITH NOR KIN AS YET AND NOW I'M HERE YOU WON'T SPEAK TO ME I DON'T KNOW WHAT TO SAY",
+   "powerline_rec": "JEFF JUDGE CASE ISLAND ENEMIES THICK SLEPT SHUT SPEAKING STREET JUDGMENT THICK SLEPT SHUT SPEAKING STREET JUDGMENT",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE BUT AT HOME",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5867-48852-0054",
+   "text": "I WAS ALWAYS FOND OF WALKING HE SAID",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4640-19187-0019",
+   "text": "HARMODIUS AND ARISTOGITON BRUTUS CHEREAS STEPHANUS CROMWELL CHARLOTTE CORDAY SAND HAVE ALL HAD THEIR MOMENT OF AGONY WHEN IT WAS TOO LATE",
+   "powerline_rec": "HENRY WAS PITYING THE FAMILIES OF THIRTY DEATHS IN THE GENTLEMAN'S BUSY SUMMIT WHERE HE FOUND CORONEL BELL WHOSE MIND WAS COVERED WITH WHATEVER SHE HAD LOST. THE WOMAN ENTERED HER HOUSE TO FIND AN",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.10909090909090909,
+    "wer": 1.5909090909090908
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1363-135842-0008",
+   "text": "AM I A WHAT HE DEMANDED",
+   "powerline_rec": "CANADIAN FARMER WHATEVER FARMS PLAINLY",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "3374-298026-0005",
+   "text": "I REMEMBER EVERYTHING EVEN THE GRIEFS AND ALL MY THOUGHTS THAT HAVE BEEN AND ARE TO BE",
+   "powerline_rec": "PRISCILLA OPENED THE PACKAGE FROM HYACINTH AND UNDERSTOOD THAT SHE HAD SPENT HER WEEKEND ON AN INNOCENT AFFAIR WITH A MAN WHO WAS STOPPING BY TO OBTAIN SOAP FOR HIS CHANCE OF WINNING SOMETHING IMPORTANT.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE",
+   "powerline": {
+    "content_recall": 0.125,
+    "word_f1": 0.1568627450980392,
+    "wer": 1.9411764705882353
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.18181818181818182,
+    "wer": 0.9411764705882353
+   }
+  },
+  {
+   "utt_id": "7067-76048-0027",
+   "text": "BUT CONTROLLING FATHER AS DISTINGUISHED FROM MANAGING HIM SHE REVIEWED SOME PRIVATE AND AMUSING MEMORIES HE IS A MOST INTRACTABLE MAN SECTION THREE",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14133-0021",
+   "text": "IS HE HERE AGAIN SAID PHILIP I DIDN'T SEE HIM WHAT BRINGS HIM HERE",
+   "powerline_rec": "THE DUKE BOWED AND THEN DARED TO ENTER THE DARK NIGHT WITH HIS COATED PIPE AT HEIGHT",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.1333333333333333
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1,
+    "wer": 0.9333333333333333
+   }
+  },
+  {
+   "utt_id": "5322-7680-0017",
+   "text": "I AM A CADET BUT HAVE BEEN RECOMMENDED FOR A COMMISSION WELL IF YOU'RE NOT BRAGGING ABOUT YOUR HOME",
+   "powerline_rec": "THEY GATHERED PASSENGERS ON THE OCEAN TO FISH IN ADVANCE OF THE BATTLE WITH THE GOVERNMENT.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07407407407407407,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5808-54425-0035",
+   "text": "YES HE DOES A DRUNKEN MAN TELLS THE TRUTH IN SOME CASES SAID SADNESS OH LET ME ALONE MAN",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.9473684210526315
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.9473684210526315
+   }
+  },
+  {
+   "utt_id": "4680-16026-0005",
+   "text": "SHE REMAINED THUS FOR MORE THAN AN HOUR WITHOUT STIRRING AND WITHOUT BREATHING A PREY TO HER THOUGHTS",
+   "powerline_rec": "FRANCIS CROW FELL TALL HUNG ON THE WALL AMONG BEAUTY DICK DALE SPOT ORDER STOCK FRANCE ROMANPEARL HOLE POCKET STERLINGWARE SNOW HOLLOW CROW CALL HANGING ON THE WALL AMONG BEAUTY DICK DALE SPR",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.8333333333333333
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "211-122442-0042",
+   "text": "NOW LET US TALK ABOUT YOURSELF MY YOUNG FRIEND",
+   "powerline_rec": "MISTER LISTEN TO YOURSELF LOSE LOVE GONE BLOOD HOLE FOLKS WENT DEMAND QUICK",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.2,
+    "word_f1": 0.09090909090909093,
+    "wer": 1.4444444444444444
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.6666666666666667
+   }
+  },
+  {
+   "utt_id": "3879-174923-0070",
+   "text": "I HAVE TOLD PAPA THAT I SHOULD ASK YOU AND HE WOULD BE DELIGHTED",
+   "powerline_rec": "SURELY PICKED THE PAPER CHAPTER TAKES HIM TO ATTACK THE HORSE WITH LIGHT",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5867-48852-0108",
+   "text": "WILL BE A CONSOLATION WHEN YOU ARE AS OLD AS I AM IT IS SOMETHING TO HAVE HAD A HEART",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.07692307692307691,
+    "wer": 0.95
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07692307692307691,
+    "wer": 0.95
+   }
+  },
+  {
+   "utt_id": "39-121914-0055",
+   "text": "ASK HIM TO COME AND DINE WITH US SOME DAY",
+   "powerline_rec": "I am seeing the king of thousands pleased to die",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.10000000000000002,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.25,
+    "word_f1": 0.17391304347826086,
+    "wer": 1.3
+   }
+  },
+  {
+   "utt_id": "39-121914-0037",
+   "text": "I AM AFRAID I AM SOMETIMES VERY FANCIFUL AND TROUBLESOME MY DEAREST PAPA",
+   "powerline_rec": "I FORGET TO PREPARE FOR THE COUNTESS'S REACHING OF THE BRANCH ONCE I HAVE OPENED THE FORTUNE AND CONDITION IS SPECIAL AT MIDNIGHT WHEN SHE STARTS PLAYING IN THE CAMP WHERE SHE FEELS MORE SAFE THAN ANYWHERE ELSE.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08888888888888888,
+    "wer": 2.769230769230769
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.2222222222222222,
+    "wer": 0.8461538461538461
+   }
+  },
+  {
+   "utt_id": "8629-261139-0028",
+   "text": "DID FREDERICK MOVE FORWARD THE MOMENT WAS INTENSE THE CORONER SEEMED TO SHARE THE UNIVERSAL EXCITEMENT",
+   "powerline_rec": "I'M IN THE KITCHEN TO MAKE BREAKFAST FOR MY FAMILY.",
+   "blind_rec": "I'M IN THE KITCHEN TO MAKE BREAKFAST FOR MY FAMILY.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.16,
+    "wer": 0.9375
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.16,
+    "wer": 0.9375
+   }
+  },
+  {
+   "utt_id": "4195-186236-0011",
+   "text": "WAS MADE SUBSEQUENT TO THE ONE UNDER WHICH JANE MERRICK INHERITED AND THEREFORE SUPERCEDES IT",
+   "powerline_rec": "I WENT TO THE CAF\u00c9 WITH MY FRIENDS AND WE ORDERED SOME COFFEE. THEN I MET UP WITH HIM AGAIN AT THE PARK WHERE HE WAS PLAYING FOOTBALL. AFTER THAT, I HAD A FEW MEALS IN THE RESTAURANT AND SAW MANY PEOPLE THERE. ON",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1509433962264151,
+    "wer": 2.8
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809522,
+    "wer": 0.9333333333333333
+   }
+  },
+  {
+   "utt_id": "39-121914-0009",
+   "text": "HOW SHE HAD DEVOTED ALL HER POWERS",
+   "powerline_rec": "THEY PAUSED TO COUNT THE GRASS ON THEIR TONGUE.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.2857142857142858
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7067-76048-0009",
+   "text": "SIR RICHMOND AND MISS GRAMMONT HAD WALKED ROUND THE OLD CIRCUMVALLATION TOGETHER BUT BELINDA SEYFFERT HAD STRAYED AWAY FROM THEM PROFESSING AN INTEREST IN FLOWERS",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.125,
+    "wer": 0.96
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.125,
+    "wer": 0.96
+   }
+  },
+  {
+   "utt_id": "3879-174923-0072",
+   "text": "THOUGH HE COMPLAINS IN MARCH WE MOVE DOWN SOUTH FOR A COUPLE OF MONTHS DO COME IF YOU CAN MOST SINCERELY YOURS LAURA KENNEDY",
+   "powerline_rec": "BINGLEY STOOD TOGETHER WITH PEOPLE IN THE TEMPLE, HEARTS SURROUNDED BY LIGHT AND LOVE. HE LIVED HIS LIFE LIKE A BIBLE STORY, BUT DIED A DEATH OF MADAME HUNG ON A TREE.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.14814814814814814,
+    "wer": 1.2916666666666667
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14133-0022",
+   "text": "I WISH I'D SEEN HIM SAID COULSON",
+   "powerline_rec": "I fell slightly hurt while drawing safety diagrams for the first time this century.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809523,
+    "wer": 1.625
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.875
+   }
+  },
+  {
+   "utt_id": "2989-138028-0065",
+   "text": "WHO THE PANZAS FROM WHOM I AM DESCENDED WERE AND WHAT IS MORE I KNOW AND HAVE LEARNED",
+   "powerline_rec": "CAPTAIN WAS INQUIRED BY PROFESSOR ABOUT REBECCA'S MARRYING TO THE GAME READY AND TAKEN ABROAD WITH RATE OF DELAY",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.11111111111111112,
+    "wer": 1.1111111111111112
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333333,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14134-0051",
+   "text": "I'LL RECKON TO HEAR FRO THEE IN A WEEK OR MAYHAP LESS",
+   "powerline_rec": "EVERYONE'S MAMMA LOOKED THROUGH THE EYES OF ANYONE WHO WAS ROLLING ON THE DECK WHEN THEY ENDED THEIR HUNTING EFFORT AND WALKED WITH ANIMALS LIKE MARIPASOAS THAT HAVE LARGE NECKS TO PROTECT THEM FROM THOSE EVID",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.04081632653061225,
+    "wer": 2.8461538461538463
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1,
+    "wer": 0.9230769230769231
+   }
+  },
+  {
+   "utt_id": "7505-83618-0019",
+   "text": "NOR DOES IT CEASE HERE MICHABO I HAVE SHOWN IS THE WHITE SPIRIT OF THE DAWN VIRACOCHA ALL AUTHORITIES TRANSLATE",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO OUT NOW.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.08333333333333333,
+    "word_f1": 0.1935483870967742,
+    "wer": 0.95
+   },
+   "blind": {
+    "content_recall": 0.08333333333333333,
+    "word_f1": 0.19999999999999998,
+    "wer": 0.95
+   }
+  },
+  {
+   "utt_id": "8098-278278-0033",
+   "text": "THAT WAS MY EXPERIENCE IN THE WOODS OF WISCONSIN THE MEN AT THE SAW MILL SAID WE SHOULD SEE BEAR IN THIS FOREST",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.21428571428571425,
+    "wer": 0.8695652173913043
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.21428571428571425,
+    "wer": 0.8695652173913043
+   }
+  },
+  {
+   "utt_id": "8629-261139-0041",
+   "text": "THE TIDE WAS UP AND OVER SWEPT EVERYTHING FOR AN INSTANT",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333334,
+    "wer": 1.2727272727272727
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333334,
+    "wer": 1.2727272727272727
+   }
+  },
+  {
+   "utt_id": "2989-138028-0035",
+   "text": "AT THIS MOMENT THERE CAME A KNOCKING AT THE DOOR",
+   "powerline_rec": "HENRY'S MOTHER AND JIMMY LOOK AT THE BOOKS ON HIS HIDEOUT Hill",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.18181818181818185,
+    "wer": 1.2
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1111111111111111,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5808-54425-0038",
+   "text": "YOU RE DISAPPOINTED ARE N'T YOU I CONFESS I AM DISAPPOINTED",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1111111111111111,
+    "wer": 0.9166666666666666
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1111111111111111,
+    "wer": 0.9166666666666666
+   }
+  },
+  {
+   "utt_id": "211-122442-0031",
+   "text": "AND WE ARE GOING TO BE RECOMPENSED FOR OUR DILIGENCE CONTINUED THE MERCER",
+   "powerline_rec": "YOU DARED TO PASS THRU THE CIRCUMSTANCES OF YOUR DAUGHTERS AND INDIA'S COUNTESS TALKING IN THE DISTANT GARDEN WITH HIMSELF OR HERSELF AND HE WAS AWFUL AT IT ALL.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.14634146341463414,
+    "wer": 2.230769230769231
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7505-258958-0030",
+   "text": "BUT A SIMILAR DISTINCTION IS INCONSISTENTLY PRESERVED BY MANY WRITERS IN THE CASE OF MATERIAL THINGS A BUILDING USED AS A FACTORY IS CALLED PRODUCTIVE",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14134-0035",
+   "text": "SHE HASTILY GOT UP AND LEFT THE ROOM",
+   "powerline_rec": "YOU HASTILY DROPPED THE RICH MONTH LINE LIKE YOUR HOPEFUL HONOR.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.3333333333333333,
+    "word_f1": 0.2105263157894737,
+    "wer": 1.25
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809525,
+    "wer": 1.875
+   }
+  },
+  {
+   "utt_id": "1867-154071-0035",
+   "text": "NOT YOU BILL YOU'RE GOING TO BUCK UP AND GO AHEAD FULL STEAM",
+   "powerline_rec": "I WILL TAKE HELP QUICK TO ADMIT THE EVENT AND COST TWICE MORE THAN BEFORE. I WILL BEND MY SKIN AND SPREAD IT OUTSIDE. I WILL GATHER THE BOAT AND FOLLOW THE BLOW. I WILL TAKEN IDEA FROM THIS.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809525,
+    "wer": 2.7142857142857144
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2989-138028-0048",
+   "text": "AND SO SAY I SAID DON QUIXOTE CONTINUE SANCHO MY FRIEND GO ON YOU TALK PEARLS TO DAY THE FACT IS CONTINUED SANCHO",
+   "powerline_rec": "PATSY AND MARGUERITE ARE TRUE FRIENDS WHO HAVE BEEN PRISONERS OF WAR FOR YEARS. THE CAPTAIN IS ALSO A TRUE FRIEND WHO HAS BEEN THROUGH MUCH PAIN.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.1,
+    "word_f1": 0.17391304347826086,
+    "wer": 1.1304347826086956
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06896551724137931,
+    "wer": 0.9565217391304348
+   }
+  },
+  {
+   "utt_id": "2136-5143-0029",
+   "text": "BUT STILL YOU KNOW YOUR FATHER IS OLD MAN",
+   "powerline_rec": "I AM GIVING THE FINGER TO THAT UNUNITED GARDEN WITH REALLY GREY WOOD DOOR",
+   "blind_rec": "THEY ARE GOING TO THE STORE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.5555555555555556
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1363-135842-0003",
+   "text": "ON HIS WAY THROUGH THE GREEN FOREST HE PASSED A CERTAIN TREE HE WAS JUST PAST AND NO MORE WHEN A FAMILIAR VOICE HAILED HIM",
+   "powerline_rec": "I WAS WORRIED THE POLICE COULD HAVE BEEN WRONG ABOUT ME BEING ABROAD AND I HAD TO GIVE THEM MY VOICE TONE ONCE AGAIN AFTER THEY PAUSED THEIR QUESTIONS. I SAW SOMEONE CAST GLANCES AT ME FROM THE BATHROOM WINDOW WHEN I WAS IN",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.15384615384615385,
+    "word_f1": 0.16393442622950818,
+    "wer": 1.76
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06451612903225806,
+    "wer": 0.96
+   }
+  },
+  {
+   "utt_id": "2136-5143-0038",
+   "text": "YOU DO KNOW EVERYTHING OF COURSE",
+   "powerline_rec": "YOU ARE UNAWARE OF EVERYTHING YOU WATCH ON THE FOREST COAST, HELPING US.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.3333333333333333,
+    "word_f1": 0.3333333333333333,
+    "wer": 1.8333333333333333
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1363-135842-0009",
+   "text": "REPEATED PETER AH RECKONS AH MIGHT BE IF AH KNEW WHAT IT WAS BUT AS LONG AS AH DON'T",
+   "powerline_rec": "ADAM SMILED AS HE TOOK THE BOOK FROM THE BANK AND STARTED ADDING NUMBERS TO THE RING. THE GRAY WREN WAS WAITING AT THE WINDOW.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1081081081081081,
+    "wer": 1.25
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "211-122442-0050",
+   "text": "HER MAJESTY DID ME THE HONOR TO GRANT ME THAT FAVOR AND THAT IN THE PRESENCE OF WITNESSES IMPRUDENT THRICE IMPRUDENT",
+   "powerline_rec": "HE SMILED AT HER AS SHE PAUSED TO THINK ABOUT THE SUMMIT OF HIS MENTAL CAST UNDERSTANDING THAT HE WAS NOT UNDERSTOOD BY HER BUT HERSLEF THOUGH HE DIDN'T KNOW WHAT IT MEANED SO HE TALKED MORE AND MORE UNTIL HE REALIZED",
+   "blind_rec": "THEY ARE NOT GOING TO THE HOSPITAL TODAY",
+   "powerline": {
+    "content_recall": 0.18181818181818182,
+    "word_f1": 0.22222222222222227,
+    "wer": 1.9047619047619047
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15999999999999998,
+    "wer": 0.9047619047619048
+   }
+  },
+  {
+   "utt_id": "2136-5143-0032",
+   "text": "THERE IS NO NEED OF HASTE MADAME IT IS QUITE TIME ENOUGH WHEN HIS HEALTH BEGINS TO FAIL",
+   "powerline_rec": "LEIF WAS PREPARED TO FACE THE TERROR OF KILLING HIS FARMER FRIEND WHEN HE MET WITH THE SERVANT WHO HAD BURST INTO HIS HOUSE AND ADMITTED THAT HIS FAMILY WAS IN NEED OF HELP.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.18181818181818182,
+    "word_f1": 0.2173913043478261,
+    "wer": 1.7777777777777777
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8108-280354-0013",
+   "text": "AND SHE CAME YET HALTING FROM HER RECENT WOUND TAKE HER SAYS PLUTO AND LEAD HER BACK TO THE LIGHT",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857142,
+    "wer": 0.95
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857142,
+    "wer": 0.95
+   }
+  },
+  {
+   "utt_id": "4640-19188-0012",
+   "text": "WHO SING AND PRATTLE WHO ARE LIKE A LIVING PERFUME WHO PROVE THE EXISTENCE OF ANGELS IN HEAVEN BY THE PURITY OF VIRGINS ON EARTH",
+   "powerline_rec": "THE QUEEN WORE THE TEMPLE TOWARD THE WINDOW AND READ THE PICTURE IN THE FLOOR OF THE NARROW ROOM WHERE SHE HAD BEEN BORN. SHE SLEPT WITHIN THE LOWER LIMB OF THE TREE THAT WASN'T THERE YESTERDAY BUT NOW SHONE LIKE",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.08333333333333333,
+    "word_f1": 0.18518518518518517,
+    "wer": 1.52
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.20689655172413796,
+    "wer": 0.88
+   }
+  },
+  {
+   "utt_id": "1841-179183-0038",
+   "text": "AND THEY LEARNED THEIR CUNNING FROM THE WISE HAND OF ANOTHER WHICH ITSELF GUIDED BY IMAGINATION LED ME SAFELY IN PATHS THAT I KNEW NOT",
+   "powerline_rec": "he shot himself in the head",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.12903225806451613,
+    "wer": 0.96
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1111111111111111,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2136-5143-0007",
+   "text": "WITH A BRANDY BOTTLE UNDER HER APRON STEALING UP STAIRS",
+   "powerline_rec": "BOBBY STARTED FIGHTING THE STRONG STERN SPRANG AND SPREAD HIS ENJOYABLE ANSWER AT HOME IN CANADIAN GENERAL DAILY GENTLY BROTHER'S THOUGHTS",
+   "blind_rec": "I AM GOING TO THE HOMESCHOOL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.2
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1867-154071-0002",
+   "text": "HERE THEY TOOK UP THE VIGIL",
+   "powerline_rec": "I felt true that I had slept in a castle and observed something passing through a natural vessel.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 3.0
+   },
+   "blind": {
+    "content_recall": 0.25,
+    "word_f1": 0.3333333333333333,
+    "wer": 0.8333333333333334
+   }
+  },
+  {
+   "utt_id": "39-121916-0028",
+   "text": "MISSUS BATES LET ME PROPOSE YOUR VENTURING ON ONE OF THESE EGGS AN EGG BOILED VERY SOFT IS NOT UNWHOLESOME",
+   "powerline_rec": "I waited beneath my mother's house to listen to Jason seek faces of soldiers who wished east for a picture of handsome aunt seeking eggs of facts of fortune.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY.",
+   "powerline": {
+    "content_recall": 0.09090909090909091,
+    "word_f1": 0.08695652173913043,
+    "wer": 1.45
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07407407407407408,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4195-186238-0000",
+   "text": "CHAPTER TWENTY FIVE UNCLE JOHN ACTS QUEERLY",
+   "powerline_rec": "I Picked The Advice Book To Give You Part Of It. I Want To Break Into Politics And Enter Abroad. I Have To Forget My Upper Arm. I Need To Open The Coats Or Bills. I Should Go To The Edge Of Darkness With Enemies.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 6.428571428571429
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4640-19187-0031",
+   "text": "THEY DIVIDED THE DAY WHICH WAS AT HAND INTO THREE DISTINCT PHASES",
+   "powerline_rec": "THE COUNTESS RETURNED FROM THE HOUSES WITH HUNDREDS OF PEARLS TO AN UNCLE WHO WAS REGARDING HIS VIRTUE AS ALLOWED TO BE PROVIDED BY HIS CARRYING AND JOINED BOUND TOWARDS THE DRAWN CARVING OF A PICTURE.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09302325581395349,
+    "wer": 2.8333333333333335
+   },
+   "blind": {
+    "content_recall": 0.125,
+    "word_f1": 0.16,
+    "wer": 1.0833333333333333
+   }
+  },
+  {
+   "utt_id": "39-121915-0033",
+   "text": "BUT STILL THE CAKE WAS EATEN AND THERE WAS NO REST FOR HIS BENEVOLENT NERVES TILL IT WAS ALL GONE",
+   "powerline_rec": "she watched herself come out of the dark place to talk about her degree she dressed up in peculiar clothes she threw on boots she lost her tongue she caught a group problem",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.043478260869565216,
+    "wer": 1.6
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.95
+   }
+  },
+  {
+   "utt_id": "1334-135589-0093",
+   "text": "THAT WILL BE EXPLANATION SUFFICIENT I SHALL MEET HIM AS ONE WHOM I SHALL ALWAYS REVERE",
+   "powerline_rec": "MAID SLEPT SIXTY AND BEAT THE LIGHT OUT OF HIM WITH HIS MAIDEN HANDS.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857142,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2989-138028-0030",
+   "text": "I AM THEREFORE IN A MEASURE CONSTRAINED TO FOLLOW THAT ROAD",
+   "powerline_rec": "MISTER LORD, PLEASE EXPLAIN TO ME HOW THE BARE WOUND ON LORD'S BODY HAS BECOME WIDOW THOU'S BITTER KNOWING THAT IT WAS RECEIVED EXTREMELY RAPIDLY.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.16666666666666666,
+    "word_f1": 0.1111111111111111,
+    "wer": 2.3636363636363638
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333334,
+    "wer": 1.3636363636363635
+   }
+  },
+  {
+   "utt_id": "5339-14133-0054",
+   "text": "WE'N BEST KEEP THIS MATTER TO OURSELVES TILL THOU COMES INT PORT AGAIN",
+   "powerline_rec": "I HAVE SPEAKEN TO HASTED FAMILY IN THE FOREST. I HAVE SPOTTED A WORTHLESS INSTANCE OF DANCING. WE HAVE STOPPED AND SPOKE WITH BINGLEY. WE HAVE BEEN MOVED BY HIS KINDNESS. WE HAVE DISCUSSED OUR MORAL POINTS.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909091,
+    "wer": 2.5714285714285716
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "6415-100596-0019",
+   "text": "PRISCILLA DECLARED SHE'S MADE ME SO MUCH TROUBLE THAT I'M CURIOUS TO SEE WHAT SHE LOOKS LIKE SHE DID ASK FRAEULEIN SCHERIN",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY. I HAVE NO IDEA WHERE YOU ARE.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE NO IDEA WHERE YOU ARE.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.05714285714285715,
+    "wer": 0.9583333333333334
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.05714285714285715,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "211-122442-0064",
+   "text": "YOU ARE ACQUAINTED WITH THE SCRIPTURES",
+   "powerline_rec": "SIMPLY STUPID SPECIAL FORTUNE SKIN APPEARED TO WORK ME",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.5
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.3333333333333333,
+    "wer": 0.6666666666666666
+   }
+  },
+  {
+   "utt_id": "3374-298025-0032",
+   "text": "FOR ONCE WE KNOW TO A CERTAINTY THAT WE LIVE IN A MOST BEAUTIFUL WORLD THE NEXT NEED IS OBVIOUS",
+   "powerline_rec": "I CAN'T BELIEVE THE SHIP WAS CHARGED WITH BELL AND SMILE ON HILL STREET IN DIFFERENT CITIES LIKE THIS. I SEE THAT IT'S NOT JUST A SIMPLE SEARCH FOR THINGS BUT ALSO ABOUT THE CHARGE OF THE SHIP. SOMETHING IS WRONG HERE. I",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.09090909090909091,
+    "word_f1": 0.20689655172413793,
+    "wer": 2.05
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.9
+   }
+  },
+  {
+   "utt_id": "2989-138028-0044",
+   "text": "ONCE OR TWICE AS WELL AS I REMEMBER REPLIED SANCHO",
+   "powerline_rec": "EDWARD WORE HIS ATTITUDE AS SUNSHINE TO SUPPORT COMPLETING THE AFFAIR AFTER REMEMBERING THAT HE SPENT TIME FORGETTING AN EDWARD'S WORD.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.06666666666666667,
+    "wer": 2.1
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1867-154075-0014",
+   "text": "YOU SHOW HIM THAT IT IS POSSIBLE",
+   "powerline_rec": "I think I might have been thinking of gradually personal possibilities.",
+   "blind_rec": "TO THE HOUSE WE GO TO HOME",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.5714285714285714
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "6415-111615-0006",
+   "text": "A GUARANTEED CIRCULATION GETTER SAID HUMORIST CAN ALSO SUPPLY EXCELLENT VEINS OF PHILOSOPHY POETRY SATIRE UPLIFT GLAD MATERIAL AND INDISCRIMINATE MUSINGS",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "39-121914-0056",
+   "text": "I DARE SAY MISTER KNIGHTLEY WILL BE SO KIND AS TO MEET HIM",
+   "powerline_rec": "PERCEVAL LISTENED TO THE GENTLEMAN WHO HOPED TO ENTER THROUGH THE DUKE'S DOOR INTO THE GATE OF THE GOVERNMENT BUILDING WHERE HE WAS LOOKING FOR A USEFUL ITEM COVERED WITH PEARLS THAT WANTED TO BE RECEIVED BY THE HEAD OF THE",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0851063829787234,
+    "wer": 3.1538461538461537
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07692307692307693,
+    "wer": 1.1538461538461537
+   }
+  },
+  {
+   "utt_id": "5339-14134-0028",
+   "text": "SAID COULSON HE'S SENT FOR",
+   "powerline_rec": "TEACHER SANK THE SOAP IN THE KITCHEN TO SEEK HELP FROM HIS CONSEIL.",
+   "blind_rec": "THEY ARE GOING TO THE STORE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.1666666666666665
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4680-16026-0009",
+   "text": "THE FIRST TO ARRIVE AT THE GARDEN RAILING HALTED AND WAITED FOR THE OTHERS",
+   "powerline_rec": "FERKO BARBARA WAS SMILING IN THE GARDEN AFTER FEASTING WITH ANGRY ANIMALS AT PRIVATE BURIED HEADQUARTERS OF THE SMALLER GOVERNMENT'S PROPER SUPPER.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.14285714285714285,
+    "word_f1": 0.1764705882352941,
+    "wer": 1.4285714285714286
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.10526315789473685,
+    "wer": 0.9285714285714286
+   }
+  },
+  {
+   "utt_id": "39-121915-0031",
+   "text": "BUT NEVER DID SHE GO WITHOUT MISTER WOODHOUSE'S GIVING A GENTLE SIGH AND SAYING AH POOR MISS TAYLOR SHE WOULD BE VERY GLAD TO STAY",
+   "powerline_rec": "I should thank my soul for lifted progress.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1867-154071-0040",
+   "text": "HE'S THE ONE WHO'S KEPT HER IN THAT HOUSE",
+   "powerline_rec": "GLANCED AT THE EVENTS ON HIS LIVES AND GLANCED AT THE GOODS ON HIS STOPS AND FIGHTED FOR HIS BILL IN SPACE",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.16,
+    "wer": 1.9090909090909092
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08695652173913043,
+    "wer": 1.2727272727272727
+   }
+  },
+  {
+   "utt_id": "211-122442-0017",
+   "text": "AH LIKE THE CHARMING JOURNEY THE OTHER DAY",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.875
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.875
+   }
+  },
+  {
+   "utt_id": "39-121914-0003",
+   "text": "THESE WERE THE DISADVANTAGES WHICH THREATENED ALLOY TO HER MANY ENJOYMENTS THE DANGER HOWEVER WAS AT PRESENT SO UNPERCEIVED",
+   "powerline_rec": "LORD ALARM HORROR DARKNESS STEPS JUNE FISHING STONES LADY RETURNS TO DESK HAST HEADS LIKE Jane IS EASY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.05555555555555555,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08,
+    "wer": 0.9473684210526315
+   }
+  },
+  {
+   "utt_id": "3374-298025-0009",
+   "text": "A SUBTLE FIRE FLOWED THROUGH MY VEINS",
+   "powerline_rec": "THANK YOU FOR THE BREAD AND SOAP. I AM SOMETIMES FOND OF YOUR ADAMANT BEHAVIOR. IT'S LIKE HEAVEN TO HAVE SUCH A WISE MIND IN MY THROAT.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1142857142857143,
+    "wer": 3.857142857142857
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4640-19188-0004",
+   "text": "ENTERED THE TAP ROOM THEY EMERGED THENCE A MOMENT LATER",
+   "powerline_rec": "EDWARD SMILED AS HE TOLD THE ENGLISHMAN ABOUT HIS ENGAGEMENT TO MARY IN PARIS AT THE PALACE WHERE THEY WERE TO BE WED. BUT IT WAS ALL FOR NOTHING. THE BESPOKE CARROTS HAD BEEN MADE OF BUTTER AND THE EYES OF HORSES",
+   "blind_rec": "I AM GOING TO THE HOMESCHOOL TODAY",
+   "powerline": {
+    "content_recall": 0.14285714285714285,
+    "word_f1": 0.0851063829787234,
+    "wer": 4.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.11764705882352941,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "39-121914-0047",
+   "text": "IF YOU HAVE BEEN ENDEAVOURING FOR THE LAST FOUR YEARS TO BRING ABOUT THIS MARRIAGE A WORTHY EMPLOYMENT FOR A YOUNG LADY'S MIND",
+   "powerline_rec": "DALE WILLIAM'S BABY IS DOING WELL AND THE DALE FAMILY HAS GATHERED TO EXPLAIN THEIR EXPERIENCE WITH POOR MIDDLE CLASS LIVES IN NOISEY ROOMS WHERE JOHN POWER TAKES TIME TO LAUGH ABOUT MONEY AND GIVE ADVICE ON HOW TO HANDLE DEVIANTS",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.06666666666666667,
+    "word_f1": 0.13333333333333333,
+    "wer": 1.6666666666666667
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06666666666666667,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "6415-111615-0036",
+   "text": "HE FINDS THAT HIS MOST AUGUST MUSINGS HAVE A HABIT OF STEWING THEMSELVES DOWN TO SOME FEROCIOUS OR JOCULAR THREE LINE COMMENT",
+   "powerline_rec": "THEY ARE NOT GOING TO THE HOSPITAL TODAY",
+   "blind_rec": "THEY ARE NOT GOING TO THE HOSPITAL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.06666666666666667,
+    "wer": 0.9545454545454546
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06666666666666667,
+    "wer": 0.9545454545454546
+   }
+  },
+  {
+   "utt_id": "211-122442-0071",
+   "text": "AH YOUNG MAN YOUNG MAN SOME FLIRTATION OR OTHER",
+   "powerline_rec": "I'M NOT SURE IF I'LL BE ABLE TO GET THERE IN TIME FOR THE MEETING.",
+   "blind_rec": "THEY ARE GOING TO THE STORE TO BUY CHOCOLATE COATED CANDIES",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.8888888888888888
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.2222222222222223
+   }
+  },
+  {
+   "utt_id": "1363-135842-0007",
+   "text": "UNC POKED HIS HEAD A LITTLE FARTHER OUT AND PUT HIS HAND BEHIND HIS EAR AS IF HE WERE A LITTLE HARD OF HEARING",
+   "powerline_rec": "RALPH WALKED HIS FRIEND'S BELL TO THE MONEY ROAD WHERE HE MET LEIF WHO WAS PARTLY BROKE AND HAD BEEN SEPARATED FROM HIS FRIENDS FOR SOME TIME WHEN HE SAW A QUEER MAN WITH HORROR AT THE WALL WHERE THERE WAS A SPOT OF WHITE blood on",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.16129032258064516,
+    "wer": 1.75
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "39-121915-0023",
+   "text": "I SUPPOSE YOU HAVE HEARD OF THE HANDSOME LETTER MISTER FRANK CHURCHILL HAS WRITTEN TO MISSUS WESTON",
+   "powerline_rec": "MISS RACHEL WAS MAKING LAUGHING IN THE KITCHEN WHEN SHE SAW SOMEONE DRESSED IN FANCY CLOTHES AND HELD A BOOK. AS THEY LEFT, SHE HAD TO RUN QUICKLY BECAUSE OF THE LOVELY WIFE WHO WAS WATCHING FROM THE",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.12000000000000001,
+    "wer": 2.1176470588235294
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.9411764705882353
+   }
+  },
+  {
+   "utt_id": "2514-149482-0085",
+   "text": "AS OCEAN CURRENTS THE HUDDLED HERD HAD DRIFTED TO HER BLINDLY IT MIGHT AS BLINDLY HAVE DRIFTED AWAY",
+   "powerline_rec": "Polly fell according to terms of france's church spirits during july when polly lived at the gate. she danced for days under the rain. she directed her gaze towards the wall where there was a paper master who was wretched. whenever tony would come he would be glad.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.10344827586206895,
+    "wer": 2.611111111111111
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08695652173913045,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14133-0053",
+   "text": "MISCHIEF ONLY KNOWS BUT SHE'S NOAN KEEN ON MATTERIMONY",
+   "powerline_rec": "MISTER PERCEIVED THE MISTLETOE LATER IN THE MONTHS WHEN THE WALLS FELL AND THE MOUSE KILLED THE BLUE RODE PLAINLY THROUGH THE LAUDY GARDEN.",
+   "blind_rec": "I AM GOING TO THE HOMESCHOOL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.4
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "211-122442-0079",
+   "text": "BUT WHY THIS QUESTION BECAUSE WHILE YOU WERE TALKING WITH HIM I WATCHED YOU WITHOUT LISTENING TO YOU",
+   "powerline_rec": "RESPECTFUL HUSBAND LISTENED AS MISTER RUSHED TO EAT EGGS THOUSANDS OF TIMES, FEELING RESPECT FOR HIS FACE WHEN HE LISTENED CLOSELY TO THE SYSTEM THAT RESTED ON SOCIAL MEDIA.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.046511627906976744,
+    "wer": 1.5555555555555556
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1867-148436-0026",
+   "text": "THE BRUTE HAS GONE LAME YOU SEE",
+   "powerline_rec": "I WROTE ADVANCED EVENTS AND BROUGHT THE FOOT TO FIND ALIVE TIMES ON FLAT DIES",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909091,
+    "wer": 2.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7505-258964-0033",
+   "text": "ITS RENT RISES ALTHOUGH IT MAY CONTINUE TO TURN OUT THE SAME PRODUCT",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.10526315789473684,
+    "wer": 0.9230769230769231
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.10526315789473684,
+    "wer": 0.9230769230769231
+   }
+  },
+  {
+   "utt_id": "39-121915-0029",
+   "text": "AND SO APPARENT THAT EMMA WELL AS SHE KNEW HER FATHER WAS SOMETIMES TAKEN BY SURPRIZE",
+   "powerline_rec": "FORMALLY DRESSED FOLKS LOOKED AT THE FIFTY-PERCENT LIPS OF THE FORM STRONG SCHOOL BOY WHOSE INTELLIGENCE WAS LIKE THAT OF A PEARL.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.1111111111111111,
+    "word_f1": 0.1081081081081081,
+    "wer": 1.375
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2989-138028-0018",
+   "text": "GOD BLESS ME SAID THE NIECE THAT YOU SHOULD KNOW SO MUCH UNCLE",
+   "powerline_rec": "I HAVE TO GLANCE AT THE GRASS BECAUSE IT IS BRIGHT AND I AM DARED BY LAUNCHLOT'S REPORT THAT PORT CROW HAS ADVANCED WORSE THANWAYS",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE",
+   "powerline": {
+    "content_recall": 0.125,
+    "word_f1": 0.10526315789473685,
+    "wer": 1.8461538461538463
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.10526315789473684,
+    "wer": 0.9230769230769231
+   }
+  },
+  {
+   "utt_id": "211-122442-0026",
+   "text": "IN A TINE OF PERFECT GOOD FELLOWSHIP WHAT HAS BECOME OF YOU ALL THESE DAYS",
+   "powerline_rec": "JASON thought of something taking pity on STONE, trembling as he passed through COUNTRY. He sometimes supported PASSION, consented to FASHION, considered MOTION. TRAMP GANEM DARE nearly FINE.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.04878048780487805,
+    "wer": 1.8666666666666667
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809523,
+    "wer": 0.9333333333333333
+   }
+  },
+  {
+   "utt_id": "211-122442-0065",
+   "text": "FOR THAT VERY EVENING BUT WE ARE BOUND TO SAY TO THE CREDIT OF OUR HERO",
+   "powerline_rec": "LINCOLN DECLARED THAT THE BANK WAS EMPTY AND HE MADE A COAT FOR HIS WIFE, WHO DANCED WITH PEASANTS AT THE BANQUET.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.16666666666666666,
+    "word_f1": 0.16666666666666666,
+    "wer": 1.3125
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1739130434782609,
+    "wer": 0.875
+   }
+  },
+  {
+   "utt_id": "7505-258964-0044",
+   "text": "PUBLIC FRANCHISES ENTITLE THE OWNERS TO SPECIAL SOMETIMES EXCLUSIVE PRIVILEGES AND PROTECT THEM LEGALLY FROM COMPETITION NOT ALL FRANCHISES ARE VALUABLE",
+   "powerline_rec": "I AM NOT HOME TODAY. I HAVE TO GO NOW.",
+   "blind_rec": "I AM NOT HOME TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.13793103448275865,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13793103448275865,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "211-122442-0053",
+   "text": "SHALL I GIVE YOU COUNSEL GOOD COUNSEL THE COUNSEL OF A FRIEND",
+   "powerline_rec": "PAPA QUICKLY TOUCHED THE SOUL OF HIS SISTER AT SUMMER'S END.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1818181818181818,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.11764705882352941,
+    "wer": 0.9166666666666666
+   }
+  },
+  {
+   "utt_id": "1867-148436-0022",
+   "text": "NASH SIPPED HIS COFFEE AND WAITED ON THE MOUNTAIN DESERT ONE DOES NOT DRAW OUT A NARRATOR WITH QUESTIONS",
+   "powerline_rec": "I PAUSED TO SEEK SEATS ON THE STEETS. I WAS FRIGHTENED BY THE PEOPLE AND THEIR DOZENS OF PASSPORTS. WE LIVED IN DANGEROUS AREAS WHERE THEY WERE TRYING TO PULL US OFF OUR DESK. WE HAD DIFFICULTIES WITH",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.09090909090909091,
+    "word_f1": 0.1509433962264151,
+    "wer": 1.9473684210526316
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07692307692307693,
+    "wer": 0.9473684210526315
+   }
+  },
+  {
+   "utt_id": "2989-138028-0037",
+   "text": "SO THAT TO BRING HIM ROUND AGAIN EVER SO LITTLE COST ME MORE THAN SIX HUNDRED EGGS",
+   "powerline_rec": "LINCOLN TOLD THE HORSE TO TOUCH HIS EYES AND ASK HARRY WHETHER HE WAS OPEN FOR ANGER OR WICKED.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.05714285714285714,
+    "wer": 1.0588235294117647
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14134-0048",
+   "text": "SO THEY PARTED BUT PHILIP HAD NOT GONE MANY STEPS BEFORE HIS UNCLE CALLED HIM BACK KINRAID SLOWLY LOITERING ON MEANWHILE",
+   "powerline_rec": "BEGUN BY JIMMY CARED ABOUT BORROWING FROM QUEEN BUT THOU WOULD BE MORE SURE IF I IMAGINE THAT THE RAIN IS WEATHERING THE DEARNESS OF THE MATTER.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.043478260869565216,
+    "wer": 1.2380952380952381
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857142,
+    "wer": 0.9523809523809523
+   }
+  },
+  {
+   "utt_id": "2989-138028-0045",
+   "text": "FOR I KNOW NOT WHAT I AM SO FOCILE MEANS",
+   "powerline_rec": "PERCEVAL MEASURED THE DAUGHTERS WITH PERCEVAL'S OWN WIND AND MODERN LIVES.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.2
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1111111111111111,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2989-138028-0000",
+   "text": "CHAPTER SIX OF WHAT TOOK PLACE BETWEEN DON QUIXOTE AND HIS NIECE AND HOUSEKEEPER ONE OF THE MOST IMPORTANT CHAPTERS IN THE WHOLE HISTORY",
+   "powerline_rec": "I WAS PLEASED TO SEE THE PRIEST PLACE THE BIBLE ON THE PATH AND LOOK AT IT WITH HIS MOTHER. I COULD NOT BELIEVE THAT SHE HAD OPENED UP THE BOOK AND READ THE WORDS. WE ALL WERE IMPRESSED BY HER KNOWLEDGE OF THE SCRIPTURE. BUT",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.07692307692307693,
+    "word_f1": 0.16666666666666666,
+    "wer": 1.7083333333333333
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13793103448275862,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "5867-48852-0020",
+   "text": "OLLAYS SAID IT I HATED HIM OLLAYS I DID INDEED MISTER JOHN",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.11764705882352941,
+    "wer": 0.9166666666666666
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.11764705882352941,
+    "wer": 0.9166666666666666
+   }
+  },
+  {
+   "utt_id": "4680-16026-0018",
+   "text": "SMALL BONY AND FEEBLE AS THAT OF A SKELETON",
+   "powerline_rec": "I picked thirty weeks ago at the summit of the valley where Barbara stood afraid to spring her throat hurting",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857142,
+    "wer": 2.111111111111111
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4195-186237-0000",
+   "text": "CHAPTER TWENTY FOUR HOME AGAIN THE MAJOR WAS AT THE STATION TO MEET THEM",
+   "powerline_rec": "HE WAS SPEAKING ABOUT HIS PAPER ON FETNAH AND HUSSEIN'S LAUGHTER MADE HIM FEEL MORE EXCITED THAN THE CASTLE OF HIS POSITION. HE LOOKED AT HIS WORK IN EUROPE TO MAKE SURE IT WAS CORRECT.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.17777777777777778,
+    "wer": 2.357142857142857
+   },
+   "blind": {
+    "content_recall": 0.1111111111111111,
+    "word_f1": 0.2,
+    "wer": 0.8571428571428571
+   }
+  },
+  {
+   "utt_id": "5808-54425-0033",
+   "text": "COME COME WAKE UP HERE THREE MORE JACK WHAT ABOUT YOUR FATHER FATHER",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2136-5140-0040",
+   "text": "AND I SUPPOSE THESE EARLIER ASSOCIATIONS GAVE TO MY REVERIE ABOUT MY FATHER'S COMING VISITOR",
+   "powerline_rec": "I gazed at everybody clearly holding a piece of opportunity among danglars rapidly uppermost likely to be built by myself.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1142857142857143,
+    "wer": 1.25
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909091,
+    "wer": 0.9375
+   }
+  },
+  {
+   "utt_id": "211-122442-0081",
+   "text": "AND YOU FOUND IT TRAITOROUS MONSIEUR INDEED",
+   "powerline_rec": "THEE FEELS PROBLEMATIC ABOUT THE EVENT ADVISING THE LIEUTENANT TO HUNT GREEN IN FRONT OF HIS SERVANTS",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.4285714285714284
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.142857142857143
+   }
+  },
+  {
+   "utt_id": "332-128985-0027",
+   "text": "HE WAS CRUISING ABOUT CAMPEACHY WITHOUT SEEING ANY CRAFT THAT WAS WORTH CAPTURING",
+   "powerline_rec": "I believe you fought for fairness but seem anxious about the outcome.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.1111111111111111,
+    "word_f1": 0.08333333333333333,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "298-126791-0005",
+   "text": "THE TONGUE IS WELL AND THE PULSE BEGINS TO LOWER AGAIN AH THE BLEEDING DID YOU GOOD PHLEBOTOMY IS A SOVEREIGN SPECIFIC FOR SOUTHERN CONSTITUTIONS",
+   "powerline_rec": "I wish to join together with jimmy and jenny to provide shelter for rebecca's mother and widow until she can return home.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1395348837209302,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06666666666666667,
+    "wer": 0.96
+   }
+  },
+  {
+   "utt_id": "8629-261139-0031",
+   "text": "AND THE SHOCK THE SURPRISE",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.2,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.2,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5808-54425-0051",
+   "text": "THE GOWN HAD FALLEN AWAY FROM HER BREAST AND SHOWED THE CONVULSIVE FLUTTERING OF HER HEART",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP FROM THERE",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP FROM THERE",
+   "powerline": {
+    "content_recall": 0.1111111111111111,
+    "word_f1": 0.14285714285714285,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.1111111111111111,
+    "word_f1": 0.14285714285714285,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1355-39947-0013",
+   "text": "THEIR EXPRESSION AWAKENS CONFIDENCE THEIR VOICE AND THEIR WORDS REACH DEEPER LAYERS OF THE MIND THEIR CALMNESS AND FIRMNESS OVERWHELM MORE EASILY THE ANTAGONISTIC IDEAS",
+   "powerline_rec": "MISTER WICKED WORKING LATE, MARY DANGLARS GLANCED AT THE SNOWY MILLENIUM, EVERYBODY ELSE WAS LAUGHING AND SAILING IN THE YOUNG BOY'S EXPEDITION, BUT HE WAS NOT THERE ANYMORE, HIS TAIL WAS NOW",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08,
+    "wer": 1.28
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2989-138028-0043",
+   "text": "AND ARRANGE WITH HIM WHAT WILL BE TOLD IN ITS PROPER PLACE",
+   "powerline_rec": "I'M TIRED AND FREE TO WALK TO THE TRAIN STATION WHERE I PROMISED TO DRESS UP FOR SUPER PROPER DOUBLE MEAL ON THE FLOOR OF THE FOREST IN FRONT OF THE TREE AT THE GRASSY COAST.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE.",
+   "powerline": {
+    "content_recall": 0.14285714285714285,
+    "word_f1": 0.14634146341463414,
+    "wer": 2.9166666666666665
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.25
+   }
+  },
+  {
+   "utt_id": "3374-298026-0002",
+   "text": "ARE MERELY THE COMMON ATMOSPHERE OF OUR SPIRITUAL BREATH AND LIFE THE WORDS ARE WEAK AND VAGUE",
+   "powerline_rec": "LOOKED AT THE STRANGER WHO WAS FACING OFFICERS ON HIS SHIP WHO HAD BEEN SICK FOR MONTHS AND LIVED WITH HIS FAMILY ON A SMALL BARK THAT RISED ABOVE THE WATER LIKE A HEAD THAT FELL INTO THE LIGHT OF THE SUN LIKE A GLANCE AT A KNIT",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP FROM THERE.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.12,
+    "wer": 2.6470588235294117
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.14285714285714285,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8629-261139-0067",
+   "text": "BUT SHE MISTOOK THE ACTION MISTOOK MY PURPOSE AND",
+   "powerline_rec": "THEY ARE GOING TO THE STORE TO BUY CHOCOLATE COATED CANDIES",
+   "blind_rec": "THEY ARE GOING TO THE STORE TO BUY CHOCOLATE COATED CANDIES",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.11111111111111112,
+    "wer": 1.1111111111111112
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.11111111111111112,
+    "wer": 1.1111111111111112
+   }
+  },
+  {
+   "utt_id": "5339-14133-0006",
+   "text": "BY DEGREES BOTH HEPBURN AND COULSON WERE INTRODUCED TO DISTANT MANUFACTURERS AND WHOLESALE DEALERS",
+   "powerline_rec": "OFFICERS CONVINCED HIMSELF OF THE ADVANCEMENT OF EIGHTEEN FROM AN ANCIENT CHAPTER IN ENGLISH, AS REPORTED BY THE CAPTAIN WHO WAS LISTENING TO THE COUNTESS' ANSWER ONCE AGAIN.",
+   "blind_rec": "I'M GONNA GO HOME NOW",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.10526315789473685,
+    "wer": 1.9285714285714286
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7505-258958-0015",
+   "text": "A CROP OF CORN IS NOT ALL INCOME IN A TIME OF FAMINE IT COULD BE USED BUT SEED CORN WAS SAVED FROM LAST YEAR",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.19999999999999998,
+    "wer": 0.92
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.19999999999999998,
+    "wer": 0.92
+   }
+  },
+  {
+   "utt_id": "8609-283227-0035",
+   "text": "AND AMONGST THEM BY MISTER TEMPLETON AND HERE I MAY AS WELL SKETCH THE RESULT OF THAT STRANGE INTRODUCTION TO THE DISSENTING MINISTER",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.06896551724137931,
+    "wer": 0.9565217391304348
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06896551724137931,
+    "wer": 0.9565217391304348
+   }
+  },
+  {
+   "utt_id": "7505-258964-0046",
+   "text": "THEIR HIGH VALUE IS DUE TO THE IMPOSSIBILITY OF COMPETITION THE CARS MULES DYNAMOS STEAM ENGINES",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.16666666666666669,
+    "wer": 0.875
+   }
+  },
+  {
+   "utt_id": "8108-280359-0001",
+   "text": "THE WORLD IS LARGE AND I AM VERY CLEVER SAID LOKI TO HIMSELF AS HE TURNED HIS BACK UPON ASGARD AND WANDERED OUT INTO MANHEIM",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0625,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0625,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "298-126791-0011",
+   "text": "EVERYTHING IS AS YOU LEFT IT BUT IT GLIDED ABOUT THE ROOM WITH THE GRACE OF A FAIRY AND THE TENDERNESS OF AN ANGEL",
+   "powerline_rec": "ANGRY MEAT BELIEVES FAMILIES ARE HAPPY AND FIXED.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857144,
+    "wer": 0.9583333333333334
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857144,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "2989-138028-0064",
+   "text": "THE BREAD EATEN AND THE COMPANY DISPERSED",
+   "powerline_rec": "PRISCILLA SPRANG WITH TEARS AS SHE EXPRESSED HER SPIRITUAL CAREFULY TO THE PRINCESS ABOUT THE COUNTRY'S OPENING AGAINST ENEMIES.",
+   "blind_rec": "TO BE HONEST I AM NOT SURE WHAT YOU MEAN BY THAT",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08,
+    "wer": 2.7142857142857144
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.7142857142857142
+   }
+  },
+  {
+   "utt_id": "4640-19189-0008",
+   "text": "AND THE TALONS OF A TIGER FEARFUL BEASTS WHICH WERE ABOVE MAN MAN NEVERTHELESS SPREAD HIS SNARES CONSECRATED BY INTELLIGENCE AND FINALLY CONQUERED THESE MONSTERS",
+   "powerline_rec": "ARTHUR BARBIANCE ANSWERED THE DOOR TO HIS FOREIGN HOUSE WHERE HE READ BOOKS ON SIMPLE STORIES ABOUT ARMY MEN AND BARNABE'S FIGHT WITH THE BEAR IN THE SNOWY FIELD.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.11764705882352941,
+    "wer": 1.16
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7505-258964-0023",
+   "text": "LESS EFFICIENT TYPES WHICH THEREFORE MORE OR LESS COMPLETELY LOSE THEIR RENT BEARING POWER LONG BEFORE THEY ARE PHYSICALLY WORN OUT",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.05555555555555555,
+    "word_f1": 0.14285714285714288,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.05555555555555555,
+    "word_f1": 0.14285714285714288,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8108-280354-0030",
+   "text": "IT CRIED TILL HEAD AND LYRE WERE CARRIED DOWN TO THE SEA AND ON TO LESBOS THE ISLE OF SWEET SONG WHERE IN AFTER YEARS",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 0.96
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 0.96
+   }
+  },
+  {
+   "utt_id": "2514-149482-0090",
+   "text": "THE CREATURE IN FINE AS TO WHOM SPANGLES OR SPOTS OF ANY SUFFICIENTLY MARKED AND EXHIBITED SORT COULD BE LOUDLY ENOUGH PREDICATED",
+   "powerline_rec": "SHOUTING AT THE SOUL OF BONNY WINE, PRAYING TO LAUGH AND WALK WITH EVIL.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.2222222222222222,
+    "wer": 0.9545454545454546
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8629-261139-0004",
+   "text": "FOR WHILE SHE HAD HITHERTO SAT UNDER THE UNIVERSAL GAZE WITH ONLY THE FAINT SMILE OF CONSCIOUS BEAUTY ON HER INSCRUTABLE FEATURES",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.06896551724137931,
+    "wer": 0.9545454545454546
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06896551724137931,
+    "wer": 0.9545454545454546
+   }
+  },
+  {
+   "utt_id": "8098-278278-0040",
+   "text": "AND IMMEDIATELY COONSKIN CAME FLYING INTO VIEW WITH THE BIGGEST BEAR AT HIS HEELS I EVER WANT TO SEE",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615385,
+    "wer": 0.9473684210526315
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615385,
+    "wer": 0.9473684210526315
+   }
+  },
+  {
+   "utt_id": "7505-83618-0022",
+   "text": "YOLCUAT THE RATTLESNAKE TOHIL THE RUMBLER HUEMAC THE STRONG HAND",
+   "powerline_rec": "I AM GOING TO THE HOMESCHOOL TODAY",
+   "blind_rec": "I AM GOING TO THE HOMESCHOOL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 0.9
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 0.9
+   }
+  },
+  {
+   "utt_id": "211-122442-0068",
+   "text": "DETAINED BY AN ACCUSATION OF COINING",
+   "powerline_rec": "LIEUTENANT DIFFERENT POSITION EXPLAIN DECK STONES BETTER PITY EXPRESSING EXPEDITION",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.6666666666666667
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8609-283227-0027",
+   "text": "AND SO MISTER BROWNRIGG AND I BLUNDERED INTO THE LITTLE PARLOUR WITH OUR BURDEN NOT A GREAT ONE",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.16666666666666666,
+    "wer": 0.9444444444444444
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.16666666666666666,
+    "wer": 0.9444444444444444
+   }
+  },
+  {
+   "utt_id": "4640-19189-0036",
+   "text": "AND HAD NOT EVEN THE AIR OF HEARING HIM WHEN MARIUS RAISED HIS VOICE TO SAY I KNOW HIM",
+   "powerline_rec": "LEIF FINISHED FIXING THE DOOR TO HIS HOUSE AND WAS ABOUT TO EAT DINNER WHEN HE SAW MADAME WALK IN WITH HER MOUNTAIN OF GRASS.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.14285714285714285,
+    "word_f1": 0.28571428571428575,
+    "wer": 1.263157894736842
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.15384615384615383,
+    "wer": 0.8947368421052632
+   }
+  },
+  {
+   "utt_id": "7067-76047-0043",
+   "text": "GROTESQUELY HAPPEN HE SAID SHE KNOWS NOTHING OF MARTIN LEEDS YOU MUST REMEMBER THAT AND THEN HE ADDED IF SHE AND YOU FALL IN LOVE",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8609-283227-0039",
+   "text": "TO MISSUS TEMPLETON FOR NOT INVITING HER WITH YOU",
+   "powerline_rec": "THEY ARE GOING TO THE STORE TO BUY CHOCOLATE COATED CANDIES",
+   "blind_rec": "THEY ARE GOING TO THE STORE TO BUY CHOCOLATE COATED CANDIES",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.10526315789473685,
+    "wer": 1.2222222222222223
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.10526315789473685,
+    "wer": 1.2222222222222223
+   }
+  },
+  {
+   "utt_id": "1867-148436-0040",
+   "text": "THINKIN UP NEW WAYS OF RAISIN HELL",
+   "powerline_rec": "ELsie watches the wretched child on the shore, whose shadow follows him as he walks by the fire.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.5714285714285716
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2136-5143-0034",
+   "text": "I CAN'T SAY WHETHER THERE IS A WILL OR NOT LET US TALK OF SOMETHING ELSE",
+   "powerline_rec": "GRAHAM LIVES WITH HIS MOTHER AND FATHER-IN-LAW IN THE SIMPLE HOUSE WHERE THEY WAIT FOR THEIR BABY TO BECOME WOUNDED. GRAHAM'S EYES ARE CRIED OVER BY HIS FAMILY DURING SUMMER RIDE.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07999999999999999,
+    "wer": 0.9411764705882353
+   }
+  },
+  {
+   "utt_id": "5339-14134-0067",
+   "text": "IT WERE WILLIE COULSON AS TELLED ME AS SOLEMN AND SERIOUS AS ONE MAN CAN SPEAK TO ANOTHER",
+   "powerline_rec": "I waited at the gate for my breath to catch up after the battle. I bought some paper when I was on vacation. I built a stone thing somewhere. I heard someone talking about silver stories. I spent time with a serious servant.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.125,
+    "word_f1": 0.07692307692307691,
+    "wer": 2.388888888888889
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "298-126791-0001",
+   "text": "AND DOCTOR SITGREAVES REMOVED ALL FURTHER APPREHENSIONS BY CONFIDENTLY PRONOUNCING THAT HE WOULD BE A WELL MAN WITHIN A FORTNIGHT",
+   "powerline_rec": "MATTHEW SUPPORTED RICH AND WEEKS WITH INFORMATION ABOUT SOMEONE WHOSE VOICES WERE PROMISED TO BECOME MORE COMFORTABLE UNDER THE MOVING WICKED VIRTUE OF SPEAKING DIRECTLY TO ANNE.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.044444444444444446,
+    "wer": 1.3
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07407407407407407,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14133-0047",
+   "text": "AND THERE'S YON TALL FELLOW OF A COUSIN AS LOOKS BLACK AT ME",
+   "powerline_rec": "I watched boat milk dance amid west lips proper paper doubt graham till july attack attempt across purple tender somewhere",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.4285714285714286
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809523,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5867-48852-0087",
+   "text": "AS HE MADE HIS WAY THROUGH THE TOMBSTONES HE PAUSED AND READ ONE AS THOUGH IT INTERESTED HIM",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5867-48852-0106",
+   "text": "AND HAD ALREADY SEEN HIS HANDIWORK HAS SHE OFFENDED YOU JOHN SHE SAID",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4680-16026-0014",
+   "text": "WHICH PROWLERS CALL FANCHONS AH SEE HERE WHAT ARE YOU ABOUT THERE",
+   "powerline_rec": "JOHN GANEM BORROWED CARTRIDGE FROM THE MERCHANT TO SPREAD HIS FOOD ON SPRING DAY AND QUESTIONS ABOUT NATIONS ARE STIFF LIKE BLOWS.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.125,
+    "word_f1": 0.11764705882352942,
+    "wer": 1.75
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809525,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14134-0023",
+   "text": "AS THEY ALL SAT AT TEA IN ALICE ROSE'S HOUSE PLACE PHILIP ANNOUNCED HIS INTENDED JOURNEY",
+   "powerline_rec": "I was asked to dress up for the occasion.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.16666666666666666,
+    "wer": 0.9411764705882353
+   }
+  },
+  {
+   "utt_id": "4195-186236-0026",
+   "text": "AND HE SAID HE HOPED TO SEE ALL THE GIRLS AGAIN",
+   "powerline_rec": "RALPH GOES TO HELP RALPH WITH HIS BODIES AND FACTS BUT LOSES HIS VOICE",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1818181818181818,
+    "wer": 1.2727272727272727
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.2105263157894737,
+    "wer": 0.9090909090909091
+   }
+  },
+  {
+   "utt_id": "7505-258958-0000",
+   "text": "SATISFACTION AND GRATIFICATION BEING ONLY TEMPORARY CONDITIONS ECONOMIC WANTS APPEAR IN MORE OR LESS REGULARLY RECURRING SERIES IMPRESSIONS ARE SHORT LIVED SENSATIONS ARE TEMPORARY",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL WITH HIS MOTHER AND SISTER.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.12121212121212123,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13333333333333333,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "4640-19187-0033",
+   "text": "WHICH RESEMBLED THE WARLIKE HUM OF A HIVE OF BEES",
+   "powerline_rec": "THE CORONEL SAILS THE LINE OF SHOUTING TO LAUNCHLOT WHERE PAGES ARE FIGHTING FOR PROMISE WITH DRESS AND MILES OF POWER",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.14285714285714285,
+    "wer": 1.9
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909093,
+    "wer": 1.4
+   }
+  },
+  {
+   "utt_id": "332-128985-0042",
+   "text": "AND THE FIRST THING HE DID WAS TO BRING SOME WRITING MATERIALS TO ROC WHO THEREUPON BEGAN THE COMPOSITION OF A LETTER",
+   "powerline_rec": "Pierre noticed something strange at the palace yesterday.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857144,
+    "wer": 0.9545454545454546
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07142857142857144,
+    "wer": 0.9545454545454546
+   }
+  },
+  {
+   "utt_id": "2989-138028-0023",
+   "text": "FOR EXAMPLES OF THE SECOND SORT OF LINEAGE THAT BEGAN WITH GREATNESS AND MAINTAINS IT STILL WITHOUT ADDING TO IT",
+   "powerline_rec": "WENDY WAS WAKING UP AFTER PROPERLY LIFTING THE CROPPER TO GET SOMETHING FROM THE CHAIR ON THE FLOOR. SHE THOUGHT ABOUT THEIR BUSINESS AND HOW THEY FEELED WHEN THEY SAW THEMSELF IN THE MIRROR. THEN THEY REALIZED THAT THEY DID",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.08333333333333333,
+    "word_f1": 0.15384615384615383,
+    "wer": 1.9
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07692307692307691,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4640-19187-0024",
+   "text": "CAESAR SAID COMBEFERRE FELL JUSTLY CICERO WAS SEVERE TOWARDS CAESAR AND HE WAS RIGHT THAT SEVERITY IS NOT DIATRIBE",
+   "powerline_rec": "MATTHEW AND PRISCILLA ARE TALKING ABOUT THE DEAD TRAMP WHO WAS COVERED IN YELLOW MARGUERITE'S PICTURE AT THE KITCHEN TABLE WHERE EVERYBODY IS CONSIDERING HOW TO HANDLE IT LIKE SYMPATHY FOR THE GENTLEMEN WHOSE FATHER WAS B",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.11538461538461539,
+    "wer": 1.894736842105263
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333333,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5867-48852-0112",
+   "text": "IT WAS WELL FOR HIM THAT SHE HAD COME UPON HIM IN HIS SORROW WHEN HE ONCE KNEW THAT SHE HAD SEEN HIS TEARS",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.07407407407407407,
+    "wer": 0.9583333333333334
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07407407407407407,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "5322-7680-0024",
+   "text": "OLENIN WAS AS HAPPY AS A BOY OF TWELVE TIE IT UP HERE IT'S A GOOD HORSE I BOUGHT IT IN GROZNOE IT GALLOPS SPLENDIDLY",
+   "powerline_rec": "WENDY PATSY IS HAPPY AND WANTS TO SEE THE BABY IN THE APARTMENT. CARL HAS BEEN DROPPING OFF LIPS AT THE LIGHTNING SHOW. CAROLINA HOPES FOR A CLOUDLESS SKY WITH NO BIRDS. CARL'S FRIENDS",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.1,
+    "word_f1": 0.1509433962264151,
+    "wer": 1.3076923076923077
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06896551724137931,
+    "wer": 0.9615384615384616
+   }
+  },
+  {
+   "utt_id": "39-121915-0020",
+   "text": "BUT NEVER ACHIEVED NOW UPON HIS FATHER'S MARRIAGE IT WAS VERY GENERALLY PROPOSED AS A MOST PROPER ATTENTION",
+   "powerline_rec": "LEIF CRIED AS PEACE approached, looking affected, working towards dignity, picking up excitement, taking his future into consideration.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.10810810810810811,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "5339-14134-0032",
+   "text": "SHE WAS PLAYING WITH HER TEASPOON BUT HE COULD SEE THAT SHE WAS CHOKING DOWN HER TEARS",
+   "powerline_rec": "THE PRESIDENT WAS PASSING THROUGH THE CASTLE IN THE KITCHEN WHEN HE SHAKED HIS COAT AND SPOKE SIMPLE CHAPTERS ABOUT DEATH, STORIES OF STATES AND SERVICE.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1081081081081081,
+    "wer": 1.411764705882353
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "39-121914-0006",
+   "text": "THE EVENT HAD EVERY PROMISE OF HAPPINESS FOR HER FRIEND MISTER WESTON WAS A MAN OF UNEXCEPTIONABLE CHARACTER EASY FORTUNE SUITABLE AGE AND PLEASANT MANNERS",
+   "powerline_rec": "MISTER MICHEL LISTENED TO THE CHILD THINKING ABOUT HIS FAMILY AND FRIENDS. HE WAS HAPPY TO SEE HIS BROTHER ENTERING THE HOUSE WHERE THEY USED TO PLAY. AS HE LOOKED THROUGH THE WINDOW, HE SAW HIS MOTHER AND FATHER HAVING A FEW WORDS WITH",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.07142857142857142,
+    "word_f1": 0.1694915254237288,
+    "wer": 1.68
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0625,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "3374-298025-0007",
+   "text": "FROM THIS FEELING OR THOUGHT NOTHING COULD HAVE TURNED ME NEITHER GENERAL DESPAIR NOR PERSONAL FEAR FOR I BELIEVED",
+   "powerline_rec": "PERCEVAL LISTENED TO THE DIFFERENT SONG INSIDE THE CITY WHILE STANDING OUTSIDE IN THE DARK CROWD AT THE SOAP THICK PLACE.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.105263157894737
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07692307692307693,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4195-186236-0010",
+   "text": "AND THE SUBSEQUENT FINDING OF THE WILL",
+   "powerline_rec": "THE PRESIDENT IS LAUGHING IN THE GARDEN TO HIS CHARMING FRIEND WHO IS TERRORIZED BY THE PERFECTLY GOVERNED COUNTRY.",
+   "blind_rec": "TO THE OFFICE WITH YOU!",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909091,
+    "wer": 2.4285714285714284
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.1818181818181818,
+    "wer": 0.8571428571428571
+   }
+  },
+  {
+   "utt_id": "1867-148436-0031",
+   "text": "WHEN HE SEEN THAT HE WAS ALL LAID OUT TO MAKE A TRIP BY HIMSELF",
+   "powerline_rec": "I'm staying at home this month, killed my goods, expecting to sell them soon.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0689655172413793,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809523,
+    "wer": 0.9333333333333333
+   }
+  },
+  {
+   "utt_id": "2518-154825-0030",
+   "text": "AND THEN THE PATH GREW STEEPER AND STEEPER AND ELZEVIR WENT SLOWER AND SLOWER TILL AT LAST HE SPOKE JOHN I AM GOING TO STOP",
+   "powerline_rec": "STORMS SWEEPING THROUGH THE WILDERNESS, STELLA STOOD ON HIGH ROCKS AND THREW HER SWORD INTO THE SEA, WHILE SHE HOPES TO SAVE HER LOYAL FRIEND FROM DEATH.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1333333333333333,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.25806451612903225,
+    "wer": 0.92
+   }
+  },
+  {
+   "utt_id": "7447-91187-0064",
+   "text": "DISCUSSING THE COMPOSITIONS OF CHOPIN IN HIS DELIGHTFUL AND INSPIRING BOOK CHOPIN THE MAN AND HIS MUSIC CALLS THE STUDIES TITANIC EXPERIMENTS",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "211-122442-0078",
+   "text": "HOW GLAD I AM TO SEE YOU WHY SO PLANCHET ASKED THE YOUNG MAN",
+   "powerline_rec": "I'm waiting to bear my cousin's faces closely. I'm beginning to remember his arms marching through France.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.12903225806451615,
+    "wer": 1.4285714285714286
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.17391304347826086,
+    "wer": 0.9285714285714286
+   }
+  },
+  {
+   "utt_id": "7067-76047-0007",
+   "text": "DON'T YOU THINK SAID SIR RICHMOND THAT YOU ARE ATTACHING RATHER TOO MUCH WHAT SHALL I SAY ROMANTIC FLIRTATIOUS MEANING TO THIS AFFAIR",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.06451612903225806,
+    "wer": 0.9583333333333334
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06451612903225806,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "7067-76048-0017",
+   "text": "WE HAVE BEEN MADE AN EXCEPTION OF AND GOT OUR RATIONS THE BIG THING CONFRONTS US STILL",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "6415-100596-0008",
+   "text": "SHE ISN'T A SOPHOMORE THE PRESIDENT ANNOUNCED SHE MUST BE A FRESHMAN PRISCILLA LOOK AGAIN",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909091,
+    "wer": 0.9375
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09090909090909091,
+    "wer": 0.9375
+   }
+  },
+  {
+   "utt_id": "6415-116629-0014",
+   "text": "AS BLASI SPOKE HE CAME SLOWLY NEARER TO JUDITH HE HAS BEEN SAYING SOME THINGS LATELY THAT MADE ME THINK SO",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8629-261139-0056",
+   "text": "I PUSHED THE DOOR AJAR AT MY LEFT AND LOOKED IN AN UNEXPECTED AND PITIFUL SIGHT AWAITED ME",
+   "powerline_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.24,
+    "wer": 0.9444444444444444
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.24,
+    "wer": 0.9444444444444444
+   }
+  },
+  {
+   "utt_id": "332-128985-0029",
+   "text": "AND HAD SENT THAT MILD MANNERED OBSERVER INTO THE HARBOR TO INVESTIGATE INTO THE STATE OF AFFAIRS",
+   "powerline_rec": "HENRY SANK UNDERSTANDS THE ADVANCE OF FIRE, WAITING FOR HIS MAID WHO IS HIDE AND FOND OF BIRDS. SHE IS HIDING FROM THE DYING TRIBE. SHE IS CRYING QUIETLY AS SHE LOOKS AT HIM. HE LISTENS TO HER",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1702127659574468,
+    "wer": 2.1176470588235294
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8098-278278-0018",
+   "text": "THE ONLY TROUBLE WILL BE IN STARTING THE FIRE SAID POD JUST AS SOON AS IT'S ONCE GOING IT OUGHT TO BURN SMOOTHLY ENOUGH",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY. I HAVE TO GO NOW.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.060606060606060615,
+    "wer": 0.96
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.060606060606060615,
+    "wer": 0.96
+   }
+  },
+  {
+   "utt_id": "39-121914-0018",
+   "text": "THROUGH AT HARTFIELD BEFORE CHRISTMAS BROUGHT THE NEXT VISIT FROM ISABELLA AND HER HUSBAND",
+   "powerline_rec": "YOU HERSHELF EXPLAIN BORING GENTLE CASTLE SYSTEM WHISPERS MISTER HUSBAND",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.1,
+    "word_f1": 0.08333333333333333,
+    "wer": 0.9285714285714286
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.09523809523809523,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1867-154071-0033",
+   "text": "LOOK AT THE WAY THINGS HAVE GONE YOU START OUT WITH A PHOTOGRAPH OF A GIRL NOW YOU'VE FOLLOWED HER FOUND HER NAME",
+   "powerline_rec": "Bobby wants to move beyond all his wishes and please himself. He feels straight and shares his thoughts. Darkness falls on London, where he finds plenty of breakfast. Finally, he meets a crowd, which includes a pale fellow. They follow a pair, who dare to be different. Whenever they find pain, they cry",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.061538461538461535,
+    "wer": 2.125
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.13793103448275862,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "1363-135842-0000",
+   "text": "CHAPTER THIRTY FOUR UNC BILLY AND OLD MISSUS POSSUM",
+   "powerline_rec": "WHENEVER BARE PLENTY OF THIN BEAR CRYING WHATEVER DOZENS OF PRINCESS JUSTICE PASSION WASHINGTON MOUNTED DREADFUL ROADS TO GATHER CRIMES CARRY ON",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.4444444444444446
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.6666666666666667
+   }
+  },
+  {
+   "utt_id": "3879-174923-0052",
+   "text": "AS THE WIFE OF A MASTER OF HOUNDS",
+   "powerline_rec": "BILLY RESTED AT THE BALL ON THE MAJESTY'S VESSEL IN THE NIGHT",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL FOR HIS BIRTHDAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1111111111111111,
+    "wer": 1.5
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.125,
+    "wer": 1.125
+   }
+  },
+  {
+   "utt_id": "7505-258964-0028",
+   "text": "OF LAND TENFOLD ITS FORMER TOTAL VALUE FITNESS TO PRODUCE NETTLES IS NOT ORDINARILY A VIRTUE IN LAND",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333333,
+    "wer": 0.9444444444444444
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333333,
+    "wer": 0.9444444444444444
+   }
+  },
+  {
+   "utt_id": "1363-135842-0005",
+   "text": "WITH A PAIR OF TWINKLING BLACK EYES HELLO UNC BILLY CRIED PETER HOW ARE YOU AND OL MISSUS POSSUM PO'LY PETER PO'LY",
+   "powerline_rec": "BROBBY GRAMAH WAS BORN ON AN ISLAND WHERE HE MET HIS BROTHER WHO WAS DRAWN TO THE SEA AND FERKO WHO WAS TERRORIZED BY LIGHTNING BUT WAS NEVER CAPTIVE LIKE OTHERS. HE LIVED WITH HIS MOTHER WHO WAS A DOCTOR AND H",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.08333333333333333,
+    "word_f1": 0.1111111111111111,
+    "wer": 1.7083333333333333
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.06896551724137931,
+    "wer": 0.9583333333333334
+   }
+  },
+  {
+   "utt_id": "2514-149482-0053",
+   "text": "SO THAT BEFORE THE SUBJECT WAS CHANGED HE PERCEIVED WITH SURPRISE AT THE OTHERS THAT THEY HAD GIVEN HER ENOUGH OF IT",
+   "powerline_rec": "JERRY GENTLE SOUTHERN SOMETHING SEVENTY SPRANG FROM THE DISTURBED PLACE.",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.06666666666666667,
+    "wer": 0.9545454545454546
+   },
+   "blind": {
+    "content_recall": 0.08333333333333333,
+    "word_f1": 0.21428571428571425,
+    "wer": 0.9545454545454546
+   }
+  },
+  {
+   "utt_id": "1363-135842-0012",
+   "text": "YET DOESN'T BELONG TO THE ORDER OF FLESH EATERS",
+   "powerline_rec": "ADAM DANCED WITH HIS MOMENTS, HAVING ADDDED HIS SPIRITS TO THE PASSING LIGHTNING AND ADAM'S HABIT OF BEING HONEST.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.21428571428571427,
+    "wer": 1.7
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.17391304347826086,
+    "wer": 1.4
+   }
+  },
+  {
+   "utt_id": "211-122442-0029",
+   "text": "WHERE MY FRIENDS STILL REMAIN AND YOU HAVE RETURNED HAVE YOU NOT",
+   "powerline_rec": "FRANCE'S FACE ON THE SIDE OF THE FRANCOIS IRENE WAS DESTROYED BY REBECCA'S MAJESTY IN SPITE OF HER INTENTION TO DESCRIBE IT WITH RESPECT.",
+   "blind_rec": "THEY ARE GOING TO THE STORE TO BUY CHOCOLATE COATED CANDIES",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 2.1666666666666665
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "2518-154825-0008",
+   "text": "AND HE JERKED HIS THUMB AT MASKEW",
+   "powerline_rec": "JEFF STOOD STARTED TO PERCEIVE HIS OWN MISTAKE ON THE HISTORY OF JUMPING AND SHAKING.",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.18181818181818182,
+    "wer": 2.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4640-19187-0037",
+   "text": "A MOMENT OF INDESCRIBABLE SILENCE ENSUED IN WHICH DEATH MIGHT HAVE BEEN HEARD FLITTING BY THIS MOMENT WAS BRIEF",
+   "powerline_rec": "ESTHER SAYS SOUTH ICELAND IS EXTREMELY BEAUTIFUL AND HAS AN EXCELLENT GARDEN WHERE SHE PLANS TO BUILD A HOUSE WITH JANE WHOSE MARRIAGE WAS ANNOUNCED IN FRANCE WHERE THEY HAVE BEEN HAVING A FLIGHT PLAN TO EUROPE WHERE",
+   "blind_rec": "THEY ARE NOT IN THE HOUSE AT ALL",
+   "powerline": {
+    "content_recall": 0.14285714285714285,
+    "word_f1": 0.1923076923076923,
+    "wer": 1.7894736842105263
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.07692307692307691,
+    "wer": 0.9473684210526315
+   }
+  },
+  {
+   "utt_id": "8609-283227-0045",
+   "text": "OR WHAT CAME TO THE SAME THING MAKE A SERVANT OF HIS FATHER NAMELY A FISH IN THE SEA OF GALILEE",
+   "powerline_rec": "I AM NOT HOME AT ALL TODAY",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "7059-77900-0041",
+   "text": "OH IT'S AT THE REHEARSALS YOU KNOW THAT THE FUN IS",
+   "powerline_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP THERE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333334,
+    "wer": 1.1666666666666667
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.08333333333333334,
+    "wer": 1.1666666666666667
+   }
+  },
+  {
+   "utt_id": "2136-5147-0011",
+   "text": "LOOKING DOWN FROM THE CORNERS OF HER EYES IN AN INTERESTING DEJECTION",
+   "powerline_rec": "JIMMY IS SEEING THE SALT IN THE CITY ON SUMMER'S BEACH. HE STEPS INTO RELIGION AND SUGGESTS AN INTERESTING LETTER ORDER TO HIS PATEY. IT IS VERY IMPORTANT THAT HE ATTEND THE HOURS OF THE YEAR.",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.14285714285714285,
+    "word_f1": 0.22727272727272727,
+    "wer": 2.8333333333333335
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "4640-19189-0041",
+   "text": "HE ENTERED THE TAP ROOM",
+   "powerline_rec": "I was convinced of entering midnight's entrance to notice grass growing on waters' promise.",
+   "blind_rec": "TO THE HOUSE",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 3.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.25,
+    "wer": 0.8
+   }
+  },
+  {
+   "utt_id": "298-126791-0009",
+   "text": "HIS PATIENT SMILED AS HE GENTLY REPULSED HIS PHYSICIAN IN AN ATTEMPT TO UNDO THE BANDAGES AND WITH A RETURNING GLOW TO HIS CHEEKS INQUIRED",
+   "powerline_rec": "PAPA IS ALAS LOST HIS ELEVEN SHIPS SEARCHED SINCE TAKES FRENCH SHIPS TO PLAY ABROAD",
+   "blind_rec": "I AM NOT HOME AT ALL TODAY",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.1111111111111111,
+    "wer": 0.92
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0,
+    "wer": 1.0
+   }
+  },
+  {
+   "utt_id": "8629-261139-0062",
+   "text": "I SLIPPED UP THE NARROW STAIRCASE",
+   "powerline_rec": "TO THE HOUSE WE GO TO HOME",
+   "blind_rec": "TO THE HOUSE WE GO TO HOME",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.16666666666666666,
+    "wer": 1.1666666666666667
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.16666666666666666,
+    "wer": 1.1666666666666667
+   }
+  },
+  {
+   "utt_id": "4680-16026-0025",
+   "text": "THE VENTRILOQUIST HOWEVER FINISHED HIS GRIN SHE WENT ON FRIENDS LISTEN WELL THIS IS NOT WHAT YOU WANT",
+   "powerline_rec": "jasper fixed justice on night, fifty tramps dropped weight, chiefly patty heard ganem dead, asleep jasper's smile was aware of themselves, wendy passed hast outside, warriormores bore me, fast asleep i took my own absence",
+   "blind_rec": "THEY ARE GOING TO THE HOSPITAL TO SEE IF THEY CAN GET SOME HELP FROM THERE.",
+   "powerline": {
+    "content_recall": 0.0,
+    "word_f1": 0.03846153846153846,
+    "wer": 2.0
+   },
+   "blind": {
+    "content_recall": 0.0,
+    "word_f1": 0.0625,
+    "wer": 1.0
+   }
+  }
+ ]
+}

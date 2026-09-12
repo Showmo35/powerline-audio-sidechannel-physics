@@ -1,0 +1,14 @@
+{
+  "n_val": 2361,
+  "fullsubnet": {
+    "mse_mean": 0.32761380076408386,
+    "mse_std": 0.2835316061973572,
+    "mae_mean": 0.45686787366867065,
+    "corr_mean": NaN
+  },
+  "baseline_noisy": {
+    "mse_mean": 0.32761380076408386,
+    "mae_mean": 0.45686787366867065,
+    "corr_mean": NaN
+  }
+}

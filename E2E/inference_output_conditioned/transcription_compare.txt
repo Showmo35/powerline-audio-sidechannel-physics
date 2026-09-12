@@ -1,0 +1,50 @@
+Sample 0
+Actual:       oh so bill's got to come down the chimney house he said
+Pred (CTC):   
+Pred (Seq):   and the second thing is to find my way into that lovely garden i think that will be the best plan it sounded quite fa inlly ithe t mbet it a a ithet a it it it a it a it it a it it a it it a it it it
+CER CTC:      -1.000000
+CER Seq:      2.945455
+Actual Audio: sample_0000_actual.wav
+Pred Audio:   sample_0000_pred.wav
+Mel Plot:     sample_0000_mel.png
+
+Sample 1
+Actual:       jaws are too weak for anything tougher than suet 'yet you finished the goose with the bones and
+Pred (CTC):   
+Pred (Seq):   the young man said 'and your hair has become very white and yet you incessantly stand on your head 'do you think at you'r at at atou'at ayou'at at at at at at at at at at at a at age at at age at age
+CER CTC:      -1.000000
+CER Seq:      1.568421
+Actual Audio: sample_0001_actual.wav
+Pred Audio:   sample_0001_pred.wav
+Mel Plot:     sample_0001_mel.png
+
+Sample 2
+Actual:       again i wonder if she'll fall right through the earth how funny it'll seem
+Pred (CTC):   
+Pred (Seq):   through the earth how funny it'll seem to come out among the people that walk with their heads downward the antipathy ime ingatindlifoupat ifouly ifous ifous ifous ifous ifous ifous ifous ifour ifous
+CER CTC:      -1.000000
+CER Seq:      2.148649
+Actual Audio: sample_0002_actual.wav
+Pred Audio:   sample_0002_pred.wav
+Mel Plot:     sample_0002_mel.png
+
+Sample 3
+Actual:       at once to eat some of the other bit 'her chin was pressed so closely against her foot
+Pred (CTC):   
+Pred (Seq):   the number of changes she had gone through that day' 'a likely story indeed' said the pigeon in a tone of the deeepecithe gghind' indgees weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+CER CTC:      -1.000000
+CER Seq:      1.883721
+Actual Audio: sample_0003_actual.wav
+Pred Audio:   sample_0003_pred.wav
+Mel Plot:     sample_0003_mel.png
+
+Sample 4
+Actual:       an encouraging opening for a conversation alice replied rather shyly
+Pred (CTC):   
+Pred (Seq):   alice thought she might as well wait as she had nothing else to do and perhaps after all it might tell her something woutherthe indoof orth win wof of of of of of of of of of of of 's 's 's 's 's 's '
+CER CTC:      -1.000000
+CER Seq:      2.397059
+Actual Audio: sample_0004_actual.wav
+Pred Audio:   sample_0004_pred.wav
+Mel Plot:     sample_0004_mel.png
+

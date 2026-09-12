@@ -1,0 +1,45 @@
+Sample 0
+  Actual:    pretending to be two people 'but it's no use now' thought poor alice to pretend to
+  Predicted: o o o o o  o o to oe te te to
+  CER:       0.6829
+  WER:       0.9375
+  Mel plot:  sample_0000_mel.png
+  GT audio:  sample_0000_actual.wav
+  Pred audio:sample_0000_pred.wav
+
+Sample 1
+  Actual:    people 'but it's no use now' thought poor alice to pretend to be two people why
+  Predicted: a o e o e o to to to o to o o
+  CER:       0.6962
+  WER:       0.8750
+  Mel plot:  sample_0001_mel.png
+  GT audio:  sample_0001_actual.wav
+  Pred audio:sample_0001_pred.wav
+
+Sample 2
+  Actual:    'but it's no use now' thought poor alice to pretend to be two people why there's hardly enough of
+  Predicted: h e te to to o toe to o to o to o a sh
+  CER:       0.7010
+  WER:       0.8947
+  Mel plot:  sample_0002_mel.png
+  GT audio:  sample_0002_actual.wav
+  Pred audio:sample_0002_pred.wav
+
+Sample 3
+  Actual:    now' thought poor alice to pretend to be two people why there's hardly enough of me to make one respectable
+  Predicted: a e e the e a to toe to theee to o a e to o o
+  CER:       0.7009
+  WER:       0.9000
+  Mel plot:  sample_0003_mel.png
+  GT audio:  sample_0003_actual.wav
+  Pred audio:sample_0003_pred.wav
+
+Sample 4
+  Actual:    poor alice to pretend to be two people why there's hardly enough of me to make one respectable person'
+  Predicted: he e  toe to toi toe toe a o to to o toe oe ta
+  CER:       0.6863
+  WER:       0.8947
+  Mel plot:  sample_0004_mel.png
+  GT audio:  sample_0004_actual.wav
+  Pred audio:sample_0004_pred.wav
+
