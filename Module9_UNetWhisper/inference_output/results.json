@@ -1,9 +1,0 @@
-{
-  "n_val": 590,
-  "cer": 0.8372817236049918,
-  "wer": 1.1071012805587892,
-  "time_s": 19.02099347114563,
-  "checkpoint": "<REPO_ROOT>/Module9_UNetWhisper/checkpoints/best_cer_model.pt",
-  "checkpoint_epoch": 9,
-  "checkpoint_val_cer": 0.8036336942558268
-}

@@ -1,0 +1,143 @@
+{
+  "args": {
+    "steps": 30000,
+    "batch": 16,
+    "lr": 0.0003,
+    "warmup": 500,
+    "eval_every": 2000,
+    "workers": 8,
+    "ema": 0.999,
+    "train_steps": 8,
+    "out_dir": "<REPO_ROOT>/capacity_bound/M22_retrieval_generator/outputs",
+    "resume": true,
+    "device": "cuda"
+  },
+  "rcfg": {
+    "ctx_s": 0.1,
+    "T": 64,
+    "min_dur_s": 0.08,
+    "max_dur_s": 2.0,
+    "min_occ": 1,
+    "max_per_word": 0,
+    "tau": 0.1,
+    "lambda_con": 1.0,
+    "lambda_corr": 1.0,
+    "retr_start": 8000,
+    "retr_ramp": 4000,
+    "train_steps": 8,
+    "eval_steps": 32,
+    "cfg_scale_eval": 2.0,
+    "gallery_per_word": 50,
+    "eval_queries": 2000
+  },
+  "n_words": 24990,
+  "mel_mean": -3.9033566187620163,
+  "mel_std": 3.8061846255227114,
+  "evals": [
+    {
+      "step": 2000,
+      "top1": 0.0045,
+      "top5": 0.019,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 4000,
+      "top1": 0.0085,
+      "top5": 0.0335,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 6000,
+      "top1": 0.008,
+      "top5": 0.0295,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 8000,
+      "top1": 0.0105,
+      "top5": 0.0335,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 10000,
+      "top1": 0.026,
+      "top5": 0.0695,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 12000,
+      "top1": 0.029,
+      "top5": 0.0785,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 14000,
+      "top1": 0.0295,
+      "top5": 0.085,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 16000,
+      "top1": 0.0335,
+      "top5": 0.0875,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 18000,
+      "top1": 0.0335,
+      "top5": 0.0925,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 20000,
+      "top1": 0.0355,
+      "top5": 0.0935,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 22000,
+      "top1": 0.031,
+      "top5": 0.096,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 24000,
+      "top1": 0.036,
+      "top5": 0.103,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 26000,
+      "top1": 0.0345,
+      "top5": 0.1,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 28000,
+      "top1": 0.038,
+      "top5": 0.0995,
+      "gallery": 172372,
+      "queries": 2000
+    },
+    {
+      "step": 30000,
+      "top1": 0.039,
+      "top5": 0.1065,
+      "gallery": 172372,
+      "queries": 2000
+    }
+  ]
+}

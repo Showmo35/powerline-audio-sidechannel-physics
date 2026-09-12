@@ -1,0 +1,22 @@
+{
+  "checkpoint": "<REPO_ROOT>/baselines/Module4_PerceptualLoss/checkpoints/best_model.pt",
+  "checkpoint_epoch": 193,
+  "checkpoint_val_loss": 1.2208969899126,
+  "n_val_samples": 2361,
+  "reconstruction": {
+    "mse_mean": 0.11767234653234482,
+    "mse_std": 0.11423599720001221,
+    "mae_mean": 0.2623836100101471,
+    "mae_std": 0.09924556314945221,
+    "corr_mean": 0.6998100175708459,
+    "corr_std": 0.12025493714694535
+  },
+  "baseline_noisy": {
+    "mse_mean": 0.32761380076408386,
+    "mae_mean": 0.45686787366867065,
+    "corr_mean": 0.6091113171916048
+  },
+  "per_sample": [
+    {
+      "idx": 0,
+      "mse": 

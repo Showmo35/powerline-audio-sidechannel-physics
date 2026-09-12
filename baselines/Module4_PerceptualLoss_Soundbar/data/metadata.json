@@ -1,0 +1,31 @@
+{
+  "soundbar_dir": "<REPO_ROOT>/data/Soundbar/LibriSpeech",
+  "audio_dir": "<REPO_ROOT>/data/audio_chunks",
+  "anchor_audio_idx": 201,
+  "exclude": [
+    24,
+    34,
+    55,
+    56
+  ],
+  "soundbar_max_idx": 75,
+  "audio_max_idx": 202,
+  "window_sec": 1.0,
+  "hop_sec": 0.25,
+  "bandpass_hz": [
+    50,
+    4000
+  ],
+  "fs_soundbar": 200000,
+  "fs_audio": 16000,
+  "n_train": 452400,
+  "n_val": 50407,
+  "spec_shape": [
+    1,
+    80,
+    98
+  ],
+  "data_format": "sharded",
+  "segment_sec": 300.0,
+  "shard_dir": "<REPO_ROOT>/baselines/Module4_PerceptualLoss_Soundbar/data/shards"
+}

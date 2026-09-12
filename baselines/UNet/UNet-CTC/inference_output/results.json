@@ -1,0 +1,8 @@
+{
+  "cer": 0.7260356259963496,
+  "wer": 1.0451688009313156,
+  "n_val": 590,
+  "checkpoint": "<REPO_ROOT>/baselines/UNet/transcribe/checkpoints/best_model.pt",
+  "checkpoint_epoch": 9,
+  "checkpoint_val_loss": 2.7562506327757963
+}

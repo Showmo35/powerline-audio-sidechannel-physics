@@ -1,0 +1,21 @@
+{
+  "ckpt": "<REPO_ROOT>/baselines/E2E/checkpoints_ctc/best_model.pt",
+  "mode_from_ckpt": "ctc",
+  "mode_used": "ctc",
+  "n_val_total": 590,
+  "n_samples_used": 5,
+  "indices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "avg_cer_ctc": 0.6567042668047097,
+  "avg_cer_seq": null,
+  "device": "cuda",
+  "predictions_tsv": "predictions.tsv",
+  "transcription_compare_txt": "transcription_compare.txt",
+  "audio_saved": true,
+  "griffin_lim_iters": 24
+}

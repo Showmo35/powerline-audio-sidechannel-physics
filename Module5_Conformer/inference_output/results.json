@@ -1,9 +1,0 @@
-{
-  "cer": 0.7145526692197666,
-  "wer": 1.1078123180812667,
-  "n_val": 590,
-  "mean_cer": 0.7304980608172483,
-  "median_cer": 0.7109772423025436,
-  "std_cer": 0.10784741696153732,
-  "checkpoint": "<REPO_ROOT>/Module5_Conformer/checkpoints/best_cer_model.pt"
-}
